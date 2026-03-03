@@ -67,7 +67,7 @@ That's hey.
   - John 20:22 — _"He breathed on them and said, 'Receive the Holy Spirit'"_ — the resurrected hey
   - Psalm 150 — The final psalm of praise, filled with "Hallelujah" (hey-ending praise)
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 5 — Hey encodes the digit 5 in verse numbers (e.g., Psalm 23:**5** = Hey)
 - **Suggested PAO:** Mary Magdalene falling at Jesus's feet (Hey = 5 = Mary's number). Mary was the first to see the risen Christ, the first to breathe in resurrection life. She's the woman of "Behold!"—the one who saw what the disciples missed. Her story is a hey-story: looking, seeing, worshipping.

@@ -66,7 +66,7 @@ That's shin.
   - Hebrews 12:29 — _"For our God is a consuming fire"_ — the shin-nature of God
   - Luke 12:49 — _"I have come to bring fire on the earth"_ — Jesus as the Shin
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 300 (3-0-0) — Shin encodes the digits 300 in verse numbers
 - **Suggested PAO:** Gideon's 300 men blowing trumpets (Shin = 300 = Gideon's army). Gideon's 300 men defeated the Midianite army with trumpets and torches—weapons that looked useless but carried God's shin-fire. The few defeated the many through divine power.

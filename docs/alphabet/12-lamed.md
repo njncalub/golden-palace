@@ -65,7 +65,7 @@ That's lamed.
   - Luke 2:46 — _"Everyone who heard him was amazed at his understanding and his answers"_ — Jesus as the boy Lamed in the temple
   - Matthew 11:29 — _"Take my yoke upon you and learn from me"_ — Jesus as the ultimate Lamed
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 30 (3-0) — Lamed encodes the digits 30 in verse numbers
 - **Suggested PAO:** Jesus as the Good Shepherd with a staff (Lamed = 30 = Jesus's teaching ministry). Jesus is the ultimate Teacher who said, _"I am the good shepherd; the good shepherd lays down his life for the sheep"_ (John 10:11). His lamed-staff guides, protects, and rescues.

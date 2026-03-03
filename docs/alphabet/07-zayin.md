@@ -65,7 +65,7 @@ That's zayin.
   - Ephesians 6:17 — _"Take the helmet of salvation and the sword of the Spirit, which is the word of God"_
   - Psalm 149:6 — _"May the praise of God be in their mouths and a double-edged sword in their hands"_
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 7 — Zayin encodes the digit 7 in verse numbers (e.g., Psalm 23:**7** = Zayin)
 - **Suggested PAO:** Gideon blowing a trumpet (Zayin = 7 = Gideon's number). Gideon is the ultimate "unlikely warrior"—the man hiding in a winepress who God called a "mighty warrior." His 300 men defeated an army with trumpets and torches. Gideon proves that God's zayin doesn't need to be impressive; it just needs to be His.

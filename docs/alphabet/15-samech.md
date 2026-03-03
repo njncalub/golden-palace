@@ -66,7 +66,7 @@ That's samech.
   - Hebrews 1:3 — _"The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word"_ — Jesus as the cosmic Samech
   - Colossians 1:17 — _"He is before all things, and in him all things hold together"_ — the samech-foundation
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 60 (6-0) — Samech encodes the digits 60 in verse numbers
 - **Suggested PAO:** Stephen the martyr being stoned while seeing heaven open (Samech = 60 = Stephen's number). Stephen saw _"the heavens opened and the Son of Man standing at the right hand of God"_ (Acts 7:56). Even as he was being killed, Stephen saw the Samech-support of God upholding him.

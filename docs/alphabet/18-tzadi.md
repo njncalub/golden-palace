@@ -66,7 +66,7 @@ That's tzadi.
   - Romans 1:17 — _"For in the gospel the righteousness of God is revealed"_ — the tzadiq-revelation
   - Luke 2:37-38 — _"She was a widow... she was now eighty-four. She never left the temple but worshiped night and day, fasting and praying"_ — Anna, the 90-year watcher
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 90 (9-0) — Tzadi encodes the digits 90 in verse numbers
 - **Suggested PAO:** Andrew casting a net into the sea (Tzadi = 90 = Andrew's number). Andrew was the first disciple called, a fisherman by trade. He caught the hook of Jesus' call and immediately began fishing for others—bringing his brother Peter to Jesus (John 1:40-42).

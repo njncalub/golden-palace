@@ -65,7 +65,7 @@ That's yod.
   - John 10:28-29 — _"No one can snatch them out of my Father's hand"_ — the yod-protection
   - Revelation 1:17 — _"I am the First and the Last. I am the Living One... Do not be afraid. I am the First and the Last."_ The yod-hand of the risen Christ
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 10 (1-0) — Yod encodes the digits 10 in verse numbers
 - **Suggested PAO:** Jesus showing His nail-scarred hands to Thomas (Yod = 10 = Jesus's number). The yod-hand of Jesus, bearing the marks of crucifixion, was the testimony that turned doubt into faith. Thomas said, _"My Lord and my God!"_ (John 20:28).

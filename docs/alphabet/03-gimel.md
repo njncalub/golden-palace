@@ -62,7 +62,7 @@ That's gimel.
   - Psalm 23 — The Gimel section is woven through themes of journey and restoration
   - Hosea 11:4 — _"I led them with cords of human kindness, with ties of love. To them I was like one who lifts a little child to the cheek"_ — the gamal (lifting/giving) of God
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 3 — Gimel encodes the digit 3 in verse numbers (e.g., Psalm 23:**3** = Gimel)
 - **Suggested PAO:** Paul riding a horse on his missionary journeys (Gimel = 3 = Paul's number). Paul is the ultimate traveler of grace, the one who "became all things to all people" (1 Corinthians 9:22). His camel-journeys spread the gospel across the known world.

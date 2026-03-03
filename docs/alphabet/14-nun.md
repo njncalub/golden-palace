@@ -66,7 +66,7 @@ That's nun.
   - John 12:24 — _"Unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds"_ — the nun-principle
   - 1 Corinthians 15:20 — _"But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep"_ — Jesus as the First-Nun
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 50 (5-0) — Nun encodes the digits 50 in verse numbers
 - **Suggested PAO:** Jonah being swallowed by a great fish (Nun = 50 = Jonah's number). Jonah is the nun-prophet—swallowed by a fish, vomited onto dry land, and sent to preach to Nineveh. The fish that became a tomb became a womb. Jonah's three days in the fish foreshadowed Jesus' three days in the tomb.

@@ -66,7 +66,7 @@ That's resh.
   - Matthew 28:18 — _"All authority in heaven and on earth has been given to me"_ — the resh-claim of Jesus
   - 1 Corinthians 15:45 — _"The first man Adam became a living being; the last Adam, a life-giving spirit"_ — Jesus as the true Resh
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 200 (2-0-0) — Resh encodes the digits 200 in verse numbers
 - **Suggested PAO:** Pontius Pilate washing his hands (Resh = 200 = Pilate's number). Pilate was the resh-ruler who refused to rule; he washed his hands of responsibility (Matthew 27:24). The resh who should have used his authority to protect justice instead used it to wash his hands. Contrast him with Jesus, the true Resh who used His authority to save.

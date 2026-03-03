@@ -65,7 +65,7 @@ That's tet.
   - John 3:14 — _"Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up"_
   - Revelation 12:9 — _"The great dragon was hurled down—that ancient serpent called the devil, or Satan"_ — the tet-defeated
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 9 — Tet encodes the digit 9 in verse numbers (e.g., Psalm 23:**9** = Tet)
 - **Suggested PAO:** Moses lifting the bronze serpent on a pole (Tet = 9 = Moses's number in this scene). Moses is the one who held up the tet—the bronze serpent that brought healing. He foreshadowed Jesus, the One lifted up so that all who look to Him live.

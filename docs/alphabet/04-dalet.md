@@ -65,7 +65,7 @@ That's dalet.
   - John 14:6 — _"I am the way and the truth and the life"_ — the doorway to the Father
   - Psalm 100:4 — _"Enter his gates with thanksgiving and his courts with praise"_ — the invitation to walk through the dalet
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 4 — Dalet encodes the digit 4 in verse numbers (e.g., Psalm 23:**4** = Dalet)
 - **Suggested PAO:** Peter standing at a door (Dalet = 4 = Peter's number). Peter is the "doorkeeper" of the early Church—he preached at Pentecost when the door opened to the Gentiles (Acts 10), and he holds the "keys to the kingdom" (Matthew 16:19). Peter is the man who stood at the Door and said, "This is the way. Walk in it."

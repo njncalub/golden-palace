@@ -66,7 +66,7 @@ That's kof.
   - Luke 1:78-79 — _"Because of the tender mercy of our God, the sunrise from on high will break upon us"_ — the kof-sunrise
   - Mark 1:24 — _"Holy One of God!"_ — Jesus as the Kof
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 100 (1-0-0) — Kof encodes the digits 100 in verse numbers
 - **Suggested PAO:** Nicodemus coming to Jesus at night (Kof = 100 = Nicodemus's number). Nicodemus was a religious leader—holy on the outside, hollow on the inside. He came to Jesus at night (John 3:1-21) and heard the words: _"You must be born again."_ The kof-choice: become truly holy or stay a monkey-mimic.

@@ -65,7 +65,7 @@ That's vav.
   - John 20:25-27 — Thomas sees the nail marks in Jesus's hands—the vav-revelation
   - Colossians 1:17 — _"He is before all things, and in him all things hold together"_ — Jesus as the cosmic Vav
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 6 — Vav encodes the digit 6 in verse numbers (e.g., Psalm 23:**6** = Vav)
 - **Suggested PAO:** Thomas touching Jesus's wounds (Vav = 6 = Thomas's number). Thomas is the "doubter turned believer" who encountered the vav—the nail marks in Jesus's hands. His story is the ultimate vav-testimony: connecting doubt to faith, connecting sight to belief. Jesus said to him, _"Stop doubting and believe"_ (John 20:27).

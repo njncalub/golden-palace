@@ -151,39 +151,61 @@ When documenting a verse entry use this format:
 
 ## Documentation Format for Hebrew Letters
 
+Each Hebrew letter file follows this structure:
+
 ```markdown
-## [Letter]: [Name]
+# [Number] - [Hebrew Character] - [Name] (#Value)
 
-**Letter:** [Hebrew character]
-**Name:** [Letter name]
-**Number:** [Gematria value]
-**Pictograph:** [Ancient picture]
-**Core meanings:** [2-3 key meanings]
-**Sound:** [Phonetic description]
+## The Picture
 
-### The ADHD Hook
+- Ancient pictograph description
+- Modern character description
 
-[The most fascinating, brain-grabbing fact about this letter]
+## The Meaning
 
-### Theological Depth
+[Paragraph describing the letter's significance]
+
+- **Meaning 1** — description
+- **Meaning 2** — description
+
+## The Sound
+
+- Pronunciation guide
+- English approximation
+
+## The Hook That Will Make This Stick
+
+[Numbered list of memorable facts about the letter]
+
+## Theological Depth
 
 [How this letter connects to Scripture and the nature of God]
 
-### Memory Anchor
+## Why You Won't Forget It
 
-[The single image that will make this letter unforgettable]
+[Vivid imagery description to help remember the letter]
 
-### Connections
+## Gematria Connections
 
-- Gematria connections: [words with same value]
-- Appears in: [key Hebrew words containing this letter]
+- Value: [number]
+- Words with same value: [list]
+- Appears in key Hebrew words:
+  - **Word** (transliteration) — meaning
+- Scripture appearances:
+  - [Verse references and quotes]
+
+## Putting It Into Practice
+
+- Major System digit: [digit] — encoding explanation
+- Suggested PAO: [Person-Action-Object description]
+- Verse encoding example: [example]
 ```
 
 ---
 
 ## Documentation Style Guidelines
 
-- **Use em-dashes for definitions and explanations** — When connecting terms to their meanings, use em-dashes (` — `) not pipes (`|`)
+- **Use em-dashes for definitions and explanations** — When connecting terms to their meanings, use em-dashes (`—`) not pipes (`|`)
   - Correct: `**Strength** — power under control`
   - Incorrect: `**Strength** | power under control`
 - **Em-dashes (—)** are the proper typographical choice for:

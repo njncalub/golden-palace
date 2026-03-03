@@ -72,7 +72,7 @@ That's tav.
   - Job 31:35 — _"Oh, that I had someone to hear me! Here is my **signature (tav)**"_ — the letter as a signature
   - Psalm 119 — The Tav section (verses 169-176) is the FINAL octave, all about finishing well, crying out to God, and finding deliverance
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** None (Tav is outside the 0 through 9 mapping for verse encoding)
 - **Suggested PAO:** Use tav for the digit 4 (since it begins with T and sounds similar to Tet/9, but the crossed-sticks image is SO much like a 4 that you could create a special rule). Alternatively, use tav as a visual modifier that adds "completion" or "cross" to any PAO scene it touches.

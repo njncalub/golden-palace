@@ -11,7 +11,7 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 ## Letter File Format
 
 ```markdown
-# [HEBREW LETTER]: [NAME] (#[Value])
+# [Number] - [Hebrew Character] - [Name] (#Value)
 
 ## The Picture
 
@@ -49,10 +49,11 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 - **Words with same value:** [Examples]
 - **Appears in key Hebrew words:** [Word examples]
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** [0-9 if applicable]
 - **Suggested PAO:** [Person-Action-Object idea]
+- **Verse encoding example:** [Optional example showing how to use this letter for verse memorization]
 ```
 
 ---

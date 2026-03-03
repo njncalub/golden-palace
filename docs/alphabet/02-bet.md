@@ -73,7 +73,7 @@ That's bet.
   - Hebrews 3:6 — _"But Christ is faithful as the Son over God's house"_ (Jesus is the Son who rules the house)
   - Psalm 119 — The Bet section (verses 9-16) begins every verse with bet, and it's all about young people staying pure by following God's Word (building the house correctly from the beginning)
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 2 — Bet encodes the digit 2 in verse numbers (e.g., Psalm 23:**2** = Bet)
 - **Suggested PAO:** David slinging a stone at Goliath (Bet = 2 = David's number). David is the ultimate "house-builder." God promised David an eternal house (2 Samuel 7), and from his line came Jesus who builds the true House. Also, David was from **Bethlehem** (House of Bread), a perfect bet connection.

@@ -66,7 +66,7 @@ That's ayin.
   - Matthew 6:22 — _"The eye is the lamp of the body"_ — the ayin-principle
   - Hebrews 4:13 — _"Nothing in all creation is hidden from God's sight"_ — the ayin-reality
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 70 (7-0) — Ayin encodes the digits 70 in verse numbers
 - **Suggested PAO:** Bartimaeus receiving his sight (Ayin = 70 = Bartimaeus's number). Bartimaeus was blind, but when he heard that Jesus was passing by, he shouted, _"Jesus, Son of David, have mercy on me!"_ (Mark 10:47). Jesus stopped, called him, and opened his ayin-eyes. The blind beggar became a seeing disciple.

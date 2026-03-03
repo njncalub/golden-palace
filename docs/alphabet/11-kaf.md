@@ -65,7 +65,7 @@ That's kaf.
   - Ruth 2:12 — _"May you be richly rewarded by the LORD, under whose wings you have come to take refuge"_
   - Matthew 23:37 — _"How often I have longed to gather your children together, as a hen gathers her chicks under her wings"_ — Jesus as the Kaf-Mother
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 20 (2-0) — Kaf encodes the digits 20 in verse numbers
 - **Suggested PAO:** Ruth at the feet of Boaz (Kaf = 20 = Ruth's number). Ruth found protection under the "wings" (kaf) of Boaz, her kinsman-redeemer. Boaz is a picture of Christ—the One whose open hand covers us and whose wings provide refuge.

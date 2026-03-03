@@ -65,7 +65,7 @@ That's chet.
   - John 10:9 — _"I am the door"_
   - Revelation 21:3 — _"God's dwelling place is now among the people"_ — the ultimate chet fulfilled
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 8 — Chet encodes the digit 8 in verse numbers (e.g., Psalm 23:**8** = Chet)
 - **Suggested PAO:** Noah building the ark (Chet = 8 = Noah's number). Noah and his family (8 people) were saved in the ark—a giant wooden chet-box that floated above the judgment. The ark was a fenced sanctuary in the midst of destruction. Noah is the man who stepped inside the chet and found life.

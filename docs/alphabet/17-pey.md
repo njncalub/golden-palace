@@ -66,7 +66,7 @@ That's pey.
   - John 1:1 — _"In the beginning was the Word"_ — Jesus as the Pey
   - Mark 4:39 — _"He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm"_ — the pey-power of Jesus
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 80 (8-0) — Pey encodes the digits 80 in verse numbers
 - **Suggested PAO:** Peter preaching at Pentecost (Pey = 80 = Peter's number). Peter, who had denied Jesus three times, now stood before thousands and proclaimed the gospel. The pey-mouth that once cursed became the pey-mouth that brought salvation to 3,000 people.

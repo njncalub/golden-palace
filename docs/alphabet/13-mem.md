@@ -68,7 +68,7 @@ That's mem.
   - John 4:14 — _"Whoever drinks the water I give them will never thirst"_ — the living Mem
   - Revelation 21:6 — _"To the thirsty I will give water without cost from the spring of the water of life"_ — the eternal mem
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 40 (4-0) — Mem encodes the digits 40 in verse numbers
 - **Suggested PAO:** Moses parting the Red Sea (Mem = 40 = Moses's number). Moses raised his staff over the mem-waters, and they parted. The water that should have been death became a doorway to deliverance. Jesus is the greater Moses who parts the waters of judgment for us.

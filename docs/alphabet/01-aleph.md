@@ -58,7 +58,7 @@ That's aleph.
   - Revelation 22:13 — _"I am the Alpha and the Omega"_ (Hebrew: _"I am the Aleph and the Tav"_)
   - Psalm 119 — The Aleph section (verses 1-8) begins every verse with aleph
 
-## Memory Palace Integration
+## Putting It Into Practice
 
 - **Major System digit:** 1 — Aleph encodes the digit 1 in verse numbers (e.g., Psalm 23:**1** = Aleph)
 - **Suggested PAO:** Moses splitting the sea (Aleph = 1 = Moses's number in the PAO system). Moses is the perfect Aleph figure, the servant-leader, the ox-strength who stood before Pharaoh and said "Let my people go." His staff was his strength, but his power came from God.
