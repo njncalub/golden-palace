@@ -6,7 +6,9 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:preview": "vitepress preview docs",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,7 @@
   },
   "homepage": "https://github.com/njncalub/golden-palace#readme",
   "devDependencies": {
+    "prettier": "^3.8.1",
     "vitepress": "^1.6.4"
   }
 }

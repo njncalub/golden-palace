@@ -1,0 +1,16 @@
+{
+  "proseWrap": "preserve",
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "overrides": [
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "preserve",
+        "tabWidth": 2
+      }
+    }
+  ]
+}

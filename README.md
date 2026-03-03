@@ -1,6 +1,6 @@
 # Golden Palace
 
-> *"I have hidden your word in my heart that I might not sin against you."*
+> _"I have hidden your word in my heart that I might not sin against you."_
 > — Psalm 119:11
 
 A personal scripture memorization system built on Hebrew pictographs, gematria, PAO library, and mind palace architecture.
@@ -20,7 +20,7 @@ It combines:
 
 The goal is not to impress anyone with scripture recall. The goal is to build what Jesus had in Matthew 4, an **internal arsenal** drawn from without a scroll in hand.
 
-*"It is written. It is written. It is written."*
+_"It is written. It is written. It is written."_
 
 ---
 
@@ -60,7 +60,7 @@ Unlike the English Major System (which assigns arbitrary consonant sounds to dig
 | 6     | Vav (ו)       | Nail           | The connector, center of Torah    |
 | 7     | Zayin (ז)     | Sword          | Word that cuts AND feeds          |
 | 8     | Chet (ח)      | Fence/womb     | New beginnings in protected space |
-| 9     | Tet (ט)       | Coiled serpent | Hidden, contained, gestating     |
+| 9     | Tet (ט)       | Coiled serpent | Hidden, contained, gestating      |
 
 Two digits = two letters = one combined vivid scene.
 Three digits = three letters = one full PAO scene.
@@ -133,13 +133,13 @@ This system is a **cognitive tool** built on the created order God designed into
 
 Modeled on Deuteronomy 6:7, ancient spaced repetition:
 
-> *"Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."*
+> _"Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."_
 
-| Time           | Review Action                                       |
-| -------------- | --------------------------------------------------- |
+| Time           | Review Action                                      |
+| -------------- | -------------------------------------------------- |
 | Morning (wake) | Walk palace mentally, full review                  |
-| Commute/Walk   | Vocalize current verse set aloud                    |
-| Evening        | Write current week's verses by hand                 |
+| Commute/Walk   | Vocalize current verse set aloud                   |
+| Evening        | Write current week's verses by hand                |
 | Before sleep   | Meditate on single verse, no system, just presence |
 
 ---
@@ -150,10 +150,10 @@ Genesis 1:1 contains a word that no English Bible translates:
 
 **אֵת** (Aleph-Tav), the first and last letters of the Hebrew alphabet, appearing silently over 7,000 times in the Hebrew Bible.
 
-> *"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."*
+> _"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."_
 > — Revelation 22:13
 
-In Hebrew: *"I am the Aleph and the Tav."*
+In Hebrew: _"I am the Aleph and the Tav."_
 
 From the first sentence of Genesis, before the law, before the prophets, before Bethlehem, He signed His name into the text. This entire palace is built around that signature.
 
@@ -161,5 +161,5 @@ Everything documented here is an attempt to find what He hid, and to carry it in
 
 ---
 
-> *"It is the glory of God to conceal a matter; to search out a matter is the glory of kings."*
+> _"It is the glory of God to conceal a matter; to search out a matter is the glory of kings."_
 > — Proverbs 25:2

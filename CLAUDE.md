@@ -6,7 +6,7 @@ This is a **personal scripture memorization system** built by a Pentecostal beli
 
 The name **Golden Palace** refers to the mind palace memory technique applied to God's Word. Gold was the material of the Holy of Holies, the inner sanctuary where God's presence dwelt. This repository is that inner sanctuary in digital form.
 
-> *"I have hidden your word in my heart that I might not sin against you."*
+> _"I have hidden your word in my heart that I might not sin against you."_
 > — Psalm 119:11
 
 ---
@@ -15,19 +15,26 @@ The name **Golden Palace** refers to the mind palace memory technique applied to
 
 ```
 golden-palace/
-├── alphabet/           # Hebrew alephbet, letter by letter documentation
-├── gematria/           # Gematria connections and theological discoveries
-├── pao/                # PAO system library (Person, Action, Object)
-│   ├── biblical/       # Biblical figures PAO entries
-│   └── modern/         # Modern figures PAO entries (pastors, teachers)
-├── major-system/       # Hebrew Major System, digits 0 through 9 mapped to Hebrew letters
-├── palaces/            # Mind palace locations and their assigned verses
-│   ├── home/
-│   ├── church/
-│   └── custom/
-├── verses/             # Individual verse memory entries
-├── theology/           # Deep-dive notes on Hebrew pictograph theology
-└── review/             # Spaced repetition logs and review schedules
+├── .prettierrc             # Prettier configuration
+├── .vscode/
+│   └── settings.json       # VSCode settings (format on save)
+├── docs/
+│   ├── alphabet/           # Hebrew alephbet, letter by letter documentation
+│   ├── gematria/           # Gematria connections and theological discoveries
+│   ├── pao/                # PAO system library (Person, Action, Object)
+│   │   ├── biblical/       # Biblical figures PAO entries
+│   │   └── modern/         # Modern figures PAO entries (pastors, teachers)
+│   ├── major-system/       # Hebrew Major System, digits 0 through 9 mapped to Hebrew letters
+│   ├── palaces/            # Mind palace locations and their assigned verses
+│   │   ├── home/
+│   │   ├── church/
+│   │   └── custom/
+│   ├── verses/             # Individual verse memory entries
+│   ├── theology/           # Deep-dive notes on Hebrew pictograph theology
+│   └── review/             # Spaced repetition logs and review schedules
+├── CLAUDE.md               # This file
+├── package.json            # Project scripts and dependencies
+└── README.md               # Project overview
 ```
 
 ---
@@ -74,6 +81,14 @@ golden-palace/
 4. **Gematria integration** | numerical values add theological depth to memory images
 5. **Pictographic layer** | Hebrew letter pictures are the foundation of all visual memory pegs
 6. **Spaced repetition** | review schedules follow the Deuteronomy 6:7 pattern (morning, walking, evening, waking)
+
+### Code Formatting
+
+This project uses Prettier. When editing files, run formatting afterward:
+
+```bash
+npm run format
+```
 
 ---
 
@@ -174,7 +189,7 @@ When documenting a verse entry use this format:
 
 ## Project Vision
 
-This system is not about impressing people with scripture recall. It is about building an **internal arsenal**, the same arsenal Jesus drew from in Matthew 4 when He said three times *"It is written"* without a scroll in His hand.
+This system is not about impressing people with scripture recall. It is about building an **internal arsenal**, the same arsenal Jesus drew from in Matthew 4 when He said three times _"It is written"_ without a scroll in His hand.
 
 The dangerous Christian is the one who has the Word **on the inside**.
 

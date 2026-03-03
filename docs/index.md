@@ -4,7 +4,7 @@ title: Golden Palace
 
 # Golden Palace
 
-> *"I have hidden your word in my heart that I might not sin against you."*
+> _"I have hidden your word in my heart that I might not sin against you."_
 > — Psalm 119:11
 
 A personal scripture memorization system built on Hebrew pictographs, gematria, PAO library, and mind palace architecture.
@@ -30,14 +30,14 @@ Genesis 1:1 contains a word that no English Bible translates:
 
 **אֵת** (Aleph-Tav), the first and last letters of the Hebrew alphabet, appearing silently over 7,000 times in the Hebrew Bible.
 
-> *"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."*
+> _"I am the Alpha and the Omega, the First and the Last, the Beginning and the End."_
 > — Revelation 22:13
 
-In Hebrew: *"I am the Aleph and the Tav."*
+In Hebrew: _"I am the Aleph and the Tav."_
 
 From the first sentence of Genesis, before the law, before the prophets, before Bethlehem, He signed His name into the text.
 
 ---
 
-> *"It is the glory of God to conceal a matter; to search out a matter is the glory of kings."*
+> _"It is the glory of God to conceal a matter; to search out a matter is the glory of kings."_
 > — Proverbs 25:2
