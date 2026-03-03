@@ -1,4 +1,8 @@
-# Format Template for Alphabet Directory
+---
+draft: true
+---
+
+# Alphabet Directory — Format Template
 
 This directory contains documentation for each letter of the Hebrew alephbet. Each letter file follows the format below.
 
@@ -17,6 +21,7 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 ## The Meaning
 
 [Pictographic meaning, covering 2 to 3 core concepts]
+
 - [Meaning 1]
 - [Meaning 2]
 - [Meaning 3]
@@ -82,5 +87,6 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 Format: `[two-digit position]-[transliterated-name].md`
 
 Examples:
+
 - `01-aleph.md` through `22-tav.md` (regular letters)
 - `23-kaf-sofit.md` through `27-tzadi-sofit.md` (final forms)

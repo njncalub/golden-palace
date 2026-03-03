@@ -8,7 +8,7 @@ Genesis 1:1 in Hebrew:
 
 > **בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ**
 
-*"In the beginning God created the heavens and the earth."*
+_"In the beginning God created the heavens and the earth."_
 
 Every word in that sentence is translated into English **except one**.
 
