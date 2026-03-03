@@ -49,6 +49,10 @@ golden-palace/
 - Reference authorized pastors and teachers where relevant (see below)
 - Avoid dry academic tone | this is devotional and alive
 
+### Git Operations
+
+**NEVER suggest or run `git add`, `git commit`, or `git push`** | the user controls all git operations
+
 ### Theological Framework
 
 - **Primary source:** The Bible (all scripture references should include book, chapter, verse)
