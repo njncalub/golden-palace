@@ -1,4 +1,4 @@
-# ב: Bet (#2)
+# 02 - ב - Bet (#2)
 
 ## The Picture
 
@@ -18,7 +18,7 @@ The bet is the picture of a dwelling place, a home, a family, a container for li
 - **Pronunciation:** "B" (like "boy" or "house" in Hebrew)
 - **English approximation:** The b-sound you make when your lips come together, like closing a door
 
-## 🤯 ADHD BOMB(S)
+## The Hook That Will Make This Stick
 
 1. **The FIRST letter of Torah is Bet.** Genesis 1:1 begins: _Bereshit bara Elohim_ — "In the beginning God created..." The FIRST word of the ENTIRE Bible starts with Bet. Not Aleph. Bet. Why? Because God didn't begin with Himself (Aleph = 1). He began with a **house**. God's first act wasn't to say "I am." His first act was to say "I'm making a home." The universe is God's house, and He made it for us.
 

@@ -61,30 +61,30 @@ The 22 letters of the Hebrew alphabet are the building blocks of God's written r
 
 This is not mysticism. It is how God architectured the language He used to reveal Himself.
 
-| #   | Letter | Name   | Value | Pictograph      | Core Meaning                          | File                       |
-| --- | ------ | ------ | ----- | --------------- | ------------------------------------- | -------------------------- |
-| 01  | א      | Aleph  | 1     | Ox head         | Strength, First, God                  | [01-aleph.md](01-aleph.md) |
-| 02  | ב      | Bet    | 2     | House           | Home, Family, Container               | [02-bet.md](02-bet.md)     |
-| 03  | ג      | Gimel  | 3     | Camel           | Grace, Reward, To lift up             | —                          |
-| 04  | ד      | Dalet  | 4     | Door            | Pathway, Entry, Threshold             | —                          |
-| 05  | ה      | Hey    | 5     | Arms raised     | Behold, Breath, Revelation            | —                          |
-| 06  | ו      | Vav    | 6     | Nail/Connector  | To join, Hook, And                    | —                          |
-| 07  | ז      | Zayin  | 7     | Sword           | Weapon, To cut, To nourish            | —                          |
-| 08  | ח      | Chet   | 8     | Fence/Enclosure | Life, Inner chamber, Sanctuary        | —                          |
-| 09  | ט      | Tet    | 9     | Serpent         | To coil, To surround, Hidden          | —                          |
-| 10  | י      | Yod    | 10    | Hand/Arm        | Work, Deed, Power                     | —                          |
-| 11  | כ      | Kaf    | 20    | Palm of hand    | To cover, To bend, Wing               | —                          |
-| 12  | ל      | Lamed  | 30    | Ox goad/staff   | To teach, To prod, Authority          | —                          |
-| 13  | מ      | Mem    | 40    | Water           | Chaos, Mighty, Blood                  | —                          |
-| 14  | נ      | Nun    | 50    | Seed/Sprout     | Life, Continuity, Heir                | —                          |
-| 15  | ס      | Samech | 60    | Prop/support    | To uphold, Foundation, Divine support | —                          |
-| 16  | ע      | Ayin   | 70    | Eye             | To see, Sight, Providence             | —                          |
-| 17  | פ      | Pey    | 80    | Mouth           | To speak, Word, Expression            | —                          |
-| 18  | צ      | Tzadi  | 90    | Fish hook       | Righteousness, To hunt, Desire        | —                          |
-| 19  | ק      | Kof    | 100   | Monkey/Sun halo | Behind, Holiness, Eye of needle       | —                          |
-| 20  | ר      | Resh   | 200   | Head            | Person, Chief, Beginning              | —                          |
-| 21  | ש      | Shin   | 300   | Teeth           | To consume, To destroy, Fire          | —                          |
-| 22  | ת      | Tav    | 400   | Crossed sticks  | Sign, Mark, Covenant, Cross           | [22-tav.md](22-tav.md)     |
+| #   | Letter | Name   | Value | Pictograph      | Core Meaning                          | File                         |
+| --- | ------ | ------ | ----- | --------------- | ------------------------------------- | ---------------------------- |
+| 01  | א      | Aleph  | 1     | Ox head         | Strength, First, God                  | [01-aleph.md](01-aleph.md)   |
+| 02  | ב      | Bet    | 2     | House           | Home, Family, Container               | [02-bet.md](02-bet.md)       |
+| 03  | ג      | Gimel  | 3     | Camel           | Grace, Reward, To lift up             | [03-gimel.md](03-gimel.md)   |
+| 04  | ד      | Dalet  | 4     | Door            | Pathway, Entry, Threshold             | [04-dalet.md](04-dalet.md)   |
+| 05  | ה      | Hey    | 5     | Arms raised     | Behold, Breath, Revelation            | [05-hey.md](05-hey.md)       |
+| 06  | ו      | Vav    | 6     | Nail/Connector  | To join, Hook, And                    | [06-vav.md](06-vav.md)       |
+| 07  | ז      | Zayin  | 7     | Sword           | Weapon, To cut, To nourish            | [07-zayin.md](07-zayin.md)   |
+| 08  | ח      | Chet   | 8     | Fence/Enclosure | Life, Inner chamber, Sanctuary        | [08-chet.md](08-chet.md)     |
+| 09  | ט      | Tet    | 9     | Serpent         | To coil, To surround, Hidden          | [09-tet.md](09-tet.md)       |
+| 10  | י      | Yod    | 10    | Hand/Arm        | Work, Deed, Power                     | [10-yod.md](10-yod.md)       |
+| 11  | כ      | Kaf    | 20    | Palm of hand    | To cover, To bend, Wing               | [11-kaf.md](11-kaf.md)       |
+| 12  | ל      | Lamed  | 30    | Ox goad/staff   | To teach, To prod, Authority          | [12-lamed.md](12-lamed.md)   |
+| 13  | מ      | Mem    | 40    | Water           | Chaos, Mighty, Blood                  | [13-mem.md](13-mem.md)       |
+| 14  | נ      | Nun    | 50    | Seed/Sprout     | Life, Continuity, Heir                | [14-nun.md](14-nun.md)       |
+| 15  | ס      | Samech | 60    | Prop/support    | To uphold, Foundation, Divine support | [15-samech.md](15-samech.md) |
+| 16  | ע      | Ayin   | 70    | Eye             | To see, Sight, Providence             | [16-ayin.md](16-ayin.md)     |
+| 17  | פ      | Pey    | 80    | Mouth           | To speak, Word, Expression            | [17-pey.md](17-pey.md)       |
+| 18  | צ      | Tzadi  | 90    | Fish hook       | Righteousness, To hunt, Desire        | [18-tzadi.md](18-tzadi.md)   |
+| 19  | ק      | Kof    | 100   | Monkey/Sun halo | Behind, Holiness, Eye of needle       | [19-kof.md](19-kof.md)       |
+| 20  | ר      | Resh   | 200   | Head            | Person, Chief, Beginning              | [20-resh.md](20-resh.md)     |
+| 21  | ש      | Shin   | 300   | Teeth           | To consume, To destroy, Fire          | [21-shin.md](21-shin.md)     |
+| 22  | ת      | Tav    | 400   | Crossed sticks  | Sign, Mark, Covenant, Cross           | [22-tav.md](22-tav.md)       |
 
 ---
 

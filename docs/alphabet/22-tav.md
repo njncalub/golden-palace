@@ -1,4 +1,4 @@
-# ת: Tav (#400)
+# 22 - ת - Tav (#400)
 
 ## The Picture
 
@@ -18,7 +18,7 @@ The tav is the picture of a mark, a sign, a seal, something that confirms owners
 - **Pronunciation:** "T" (like "tower" or "mark")
 - **English approximation:** The sharp t-sound, like marking something with a stamp or seal
 
-## 🤯 ADHD BOMB(S)
+## The Hook That Will Make This Stick
 
 1. **The LAST letter's pictograph is TWO CROSSED STICKS.** Think about this: God chose as the FINAL letter of His alphabet, the letter that means "completion," "the end," "the seal," a picture of **two crossed sticks**. The cross was not an afterthought. The cross was baked into the alphabet from the beginning. Before Adam sinned, before Abraham believed, before Moses received the law, the alphabet already had the tav in it, waiting.
 

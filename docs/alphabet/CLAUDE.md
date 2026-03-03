@@ -31,7 +31,7 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 - **Pronunciation:** [Phonetic description]
 - **English approximation:** [relatable sound example]
 
-## 🤯 ADHD BOMB(S)
+## The Hook That Will Make This Stick
 
 [The most fascinating, brain-grabbing fact(s) about this letter; can be one or multiple]
 

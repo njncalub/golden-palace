@@ -1,4 +1,4 @@
-# א: Aleph (#1)
+# 01 - א - Aleph (#1)
 
 ## The Picture
 
@@ -18,7 +18,7 @@ The aleph is the picture of strength, leadership, and primacy. The ox was the st
 - **Pronunciation:** Silent (a glottal stop, like the catch in your throat between "uh-oh")
 - **English approximation:** The letter itself makes no sound, it's the breath before words begin
 
-## 🤯 ADHD BOMB(S)
+## The Hook That Will Make This Stick
 
 1. **Aleph is silent, but it's FIRST.** God's first letter is silent. The Creator of the universe chose to introduce Himself with silence. The "still small voice" (1 Kings 19:12) was baked into the alphabet from day one. The loudest statement God makes is silence, the space before words, the pause before power.
 
