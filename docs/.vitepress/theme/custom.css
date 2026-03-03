@@ -1,0 +1,6 @@
+/* Single line horizontal rule */
+hr {
+  border-top: 1px solid var(--vp-c-divider);
+  border-bottom: none;
+  margin: 24px 0;
+}
