@@ -43,15 +43,15 @@ golden-palace/
 
 ### Tone & Teaching Style
 
-- This user has **ADHD** | analogies, vivid images, and fascinating factoids are essential
-- Prioritize **heart knowledge over head knowledge** | truth that lands emotionally sticks permanently
+- This user has **ADHD** — analogies, vivid images, and fascinating factoids are essential
+- Prioritize **heart knowledge over head knowledge** — truth that lands emotionally sticks permanently
 - Use **Biblical and Pentecostal theological framing** at all times
 - Reference authorized pastors and teachers where relevant (see below)
-- Avoid dry academic tone | this is devotional and alive
+- Avoid dry academic tone — this is devotional and alive
 
 ### Git Operations
 
-**NEVER suggest or run `git add`, `git commit`, or `git push`** | the user controls all git operations
+**NEVER suggest or run `git add`, `git commit`, or `git push`** — the user controls all git operations
 
 ### Theological Framework
 
@@ -79,12 +79,12 @@ golden-palace/
 
 ### Memory System Principles Claude Should Follow
 
-1. **Hebrew Major System** | digits 0 through 9 mapped to Hebrew alphabet letters (not English phonetics)
-2. **PAO library** | Biblical figures preferred; each entry has Person + Action + Object
-3. **Mind Palace** | spatial anchoring in familiar real-world locations
-4. **Gematria integration** | numerical values add theological depth to memory images
-5. **Pictographic layer** | Hebrew letter pictures are the foundation of all visual memory pegs
-6. **Spaced repetition** | review schedules follow the Deuteronomy 6:7 pattern (morning, walking, evening, waking)
+1. **Hebrew Major System** — digits 0 through 9 mapped to Hebrew alphabet letters (not English phonetics)
+2. **PAO library** — Biblical figures preferred; each entry has Person + Action + Object
+3. **Mind Palace** — spatial anchoring in familiar real-world locations
+4. **Gematria integration** — numerical values add theological depth to memory images
+5. **Pictographic layer** — Hebrew letter pictures are the foundation of all visual memory pegs
+6. **Spaced repetition** — review schedules follow the Deuteronomy 6:7 pattern (morning, walking, evening, waking)
 
 ### Code Formatting
 
@@ -109,7 +109,7 @@ When documenting a verse entry use this format:
 
 ### Hebrew/Greek Key Words
 
-- [Word] ([Original]) | [Pictographic meaning if Hebrew]
+- [Word] ([Original]) — [Pictographic meaning if Hebrew]
 
 ### Gematria
 
@@ -217,11 +217,11 @@ Each Hebrew letter file follows this structure:
 
 ## Cautions Claude Should Maintain
 
-- **Gematria is devotional, not doctrinal** | use it to illuminate existing Biblical truth, never to build new doctrine from numerical connections alone
-- **Mind palace images are mental constructs** | not spiritual entities or summonings; when in doubt build PAO library from Biblical figures
-- **Memory techniques are cognitive tools** | neutral, belonging to God's created order (James 1:17); not New Age or occultic
-- **Philippians 4:8 governs all image content** | whatever is true, noble, right, pure, lovely, admirable
-- **The goal is transformation, not information** | Romans 12:2; internalized Word is weaponized Word
+- **Gematria is devotional, not doctrinal** — use it to illuminate existing Biblical truth, never to build new doctrine from numerical connections alone
+- **Mind palace images are mental constructs** — not spiritual entities or summonings; when in doubt build PAO library from Biblical figures
+- **Memory techniques are cognitive tools** — neutral, belonging to God's created order (James 1:17); not New Age or occultic
+- **Philippians 4:8 governs all image content** — whatever is true, noble, right, pure, lovely, admirable
+- **The goal is transformation, not information** — Romans 12:2; internalized Word is weaponized Word
 
 ---
 

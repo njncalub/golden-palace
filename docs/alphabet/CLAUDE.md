@@ -6,8 +6,6 @@ draft: true
 
 This directory contains documentation for each letter of the Hebrew alephbet. Each letter file follows the format below.
 
----
-
 ## Letter File Format
 
 ```markdown
@@ -56,8 +54,6 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 - **Verse encoding example:** [Optional example showing how to use this letter for verse memorization]
 ```
 
----
-
 ## Format Guidelines
 
 ### ADHD Engagement
@@ -80,8 +76,6 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 
 - **PAO seed** | Suggest Person/Action/Object using this letter
 - **Cross-letter combinations** | How this combines with others
-
----
 
 ## File Naming Convention
 

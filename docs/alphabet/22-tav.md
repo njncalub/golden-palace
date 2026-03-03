@@ -78,8 +78,6 @@ That's tav.
 - **Suggested PAO:** Use tav for the digit 4 (since it begins with T and sounds similar to Tet/9, but the crossed-sticks image is SO much like a 4 that you could create a special rule). Alternatively, use tav as a visual modifier that adds "completion" or "cross" to any PAO scene it touches.
 - **Verse encoding example:** Psalm 22 — The chapter of the crucifixion ("My God, my God, why have you forsaken me?"). Psalm 22:1 begins with Aleph (01), and the chapter number (22) is the VALUE of tav. The cross chapter is marked with the tav number.
 
----
-
 ## The Aleph-Tav Bookend
 
 Together, Aleph (01) and Tav (22) frame the entire alphabet:

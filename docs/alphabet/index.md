@@ -1,4 +1,4 @@
-# The Hebrew Alphabet For The ADHD Brain 🔥
+# Getting Started With The Hebrew Alphabet
 
 ## The Hook That Will Break Your Brain
 
@@ -36,8 +36,6 @@ From the very first sentence of Genesis, before the law, before the prophets, be
 
 **That is the alphabet you're about to learn.**
 
----
-
 ## The Second Brain-Breaking Thing
 
 The Hebrew alphabet is not just letters.
@@ -47,8 +45,6 @@ The Hebrew alphabet is not just letters.
 Read the pictographic meanings of all 22 letters in sequence and they tell a complete narrative. Scholars and rabbis have wrestled with this for centuries. When you see what the story is, you will not forget a single letter. Ever.
 
 We'll get there. But first, the letters themselves.
-
----
 
 ## Quick Reference Table
 
@@ -86,8 +82,6 @@ This is not mysticism. It is how God architectured the language He used to revea
 | 21  | ש      | Shin   | 300   | Teeth           | To consume, To destroy, Fire          | [21-shin.md](21-shin.md)     |
 | 22  | ת      | Tav    | 400   | Crossed sticks  | Sign, Mark, Covenant, Cross           | [22-tav.md](22-tav.md)       |
 
----
-
 ## Final Forms (Sofit)
 
 | #   | Letter | Name        | Value | When Used   | File |
@@ -97,8 +91,6 @@ This is not mysticism. It is how God architectured the language He used to revea
 | 25  | ן      | Nun Sofit   | 700   | End of word | —    |
 | 26  | ף      | Pey Sofit   | 800   | End of word | —    |
 | 27  | ץ      | Tzadi Sofit | 900   | End of word | —    |
-
----
 
 ## Theological Themes
 
@@ -122,8 +114,6 @@ Read pictographically: **"The Hand, Behold! The Nail, Behold!"**
 - Psalm 119 | Each verse of each octave begins with the same Hebrew letter (22 sections × 8 verses)
 - The Acrostic Psalms | 9, 10, 25, 34, 37, 111, 112, 119, 145
 - Proverbs 31 | The virtuous woman passage (22 verses)
-
----
 
 ## Memory Integration
 
@@ -150,8 +140,6 @@ Each letter corresponds to a digit 0 through 9 for verse encoding:
 - **Commute (walk):** Vocalize current letters aloud
 - **Evening (sit):** Write current letters by hand
 - **Before sleep (lie down):** Meditate on one letter
-
----
 
 > _"Open my eyes that I may see wonderful things in your law."_
 > — Psalm 119:18

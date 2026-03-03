@@ -21,7 +21,7 @@ export default defineConfig({
       {
         text: "Hebrew Alphabet",
         items: [
-          { text: "Index", link: "/alphabet/" },
+          { text: "Getting Started", link: "/alphabet/" },
           { text: "01 - א - Aleph (#1)", link: "/alphabet/01-aleph" },
           { text: "02 - ב - Bet (#2)", link: "/alphabet/02-bet" },
           { text: "03 - ג - Gimel (#3)", link: "/alphabet/03-gimel" },
