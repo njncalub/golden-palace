@@ -9,10 +9,10 @@
 
 The shin is the picture of teeth, of consuming, of fire, and of the divine presence. It represents the power to destroy, to purify, and to consume that which stands against God.
 
-- **Teeth** | the instruments of eating, consuming, devouring
-- **Fire** | the purifying flame, the presence of God
-- **To consume/destroy** | to burn up, to devour
-- **Shaddai** | one of God's names, meaning "the Almighty"
+- **Teeth** — the instruments of eating, consuming, devouring
+- **Fire** — the purifying flame, the presence of God
+- **To consume/destroy** — to burn up, to devour
+- **Shaddai** — one of God's names, meaning "the Almighty"
 
 ## The Sound
 
@@ -33,13 +33,13 @@ The shin is the picture of teeth, of consuming, of fire, and of the divine prese
 
 The teeth, fire, and consuming imagery appears throughout Scripture:
 
-- **The Fire of God** | Exodus 3:2-6 — The bush that burned but was not consumed. The shin-fire of God that purifies but does not destroy.
+- **The Fire of God** — Exodus 3:2-6 — The bush that burned but was not consumed. The shin-fire of God that purifies but does not destroy.
 
-- **The Consuming Fire** | Hebrews 12:29 — _"For our God is a consuming fire."_ The shin-presence of God burns away impurity.
+- **The Consuming Fire** — Hebrews 12:29 — _"For our God is a consuming fire."_ The shin-presence of God burns away impurity.
 
-- **The Tongues of Fire** | Acts 2:3-4 — _"They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit."_ The shin-fire of Pentecost.
+- **The Tongues of Fire** — Acts 2:3-4 — _"They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit."_ The shin-fire of Pentecost.
 
-- **Jesus as Fire** | Luke 12:49 — _"I have come to bring fire on the earth, and how I wish it were already kindled!"_ Jesus is the Shin-baptizer (Matthew 3:11).
+- **Jesus as Fire** — Luke 12:49 — _"I have come to bring fire on the earth, and how I wish it were already kindled!"_ Jesus is the Shin-baptizer (Matthew 3:11).
 
 Jesus is our Shin. He is the Baptizer with the Holy Spirit and fire (Matthew 3:11). He said, _"I came to bring fire on the earth"_ (Luke 12:49). The shin-fire of Jesus purifies, empowers, and transforms.
 
@@ -56,18 +56,18 @@ That's shin.
 - **Value:** 300
 - **Words with same value:** Shin (teeth/fire), Shaddai (Almighty), Shekinah (presence)
 - **Appears in key Hebrew words:**
-  - **Shaddai** (שדי) | Almighty, the Sufficient One
-  - **Shekinah** (שכינה) | God's manifest presence
-  - **Shalom** (שלום) | Peace—the fruit of God's presence
-  - **Shavuot** (שבועות) | Pentecost—the feast of fire
+  - **Shaddai** (שדי) — Almighty, the Sufficient One
+  - **Shekinah** (שכינה) — God's manifest presence
+  - **Shalom** (שלום) — Peace—the fruit of God's presence
+  - **Shavuot** (שבועות) — Pentecost—the feast of fire
 - **Scripture appearances:**
-  - Exodus 3:2-6 | _"There the angel of the LORD appeared to him in flames of fire from within a bush"_ — the shin-encounter
-  - Acts 2:3-4 | _"They saw what seemed to be tongues of fire that separated and came to rest on each of them"_ — the shin-outpouring
-  - Hebrews 12:29 | _"For our God is a consuming fire"_ — the shin-nature of God
-  - Luke 12:49 | _"I have come to bring fire on the earth"_ — Jesus as the Shin
+  - Exodus 3:2-6 — _"There the angel of the LORD appeared to him in flames of fire from within a bush"_ — the shin-encounter
+  - Acts 2:3-4 — _"They saw what seemed to be tongues of fire that separated and came to rest on each of them"_ — the shin-outpouring
+  - Hebrews 12:29 — _"For our God is a consuming fire"_ — the shin-nature of God
+  - Luke 12:49 — _"I have come to bring fire on the earth"_ — Jesus as the Shin
 
 ## Memory Palace Integration
 
-- **Major System digit:** 300 (3-0-0) | Shin encodes the digits 300 in verse numbers
+- **Major System digit:** 300 (3-0-0) — Shin encodes the digits 300 in verse numbers
 - **Suggested PAO:** Gideon's 300 men blowing trumpets (Shin = 300 = Gideon's army). Gideon's 300 men defeated the Midianite army with trumpets and torches—weapons that looked useless but carried God's shin-fire. The few defeated the many through divine power.
-- **Verse encoding example:** Acts 2:3-4 | The shin-verse: _"They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit."_
+- **Verse encoding example:** Acts 2:3-4 — The shin-verse: _"They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit."_

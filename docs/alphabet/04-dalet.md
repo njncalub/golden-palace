@@ -9,9 +9,9 @@
 
 The dalet is the picture of a doorway, an entrance, a pathway from one realm to another. It represents decision, movement through transition, and the power of choice.
 
-- **Door/Entrance** | a place of passing through, a threshold
-- **Pathway** | the way forward, the road of life
-- **Decision** | the act of choosing to enter or exit
+- **Door/Entrance** — a place of passing through, a threshold
+- **Pathway** — the way forward, the road of life
+- **Decision** — the act of choosing to enter or exit
 
 ## The Sound
 
@@ -32,13 +32,13 @@ The dalet is the picture of a doorway, an entrance, a pathway from one realm to 
 
 The image of the door appears throughout Scripture:
 
-- **The Passover Door** | In Exodus 12, the Israelites marked their doorposts with blood. The _dalet_ became the place of deliverance. The Destroyer passed over the houses with blood-marked doors. That night, a door saved a nation.
+- **The Passover Door** — In Exodus 12, the Israelites marked their doorposts with blood. The _dalet_ became the place of deliverance. The Destroyer passed over the houses with blood-marked doors. That night, a door saved a nation.
 
-- **The Door of the Sheep** | Jesus said, _"Very truly I tell you, whoever does not enter the sheep pen by the door, but climbs in by some other way, is a thief and a robber"_ (John 10:1). There is only one legitimate Dalet.
+- **The Door of the Sheep** — Jesus said, _"Very truly I tell you, whoever does not enter the sheep pen by the door, but climbs in by some other way, is a thief and a robber"_ (John 10:1). There is only one legitimate Dalet.
 
-- **The Open Door** | Revelation 3:8 — _"See, I have placed before you an open door that no one can shut."_ The Dalet of God cannot be closed by human opposition.
+- **The Open Door** — Revelation 3:8 — _"See, I have placed before you an open door that no one can shut."_ The Dalet of God cannot be closed by human opposition.
 
-- **The Door of Faith** | Acts 14:27 — Paul and Barnabas reported _"how God had opened the door of faith to the Gentiles"_. The dalet swings both ways—for Jews and Gentiles alike.
+- **The Door of Faith** — Acts 14:27 — Paul and Barnabas reported _"how God had opened the door of faith to the Gentiles"_. The dalet swings both ways—for Jews and Gentiles alike.
 
 Every dalet in Scripture points to the truth: **You must choose to enter.** God doesn't force you through the door. He places it before you, blood-stained and open, and invites you to walk through.
 
@@ -55,18 +55,18 @@ That's dalet.
 - **Value:** 4
 - **Words with same value:** Dalet (door), David (beloved), Derech (way/path)
 - **Appears in key Hebrew words:**
-  - **Dalet** (דלת) | Door, the letter is its own name
-  - **David** (דוד) | Beloved, the king whose name contains two doors
-  - **Derekh** (דרך) | Way, path, or road—the journey through the door
-  - **Davar** (דבר) | Word, God's word is the doorway to truth
+  - **Dalet** (דלת) — Door, the letter is its own name
+  - **David** (דוד) — Beloved, the king whose name contains two doors
+  - **Derekh** (דרך) — Way, path, or road—the journey through the door
+  - **Davar** (דבר) — Word, God's word is the doorway to truth
 - **Scripture appearances:**
-  - Exodus 12:7 | _"Take some of the blood and put it on the sides and tops of the doorframes of the houses"_ — the dalet of deliverance
-  - John 10:9 | _"I am the door"_
-  - John 14:6 | _"I am the way and the truth and the life"_ — the doorway to the Father
-  - Psalm 100:4 | _"Enter his gates with thanksgiving and his courts with praise"_ — the invitation to walk through the dalet
+  - Exodus 12:7 — _"Take some of the blood and put it on the sides and tops of the doorframes of the houses"_ — the dalet of deliverance
+  - John 10:9 — _"I am the door"_
+  - John 14:6 — _"I am the way and the truth and the life"_ — the doorway to the Father
+  - Psalm 100:4 — _"Enter his gates with thanksgiving and his courts with praise"_ — the invitation to walk through the dalet
 
 ## Memory Palace Integration
 
-- **Major System digit:** 4 | Dalet encodes the digit 4 in verse numbers (e.g., Psalm 23:**4** = Dalet)
+- **Major System digit:** 4 — Dalet encodes the digit 4 in verse numbers (e.g., Psalm 23:**4** = Dalet)
 - **Suggested PAO:** Peter standing at a door (Dalet = 4 = Peter's number). Peter is the "doorkeeper" of the early Church—he preached at Pentecost when the door opened to the Gentiles (Acts 10), and he holds the "keys to the kingdom" (Matthew 16:19). Peter is the man who stood at the Door and said, "This is the way. Walk in it."
-- **Verse encoding example:** Revelation 3:20 | _"Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in."_ The Door Himself, knocking at our dalet.
+- **Verse encoding example:** Revelation 3:20 — _"Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in."_ The Door Himself, knocking at our dalet.

@@ -9,10 +9,10 @@
 
 The ayin is the picture of an eye, of sight, of perception, and of divine providence. It represents the ability to see—both physically and spiritually—and the watchful care of God over His creation.
 
-- **Eye/Sight** | the organ of vision, the ability to perceive
-- **To see** | to understand, to perceive, to have insight
-- **Providence** | God's watchful care over His creation
-- **Fountain/Spring** | the eye of the landscape, the source of water
+- **Eye/Sight** — the organ of vision, the ability to perceive
+- **To see** — to understand, to perceive, to have insight
+- **Providence** — God's watchful care over His creation
+- **Fountain/Spring** — the eye of the landscape, the source of water
 
 ## The Sound
 
@@ -33,13 +33,13 @@ The ayin is the picture of an eye, of sight, of perception, and of divine provid
 
 The eye and sight imagery appears throughout Scripture:
 
-- **The Eyes of the LORD** | Proverbs 15:3 — _"The eyes of the LORD are everywhere, keeping watch on the wicked and the good."_ The ayin-providence of God sees all.
+- **The Eyes of the LORD** — Proverbs 15:3 — _"The eyes of the LORD are everywhere, keeping watch on the wicked and the good."_ The ayin-providence of God sees all.
 
-- **The Apple of His Eye** | Deuteronomy 32:10 — _"In a desert land he found him, in a barren and howling waste. He shielded him and cared for him; he guarded him as the apple of his eye."_ You are the ayin-center of God's affection.
+- **The Apple of His Eye** — Deuteronomy 32:10 — _"In a desert land he found him, in a barren and howling waste. He shielded him and cared for him; he guarded him as the apple of his eye."_ You are the ayin-center of God's affection.
 
-- **The Blind See** | Isaiah 35:5 — _"Then will the eyes of the blind be opened and the ears of the deaf unstopped."_ This prophecy was fulfilled in Jesus (Matthew 11:5).
+- **The Blind See** — Isaiah 35:5 — _"Then will the eyes of the blind be opened and the ears of the deaf unstopped."_ This prophecy was fulfilled in Jesus (Matthew 11:5).
 
-- **Jesus Heals Blindness** | John 9 — Jesus heals a man born blind, demonstrating that He is the Light of the world who gives sight.
+- **Jesus Heals Blindness** — John 9 — Jesus heals a man born blind, demonstrating that He is the Light of the world who gives sight.
 
 Jesus is our Ayin. He is the One who sees us, knows us, and opens our eyes to see God. He said, _"I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life"_ (John 8:12).
 
@@ -56,18 +56,18 @@ That's ayin.
 - **Value:** 70
 - **Words with same value:** Ayin (eye/spring), Ayin (nothingness), Ein Sof (Infinite)
 - **Appears in key Hebrew words:**
-  - **Ayin** (עין) | Eye, fountain, spring
-  - **Avon** (עון) | Iniquity—the failure that God sees
-  - **Adonai** (אדני) | Lord—the Master who sees
-  - **Elohim** (אלהים) | God—the Creator who observes
+  - **Ayin** (עין) — Eye, fountain, spring
+  - **Avon** (עון) — Iniquity—the failure that God sees
+  - **Adonai** (אדני) — Lord—the Master who sees
+  - **Elohim** (אלהים) — God—the Creator who observes
 - **Scripture appearances:**
-  - Psalm 33:18 | _"But the eyes of the LORD are on those who fear him"_ — the ayin-watch
-  - Proverbs 15:3 | _"The eyes of the LORD are everywhere, keeping watch on the wicked and the good"_
-  - Matthew 6:22 | _"The eye is the lamp of the body"_ — the ayin-principle
-  - Hebrews 4:13 | _"Nothing in all creation is hidden from God's sight"_ — the ayin-reality
+  - Psalm 33:18 — _"But the eyes of the LORD are on those who fear him"_ — the ayin-watch
+  - Proverbs 15:3 — _"The eyes of the LORD are everywhere, keeping watch on the wicked and the good"_
+  - Matthew 6:22 — _"The eye is the lamp of the body"_ — the ayin-principle
+  - Hebrews 4:13 — _"Nothing in all creation is hidden from God's sight"_ — the ayin-reality
 
 ## Memory Palace Integration
 
-- **Major System digit:** 70 (7-0) | Ayin encodes the digits 70 in verse numbers
+- **Major System digit:** 70 (7-0) — Ayin encodes the digits 70 in verse numbers
 - **Suggested PAO:** Bartimaeus receiving his sight (Ayin = 70 = Bartimaeus's number). Bartimaeus was blind, but when he heard that Jesus was passing by, he shouted, _"Jesus, Son of David, have mercy on me!"_ (Mark 10:47). Jesus stopped, called him, and opened his ayin-eyes. The blind beggar became a seeing disciple.
-- **Verse encoding example:** 2 Chronicles 16:9 | The ayin-verse: _"For the eyes of the LORD range throughout the earth to strengthen those whose hearts are fully committed to him."_
+- **Verse encoding example:** 2 Chronicles 16:9 — The ayin-verse: _"For the eyes of the LORD range throughout the earth to strengthen those whose hearts are fully committed to him."_

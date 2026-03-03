@@ -181,6 +181,18 @@ When documenting a verse entry use this format:
 
 ---
 
+## Documentation Style Guidelines
+
+- **Use em-dashes for definitions and explanations** — When connecting terms to their meanings, use em-dashes (` — `) not pipes (`|`)
+  - Correct: `**Strength** — power under control`
+  - Incorrect: `**Strength** | power under control`
+- **Em-dashes (—)** are the proper typographical choice for:
+  - Definitions and explanations
+  - Introducing elaborations
+  - Connecting terms to their meanings
+
+---
+
 ## Cautions Claude Should Maintain
 
 - **Gematria is devotional, not doctrinal** | use it to illuminate existing Biblical truth, never to build new doctrine from numerical connections alone

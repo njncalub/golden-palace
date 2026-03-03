@@ -9,9 +9,9 @@
 
 The kaf is the picture of an open palm, of covering, of bending, and of the wing. It represents the act of covering, of blessing, and of the hollow of God's hand.
 
-- **Palm of hand** | the open hand, the hollow that can hold or cover
-- **To cover** | to overshadow, to protect, to hide in safety
-- **Wing** | the wing of a bird, the covering of God's presence
+- **Palm of hand** — the open hand, the hollow that can hold or cover
+- **To cover** — to overshadow, to protect, to hide in safety
+- **Wing** — the wing of a bird, the covering of God's presence
 
 ## The Sound
 
@@ -32,13 +32,13 @@ The kaf is the picture of an open palm, of covering, of bending, and of the wing
 
 The palm and wing imagery appears throughout Scripture:
 
-- **The Hollow of His Hand** | Isaiah 49:16 — _"See, I have engraved you on the palms of my hands."_ The kaf-palm is where God carries your name.
+- **The Hollow of His Hand** — Isaiah 49:16 — _"See, I have engraved you on the palms of my hands."_ The kaf-palm is where God carries your name.
 
-- **Under His Wings** | Ruth 2:12 — _"May you be richly rewarded by the LORD, the God of Israel, under whose wings you have come to take refuge."_ Ruth found protection in the kaf-wings of Boaz, a picture of Christ.
+- **Under His Wings** — Ruth 2:12 — _"May you be richly rewarded by the LORD, the God of Israel, under whose wings you have come to take refuge."_ Ruth found protection in the kaf-wings of Boaz, a picture of Christ.
 
-- **The Covering** | Psalm 140:7 — _"Sovereign LORD, my strong deliverer, you shield my head in the day of battle."_ The kaf-covering of God in spiritual warfare.
+- **The Covering** — Psalm 140:7 — _"Sovereign LORD, my strong deliverer, you shield my head in the day of battle."_ The kaf-covering of God in spiritual warfare.
 
-- **The Palm of Blessing** | Matthew 19:13-15 — Jesus laid hands on the children. The kaf-palm of blessing extended to the "least of these."
+- **The Palm of Blessing** — Matthew 19:13-15 — Jesus laid hands on the children. The kaf-palm of blessing extended to the "least of these."
 
 Jesus is our Kaf. He is the Palm that bears our scars. He is the Wing that covers us. He is the One who said, _"Come to me, all you who are weary and burdened, and I will give you rest"_ (Matthew 11:28). The open hand of Jesus invites us into the hollow of His love.
 
@@ -55,18 +55,18 @@ That's kaf.
 - **Value:** 20 (500 in final form, Kaf Sofit)
 - **Words with same value:** Kaf (palm), Kav (line/measure), Kohen (priest)
 - **Appears in key Hebrew words:**
-  - **Kaf** (כף) | Palm, the hollow of the hand
-  - **Kavanah** (כונה) | Intention, direction of the heart
-  - **Kehuna** (כהונה) | Priesthood—the ministry of the open hand
-  - **Kise** (כסא) | Throne—the seat of the King
+  - **Kaf** (כף) — Palm, the hollow of the hand
+  - **Kavanah** (כונה) — Intention, direction of the heart
+  - **Kehuna** (כהונה) — Priesthood—the ministry of the open hand
+  - **Kise** (כסא) — Throne—the seat of the King
 - **Scripture appearances:**
-  - Isaiah 49:16 | _"See, I have engraved you on the palms of my hands"_ — the kaf-palm promise
-  - Psalm 91:4 | _"He will cover you with his feathers, and under his wings you will find refuge"_ — the kaf-wing
-  - Ruth 2:12 | _"May you be richly rewarded by the LORD, under whose wings you have come to take refuge"_
-  - Matthew 23:37 | _"How often I have longed to gather your children together, as a hen gathers her chicks under her wings"_ — Jesus as the Kaf-Mother
+  - Isaiah 49:16 — _"See, I have engraved you on the palms of my hands"_ — the kaf-palm promise
+  - Psalm 91:4 — _"He will cover you with his feathers, and under his wings you will find refuge"_ — the kaf-wing
+  - Ruth 2:12 — _"May you be richly rewarded by the LORD, under whose wings you have come to take refuge"_
+  - Matthew 23:37 — _"How often I have longed to gather your children together, as a hen gathers her chicks under her wings"_ — Jesus as the Kaf-Mother
 
 ## Memory Palace Integration
 
-- **Major System digit:** 20 (2-0) | Kaf encodes the digits 20 in verse numbers
+- **Major System digit:** 20 (2-0) — Kaf encodes the digits 20 in verse numbers
 - **Suggested PAO:** Ruth at the feet of Boaz (Kaf = 20 = Ruth's number). Ruth found protection under the "wings" (kaf) of Boaz, her kinsman-redeemer. Boaz is a picture of Christ—the One whose open hand covers us and whose wings provide refuge.
-- **Verse encoding example:** Isaiah 49:16 | The kaf-verse: _"See, I have engraved you on the palms of my hands."_ Your name is written on God's palm.
+- **Verse encoding example:** Isaiah 49:16 — The kaf-verse: _"See, I have engraved you on the palms of my hands."_ Your name is written on God's palm.

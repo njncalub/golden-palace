@@ -9,9 +9,9 @@
 
 The bet is the picture of a dwelling place, a home, a family, a container for life.
 
-- **House/Home** | a place of belonging, shelter, identity
-- **Family** | those who dwell inside, the household of God
-- **Container** | what holds and protects something precious
+- **House/Home** — a place of belonging, shelter, identity
+- **Family** — those who dwell inside, the household of God
+- **Container** — what holds and protects something precious
 
 ## The Sound
 
@@ -32,10 +32,10 @@ The bet is the picture of a dwelling place, a home, a family, a container for li
 
 Jesus said, _"In my Father's house are many rooms"_ (John 14:2). The concept of God having a "house" is woven through Scripture:
 
-- **Bethlehem** | House of Bread, where Jesus was born (the Bread of Life came to the House of Bread)
-- **Bethany** | House of dates or figs, where Lazarus was raised (Jesus brought life into a house of death)
-- **Bethsaida** | House of fishing, where several disciples were called
-- **Temple** | literally "Beit HaMikdash," "The House of Holiness"
+- **Bethlehem** — House of Bread, where Jesus was born (the Bread of Life came to the House of Bread)
+- **Bethany** — House of dates or figs, where Lazarus was raised (Jesus brought life into a house of death)
+- **Bethsaida** — House of fishing, where several disciples were called
+- **Temple** — literally "Beit HaMikdash," "The House of Holiness"
 
 The entire biblical story is God building a house for His presence:
 
@@ -63,18 +63,18 @@ That's bet.
 - **Value:** 2
 - **Words with same value:** Bet (house), Bar (son), Ben (son), Baruch (blessed)
 - **Appears in key Hebrew words:**
-  - **Bet** (בית) | House, the letter is its own name
-  - **Baruch** (ברוך) | Blessed, blessing comes from entering God's house
-  - **Ben** (בן) | Son, the Son is the Heir of the house
-  - **Bereshit** (בראשית) | "In the beginning," the FIRST WORD of Torah
+  - **Bet** (בית) — House, the letter is its own name
+  - **Baruch** (ברוך) — Blessed, blessing comes from entering God's house
+  - **Ben** (בן) — Son, the Son is the Heir of the house
+  - **Bereshit** (בראשית) — "In the beginning," the FIRST WORD of Torah
 - **Scripture appearances:**
   - Genesis 1:1 — _Bereshit_ ("In the beginning"), Torah begins with bet
   - Matthew 7:24 — _"Everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock"_ (the bet stands on a firm foundation)
   - Hebrews 3:6 — _"But Christ is faithful as the Son over God's house"_ (Jesus is the Son who rules the house)
-  - Psalm 119 | The Bet section (verses 9-16) begins every verse with bet, and it's all about young people staying pure by following God's Word (building the house correctly from the beginning)
+  - Psalm 119 — The Bet section (verses 9-16) begins every verse with bet, and it's all about young people staying pure by following God's Word (building the house correctly from the beginning)
 
 ## Memory Palace Integration
 
-- **Major System digit:** 2 | Bet encodes the digit 2 in verse numbers (e.g., Psalm 23:**2** = Bet)
+- **Major System digit:** 2 — Bet encodes the digit 2 in verse numbers (e.g., Psalm 23:**2** = Bet)
 - **Suggested PAO:** David slinging a stone at Goliath (Bet = 2 = David's number). David is the ultimate "house-builder." God promised David an eternal house (2 Samuel 7), and from his line came Jesus who builds the true House. Also, David was from **Bethlehem** (House of Bread), a perfect bet connection.
-- **Verse encoding example:** John 3:16 | "3" = Gimel (camel/grace), "16" = Aleph-Vav (God connects). But look at the chapter: 3. "2" is Bet. Chapter 3 (Gimel = grace) + Verse 16 (Aleph-Vav = God connects) = "Grace, God connects." The numbers preach the message.
+- **Verse encoding example:** John 3:16 — "3" = Gimel (camel/grace), "16" = Aleph-Vav (God connects). But look at the chapter: 3. "2" is Bet. Chapter 3 (Gimel = grace) + Verse 16 (Aleph-Vav = God connects) = "Grace, God connects." The numbers preach the message.

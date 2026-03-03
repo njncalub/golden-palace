@@ -9,10 +9,10 @@
 
 The samech is the picture of support, of a foundation that sustains, of divine help, and of the circular nature of God's faithfulness. It represents the upholding power of God, the support that never fails.
 
-- **Prop/Support** | that which upholds, sustains, or maintains
-- **Foundation** | the base upon which everything rests
-- **Divine support** | God's upholding hand
-- **Circle** | the endless cycle, the eternal nature of God's faithfulness
+- **Prop/Support** — that which upholds, sustains, or maintains
+- **Foundation** — the base upon which everything rests
+- **Divine support** — God's upholding hand
+- **Circle** — the endless cycle, the eternal nature of God's faithfulness
 
 ## The Sound
 
@@ -33,13 +33,13 @@ The samech is the picture of support, of a foundation that sustains, of divine h
 
 The support and foundation imagery appears throughout Scripture:
 
-- **The Pillars of the Earth** | 1 Samuel 2:8 — _"For the foundations of the earth are the LORD's; upon them he has set the world."_ The samech-foundation of the world is God Himself.
+- **The Pillars of the Earth** — 1 Samuel 2:8 — _"For the foundations of the earth are the LORD's; upon them he has set the world."_ The samech-foundation of the world is God Himself.
 
-- **God's Upholding Hand** | Psalm 37:17 — _"For the power of the wicked will be broken, but the LORD upholds the righteous."_ The samech-strength of God sustains His people.
+- **God's Upholding Hand** — Psalm 37:17 — _"For the power of the wicked will be broken, but the LORD upholds the righteous."_ The samech-strength of God sustains His people.
 
-- **The Foundation of God's Throne** | Psalm 93:2 — _"Your throne is established of old; you are from everlasting."_ The samech-foundation of God's rule is eternal.
+- **The Foundation of God's Throne** — Psalm 93:2 — _"Your throne is established of old; you are from everlasting."_ The samech-foundation of God's rule is eternal.
 
-- **Jesus as the Foundation** | 1 Corinthians 3:11 — _"For no one can lay any foundation other than the one already laid, which is Jesus Christ."_ The samech-support of God is found in Christ alone.
+- **Jesus as the Foundation** — 1 Corinthians 3:11 — _"For no one can lay any foundation other than the one already laid, which is Jesus Christ."_ The samech-support of God is found in Christ alone.
 
 Jesus is our Samech. He is the Foundation that supports all things. He said, _"All things have been committed to me by my Father"_ (Matthew 11:27). The One who upholds the universe by His word (Hebrews 1:3) is the One who holds you up.
 
@@ -56,18 +56,18 @@ That's samech.
 - **Value:** 60
 - **Words with same value:** Samech (support), Sod (secret), Sefer (book)
 - **Appears in key Hebrew words:**
-  - **Somek** (סומך) | To lean upon, to support
-  - **Seder** (סדר) | Order—the arrangement of God's creation
-  - **Shalom** (שלום) | Peace—the state of being supported by God
-  - **Salome** (שלומית) | Peaceful—the name of one who followed Jesus
+  - **Somek** (סומך) — To lean upon, to support
+  - **Seder** (סדר) — Order—the arrangement of God's creation
+  - **Shalom** (שלום) — Peace—the state of being supported by God
+  - **Salome** (שלומית) — Peaceful—the name of one who followed Jesus
 - **Scripture appearances:**
-  - Psalm 37:17 | _"For the power of the wicked will be broken, but the LORD upholds the righteous"_ — the samech-promise
-  - Psalm 125:2 | _"As the mountains surround Jerusalem, so the LORD surrounds his people"_ — the samech-protection
-  - Hebrews 1:3 | _"The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word"_ — Jesus as the cosmic Samech
-  - Colossians 1:17 | _"He is before all things, and in him all things hold together"_ — the samech-foundation
+  - Psalm 37:17 — _"For the power of the wicked will be broken, but the LORD upholds the righteous"_ — the samech-promise
+  - Psalm 125:2 — _"As the mountains surround Jerusalem, so the LORD surrounds his people"_ — the samech-protection
+  - Hebrews 1:3 — _"The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word"_ — Jesus as the cosmic Samech
+  - Colossians 1:17 — _"He is before all things, and in him all things hold together"_ — the samech-foundation
 
 ## Memory Palace Integration
 
-- **Major System digit:** 60 (6-0) | Samech encodes the digits 60 in verse numbers
+- **Major System digit:** 60 (6-0) — Samech encodes the digits 60 in verse numbers
 - **Suggested PAO:** Stephen the martyr being stoned while seeing heaven open (Samech = 60 = Stephen's number). Stephen saw _"the heavens opened and the Son of Man standing at the right hand of God"_ (Acts 7:56). Even as he was being killed, Stephen saw the Samech-support of God upholding him.
-- **Verse encoding example:** Hebrews 1:3 | The samech-verse: _"The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word."_
+- **Verse encoding example:** Hebrews 1:3 — The samech-verse: _"The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word."_

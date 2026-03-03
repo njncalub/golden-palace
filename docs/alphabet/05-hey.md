@@ -9,9 +9,9 @@
 
 The hey is the picture of breath, revelation, and beholding. It represents the act of looking, of seeing, of God revealing Himself.
 
-- **Behold/Look** | to see, to pay attention, to gaze upon
-- **Breath/Spirit** | the wind of God, the ruach, the invisible force
-- **Revelation** | God making Himself known, the act of unveiling
+- **Behold/Look** — to see, to pay attention, to gaze upon
+- **Breath/Spirit** — the wind of God, the ruach, the invisible force
+- **Revelation** — God making Himself known, the act of unveiling
 
 ## The Sound
 
@@ -34,13 +34,13 @@ The hey is the picture of breath, revelation, and beholding. It represents the a
 
 The letter hey is the sound of God's presence:
 
-- **Hallelujah** | This Hebrew word means "Praise Yah (the LORD)." It ends with hey. The praise itself ends with breath. You can't praise God without using His letter.
+- **Hallelujah** — This Hebrew word means "Praise Yah (the LORD)." It ends with hey. The praise itself ends with breath. You can't praise God without using His letter.
 
-- **The Spirit** | The Hebrew word _Ruach_ (Spirit) contains a hey. The Spirit is the Breath of God, the wind that blows where it pleases (John 3:8).
+- **The Spirit** — The Hebrew word _Ruach_ (Spirit) contains a hey. The Spirit is the Breath of God, the wind that blows where it pleases (John 3:8).
 
-- **Revelation** | The Hebrew word _Hineh_ (הנה) means "Behold!" or "Look!" It appears over 1,000 times in Scripture. God is constantly saying, "Hey! Pay attention! Look what I'm doing!"
+- **Revelation** — The Hebrew word _Hineh_ (הנה) means "Behold!" or "Look!" It appears over 1,000 times in Scripture. God is constantly saying, "Hey! Pay attention! Look what I'm doing!"
 
-- **Grace** | The number five (hey's value) represents grace. David picked up five smooth stones. Jesus fed five thousand with five loaves. The Pentateuch has five books. Grace is the fifth letter.
+- **Grace** — The number five (hey's value) represents grace. David picked up five smooth stones. Jesus fed five thousand with five loaves. The Pentateuch has five books. Grace is the fifth letter.
 
 Jesus said, _"God is spirit, and his worshipers must worship in the Spirit and in truth"_ (John 4:24). Worship involves breath—the letter hey. When we praise God, we're literally breathing His name.
 
@@ -57,18 +57,18 @@ That's hey.
 - **Value:** 5
 - **Words with same value:** Hey (behold), Hallelujah (praise Yah), Hod (glory)
 - **Appears in key Hebrew words:**
-  - **Hineni** (הנני) | "Here I am," the response of the surrendered (Isaiah 6:8)
-  - **Hallel** (הלל) | Praise, as in Hallelujah
-  - **Hodesh** (הודש) | New moon/month, the marker of time
-  - **Hai** (הי) | Alive/living, as in _Chai_ (life)
+  - **Hineni** (הנני) — "Here I am," the response of the surrendered (Isaiah 6:8)
+  - **Hallel** (הלל) — Praise, as in Hallelujah
+  - **Hodesh** (הודש) — New moon/month, the marker of time
+  - **Hai** (הי) — Alive/living, as in _Chai_ (life)
 - **Scripture appearances:**
-  - Genesis 2:7 | _"He breathed into his nostrils the breath of life"_ — the hey of life
-  - Ezekiel 37:9 | _"Come, breath, from the four winds and breathe into these slain, that they may live"_ — the prophetic hey
-  - John 20:22 | _"He breathed on them and said, 'Receive the Holy Spirit'"_ — the resurrected hey
-  - Psalm 150 | The final psalm of praise, filled with "Hallelujah" (hey-ending praise)
+  - Genesis 2:7 — _"He breathed into his nostrils the breath of life"_ — the hey of life
+  - Ezekiel 37:9 — _"Come, breath, from the four winds and breathe into these slain, that they may live"_ — the prophetic hey
+  - John 20:22 — _"He breathed on them and said, 'Receive the Holy Spirit'"_ — the resurrected hey
+  - Psalm 150 — The final psalm of praise, filled with "Hallelujah" (hey-ending praise)
 
 ## Memory Palace Integration
 
-- **Major System digit:** 5 | Hey encodes the digit 5 in verse numbers (e.g., Psalm 23:**5** = Hey)
+- **Major System digit:** 5 — Hey encodes the digit 5 in verse numbers (e.g., Psalm 23:**5** = Hey)
 - **Suggested PAO:** Mary Magdalene falling at Jesus's feet (Hey = 5 = Mary's number). Mary was the first to see the risen Christ, the first to breathe in resurrection life. She's the woman of "Behold!"—the one who saw what the disciples missed. Her story is a hey-story: looking, seeing, worshipping.
-- **Verse encoding example:** John 3:16 | "3" = Gimel (grace), "16" = Hey-Vav (behold-nail). The verse itself is a revelation: _"For God so loved the world that he gave his one and only Son"_. Behold (hey) the nail (vav)—the cross revealed.
+- **Verse encoding example:** John 3:16 — "3" = Gimel (grace), "16" = Hey-Vav (behold-nail). The verse itself is a revelation: _"For God so loved the world that he gave his one and only Son"_. Behold (hey) the nail (vav)—the cross revealed.

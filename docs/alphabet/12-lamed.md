@@ -9,9 +9,9 @@
 
 The lamed is the picture of a staff, of teaching, of prodding toward a goal, and of authority. It represents the act of learning, the discipline of instruction, and the authority that comes from godly wisdom.
 
-- **Ox goad/staff** | a long stick used to guide and prod livestock
-- **To teach/learn** | the act of instruction, of discipling
-- **Authority** | the right to direct, to lead, to correct
+- **Ox goad/staff** — a long stick used to guide and prod livestock
+- **To teach/learn** — the act of instruction, of discipling
+- **Authority** — the right to direct, to lead, to correct
 
 ## The Sound
 
@@ -32,13 +32,13 @@ The lamed is the picture of a staff, of teaching, of prodding toward a goal, and
 
 The staff and teaching imagery appears throughout Scripture:
 
-- **The Rod of Moses** | Exodus 4:2-4 shows Moses' staff becoming the instrument of God's power. The lamed-staff in Moses' hand parted the Red Sea, brought water from the rock, and defeated Amalek.
+- **The Rod of Moses** — Exodus 4:2-4 shows Moses' staff becoming the instrument of God's power. The lamed-staff in Moses' hand parted the Red Sea, brought water from the rock, and defeated Amalek.
 
-- **The Teaching of the Law** | Deuteronomy 6:7 — _"Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."_ The lamed-mandate to teach the next generation.
+- **The Teaching of the Law** — Deuteronomy 6:7 — _"Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up."_ The lamed-mandate to teach the next generation.
 
-- **The Staff of the Shepherd** | Psalm 23:4 — _"Your rod and your staff, they comfort me."_ The lamed-staff brings comfort, not correction.
+- **The Staff of the Shepherd** — Psalm 23:4 — _"Your rod and your staff, they comfort me."_ The lamed-staff brings comfort, not correction.
 
-- **The Yoke of Jesus** | Matthew 11:29-30 — _"Take my yoke upon you and learn from me, for I am gentle and humble in heart."_ The lamed-yoke of Jesus is easy, and His burden is light.
+- **The Yoke of Jesus** — Matthew 11:29-30 — _"Take my yoke upon you and learn from me, for I am gentle and humble in heart."_ The lamed-yoke of Jesus is easy, and His burden is light.
 
 Jesus is our Lamed. He is the Teacher who said, _"Come to me, all you who are weary and burdened, and I will give you rest"_ (Matthew 11:28). He is the Shepherd whose staff guides us home.
 
@@ -55,18 +55,18 @@ That's lamed.
 - **Value:** 30
 - **Words with same value:** Lamed (staff/goad), Lev (heart), Lailah (night)
 - **Appears in key Hebrew words:**
-  - **Lamad** (למד) | To learn, to teach
-  - **Lev** (לב) | Heart—the seat of understanding
-  - **Lailah** (לילה) | Night—the time of learning through dreams
-  - **Lulav** (לולב) | Palm branch—the symbol of victory and praise
+  - **Lamad** (למד) — To learn, to teach
+  - **Lev** (לב) — Heart—the seat of understanding
+  - **Lailah** (לילה) — Night—the time of learning through dreams
+  - **Lulav** (לולב) — Palm branch—the symbol of victory and praise
 - **Scripture appearances:**
-  - Psalm 23:4 | _"Your rod and your staff, they comfort me"_ — the lamed-staff
-  - Proverbs 9:9 | _"Instruct the wise and they will be wiser still; teach the righteous and they will add to their learning"_ — the lamed-call to grow
-  - Luke 2:46 | _"Everyone who heard him was amazed at his understanding and his answers"_ — Jesus as the boy Lamed in the temple
-  - Matthew 11:29 | _"Take my yoke upon you and learn from me"_ — Jesus as the ultimate Lamed
+  - Psalm 23:4 — _"Your rod and your staff, they comfort me"_ — the lamed-staff
+  - Proverbs 9:9 — _"Instruct the wise and they will be wiser still; teach the righteous and they will add to their learning"_ — the lamed-call to grow
+  - Luke 2:46 — _"Everyone who heard him was amazed at his understanding and his answers"_ — Jesus as the boy Lamed in the temple
+  - Matthew 11:29 — _"Take my yoke upon you and learn from me"_ — Jesus as the ultimate Lamed
 
 ## Memory Palace Integration
 
-- **Major System digit:** 30 (3-0) | Lamed encodes the digits 30 in verse numbers
+- **Major System digit:** 30 (3-0) — Lamed encodes the digits 30 in verse numbers
 - **Suggested PAO:** Jesus as the Good Shepherd with a staff (Lamed = 30 = Jesus's teaching ministry). Jesus is the ultimate Teacher who said, _"I am the good shepherd; the good shepherd lays down his life for the sheep"_ (John 10:11). His lamed-staff guides, protects, and rescues.
-- **Verse encoding example:** Psalm 23:4 | The lamed-verse: _"Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."_
+- **Verse encoding example:** Psalm 23:4 — The lamed-verse: _"Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."_

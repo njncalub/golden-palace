@@ -9,9 +9,9 @@
 
 The tav is the picture of a mark, a sign, a seal, something that confirms ownership or authenticity.
 
-- **Sign/Mark** | a symbol that identifies, a signature, a seal
-- **Covenant** | the agreement marked and confirmed
-- **Cross** | the crossed sticks prefigure the crucifixion
+- **Sign/Mark** — a symbol that identifies, a signature, a seal
+- **Covenant** — the agreement marked and confirmed
+- **Cross** — the crossed sticks prefigure the crucifixion
 
 ## The Sound
 
@@ -40,10 +40,10 @@ The tav is the picture of a mark, a sign, a seal, something that confirms owners
 
 The tav appears in some of the most significant theological words in Hebrew:
 
-- **Torah** (תורה) | "Instruction, Law," begins with tav
-- **Tav** (תו) | "Mark, sign," the letter is its own name
-- **Met** (מת) | "Death," tav in the middle; the tav has defeated death
-- **Emet** (אמת) | "Truth," ENDS with tav; truth is what has the tav at its conclusion
+- **Torah** (תורה) — "Instruction, Law," begins with tav
+- **Tav** (תו) — "Mark, sign," the letter is its own name
+- **Met** (מת) — "Death," tav in the middle; the tav has defeated death
+- **Emet** (אמת) — "Truth," ENDS with tav; truth is what has the tav at its conclusion
 
 Jesus on the cross said, _"It is finished"_ (John 19:30). The Greek word is _tetelestai_, "completed, accomplished, perfected." In Hebrew thinking, this is the tav speaking. The cross is where the work is finished. The tav is the letter of FINISHED WORK.
 
@@ -62,21 +62,21 @@ That's tav.
 - **Value:** 400
 - **Words with same value:** Tav (400, the letter itself), Avraham (when spelled with an aleph = 243, but Abraham's name-change added a hey [5] to make 248, close to 400), other words representing completion
 - **Appears in key Hebrew words:**
-  - **Torah** (תורה) | Instruction/Law, tav begins the foundation of Scripture
-  - **Tav** (תו) | Mark/Sign, the letter is its own meaning
-  - **Emet** (אמת) | Truth, ENDS with tav (truth is complete only when it includes the cross)
-  - **Met** (מת) | Death, tav in the middle; Jesus conquered death ON the tav
+  - **Torah** (תורה) — Instruction/Law, tav begins the foundation of Scripture
+  - **Tav** (תו) — Mark/Sign, the letter is its own meaning
+  - **Emet** (אמת) — Truth, ENDS with tav (truth is complete only when it includes the cross)
+  - **Met** (מת) — Death, tav in the middle; Jesus conquered death ON the tav
 - **Scripture appearances:**
   - Ezekiel 9:4 — _"Put a **mark (tav)** on the foreheads"_ of the faithful
   - Revelation 22:13 — _"I am the Alpha and the Omega"_ (Hebrew: _"I am the Aleph and the \*\*Tav_"\*)
   - Job 31:35 — _"Oh, that I had someone to hear me! Here is my **signature (tav)**"_ — the letter as a signature
-  - Psalm 119 | The Tav section (verses 169-176) is the FINAL octave, all about finishing well, crying out to God, and finding deliverance
+  - Psalm 119 — The Tav section (verses 169-176) is the FINAL octave, all about finishing well, crying out to God, and finding deliverance
 
 ## Memory Palace Integration
 
 - **Major System digit:** None (Tav is outside the 0 through 9 mapping for verse encoding)
 - **Suggested PAO:** Use tav for the digit 4 (since it begins with T and sounds similar to Tet/9, but the crossed-sticks image is SO much like a 4 that you could create a special rule). Alternatively, use tav as a visual modifier that adds "completion" or "cross" to any PAO scene it touches.
-- **Verse encoding example:** Psalm 22 | The chapter of the crucifixion ("My God, my God, why have you forsaken me?"). Psalm 22:1 begins with Aleph (01), and the chapter number (22) is the VALUE of tav. The cross chapter is marked with the tav number.
+- **Verse encoding example:** Psalm 22 — The chapter of the crucifixion ("My God, my God, why have you forsaken me?"). Psalm 22:1 begins with Aleph (01), and the chapter number (22) is the VALUE of tav. The cross chapter is marked with the tav number.
 
 ---
 
@@ -84,10 +84,10 @@ That's tav.
 
 Together, Aleph (01) and Tav (22) frame the entire alphabet:
 
-| Letter    | Meaning                    | Together They Mean |
-| --------- | -------------------------- | ------------------ |
-| Aleph (א) | Ox, Strength, God, Servant | The Servant God    |
-| Tav (ת)   | Cross, Mark, Covenant      | On the Cross       |
+| Letter — Meaning — Together They Mean |
+| --------- — -------------------------- — ------------------ |
+| Aleph (א) — Ox, Strength, God, Servant — The Servant God |
+| Tav (ת) — Cross, Mark, Covenant — On the Cross |
 
 **"I am the Aleph and the Tav"** = **"I am the Servant God on the Cross."**
 

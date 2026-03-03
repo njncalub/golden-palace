@@ -9,10 +9,10 @@
 
 The mem is the picture of water, of chaos, of might, and of the blood of life. It represents the unknown depths, the power of God over chaos, and the flow of the Spirit.
 
-- **Water** | the life-giving fluid, the source of all life
-- **Chaos** | the primeval deep, the unformed void
-- **Might** | the power of water to both destroy and sustain
-- **Blood** | the life force, the covenant fluid
+- **Water** — the life-giving fluid, the source of all life
+- **Chaos** — the primeval deep, the unformed void
+- **Might** — the power of water to both destroy and sustain
+- **Blood** — the life force, the covenant fluid
 
 ## The Sound
 
@@ -33,15 +33,15 @@ The mem is the picture of water, of chaos, of might, and of the blood of life. I
 
 The water imagery appears throughout Scripture:
 
-- **The Primeval Waters** | Genesis 1:2 describes _"the Spirit of God hovering over the waters."_ The mem-chaos that God organized into cosmos.
+- **The Primeval Waters** — Genesis 1:2 describes _"the Spirit of God hovering over the waters."_ The mem-chaos that God organized into cosmos.
 
-- **The Flood Waters** | Genesis 6-7 tells of the mem-judgment that washed away a corrupt world while preserving Noah and his family.
+- **The Flood Waters** — Genesis 6-7 tells of the mem-judgment that washed away a corrupt world while preserving Noah and his family.
 
-- **The Red Sea** | Exodus 14 shows the mem-waters parting for Israel and then closing on their enemies. The same water that saved them judged their oppressors.
+- **The Red Sea** — Exodus 14 shows the mem-waters parting for Israel and then closing on their enemies. The same water that saved them judged their oppressors.
 
-- **The Living Water** | John 4:10-14 — Jesus said, _"If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water."_ Jesus is the Mem of life.
+- **The Living Water** — John 4:10-14 — Jesus said, _"If you knew the gift of God and who it is that asks you for a drink, you would have asked him and he would have given you living water."_ Jesus is the Mem of life.
 
-- **The Blood and Water** | John 19:34 — _"Instead, one of the soldiers pierced Jesus' side with a spear, bringing a sudden flow of blood and water."_ The mem-waters of redemption flowed from Jesus' side.
+- **The Blood and Water** — John 19:34 — _"Instead, one of the soldiers pierced Jesus' side with a spear, bringing a sudden flow of blood and water."_ The mem-waters of redemption flowed from Jesus' side.
 
 Jesus is our Mem. He is the Living Water. He said, _"Let anyone who is thirsty come to me and drink"_ (John 7:37). The water that satisfies forever is found in Him.
 
@@ -58,18 +58,18 @@ That's mem.
 - **Value:** 40 (600 in final form, Mem Sofit)
 - **Words with same value:** Mem (water), Melech (king), Ma'aseh (work/deed)
 - **Appears in key Hebrew words:**
-  - **Mayim** (מים) | Water—the word contains two mems
-  - **Mashiach** (משיח) | Messiah—the Anointed One
-  - **Mishpat** (משפט) | Judgment—the water that separates
-  - **Mavet** (מות) | Death—the waters of death that Jesus conquered
+  - **Mayim** (מים) — Water—the word contains two mems
+  - **Mashiach** (משיח) — Messiah—the Anointed One
+  - **Mishpat** (משפט) — Judgment—the water that separates
+  - **Mavet** (מות) — Death—the waters of death that Jesus conquered
 - **Scripture appearances:**
-  - Genesis 1:2 | _"The Spirit of God was hovering over the waters"_ — the mem-creation
-  - Exodus 14:21-22 | _"Moses stretched out his hand over the sea, and the LORD drove the sea back with a strong east wind"_ — the mem-deliverance
-  - John 4:14 | _"Whoever drinks the water I give them will never thirst"_ — the living Mem
-  - Revelation 21:6 | _"To the thirsty I will give water without cost from the spring of the water of life"_ — the eternal mem
+  - Genesis 1:2 — _"The Spirit of God was hovering over the waters"_ — the mem-creation
+  - Exodus 14:21-22 — _"Moses stretched out his hand over the sea, and the LORD drove the sea back with a strong east wind"_ — the mem-deliverance
+  - John 4:14 — _"Whoever drinks the water I give them will never thirst"_ — the living Mem
+  - Revelation 21:6 — _"To the thirsty I will give water without cost from the spring of the water of life"_ — the eternal mem
 
 ## Memory Palace Integration
 
-- **Major System digit:** 40 (4-0) | Mem encodes the digits 40 in verse numbers
+- **Major System digit:** 40 (4-0) — Mem encodes the digits 40 in verse numbers
 - **Suggested PAO:** Moses parting the Red Sea (Mem = 40 = Moses's number). Moses raised his staff over the mem-waters, and they parted. The water that should have been death became a doorway to deliverance. Jesus is the greater Moses who parts the waters of judgment for us.
-- **Verse encoding example:** John 4:14 | The mem-verse: _"Whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life."_
+- **Verse encoding example:** John 4:14 — The mem-verse: _"Whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life."_

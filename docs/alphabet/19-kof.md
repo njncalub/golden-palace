@@ -9,10 +9,10 @@
 
 The kof is the picture of the sun on the horizon, of holiness, of what is behind and beyond, and of the "eye of the needle" through which the camel must pass. It represents the paradox of the kingdom—small yet vast, humble yet holy.
 
-- **Sun/Horizon** | the light at the edge of darkness
-- **Behind/After** | that which is beyond, the transcendent
-- **Holiness/Kadosh** | the Hebrew word for "holy" (kadosh) begins with kof
-- **Monkey** | the mimicker, the one who copies but has no original thought
+- **Sun/Horizon** — the light at the edge of darkness
+- **Behind/After** — that which is beyond, the transcendent
+- **Holiness/Kadosh** — the Hebrew word for "holy" (kadosh) begins with kof
+- **Monkey** — the mimicker, the one who copies but has no original thought
 
 ## The Sound
 
@@ -33,13 +33,13 @@ The kof is the picture of the sun on the horizon, of holiness, of what is behind
 
 The holiness and horizon imagery appears throughout Scripture:
 
-- **The Holy One** | Isaiah 43:3 — _"For I am the LORD your God, the Holy One of Israel, your Savior."_ The Kof-savior.
+- **The Holy One** — Isaiah 43:3 — _"For I am the LORD your God, the Holy One of Israel, your Savior."_ The Kof-savior.
 
-- **The Eye of the Needle** | Matthew 19:24 — The small opening through which the kingdom is entered. Not by might, not by power, but by surrender (Zechariah 4:6).
+- **The Eye of the Needle** — Matthew 19:24 — The small opening through which the kingdom is entered. Not by might, not by power, but by surrender (Zechariah 4:6).
 
-- **The Sunrise** | Luke 1:78-79 — _"Because of the tender mercy of our God, by which the rising sun will come to us from heaven to shine on those living in darkness and in the shadow of death."_ The kof-sunrise from on high.
+- **The Sunrise** — Luke 1:78-79 — _"Because of the tender mercy of our God, by which the rising sun will come to us from heaven to shine on those living in darkness and in the shadow of death."_ The kof-sunrise from on high.
 
-- **Jesus the Holy One** | Mark 1:24 — A demon-possessed man cried out, _"Holy One of God!"_ Jesus is the Kof-Kadosh in human flesh.
+- **Jesus the Holy One** — Mark 1:24 — A demon-possessed man cried out, _"Holy One of God!"_ Jesus is the Kof-Kadosh in human flesh.
 
 Jesus is our Kof. He is the Holy One who makes us holy. He is the Sunrise from on high (Luke 1:78) who brings light to those in darkness. He is the One who said, _"I am the door; if anyone enters through me, he will be saved"_ (John 10:9)—the Kof-doorway to holiness.
 
@@ -56,18 +56,18 @@ That's kof.
 - **Value:** 100
 - **Words with same value:** Kof (monkey/horizon), Kadosh (holy), Kehuna (priesthood)
 - **Appears in key Hebrew words:**
-  - **Kadosh** (קדש) | Holy, set apart for God
-  - **Korban** (קרבן) | Sacrifice, offering—drawing near to the Kadosh
-  - **Kavanah** (כונה) | Intention, direction of the heart toward God
-  - **Kise** (כסא) | Throne—the seat of the Holy One
+  - **Kadosh** (קדש) — Holy, set apart for God
+  - **Korban** (קרבן) — Sacrifice, offering—drawing near to the Kadosh
+  - **Kavanah** (כונה) — Intention, direction of the heart toward God
+  - **Kise** (כסא) — Throne—the seat of the Holy One
 - **Scripture appearances:**
-  - Isaiah 6:3 | _"Holy, holy, holy is the LORD Almighty"_ — the kof-hymn
-  - Matthew 19:24 | _"It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God"_ — the kof-paradox
-  - Luke 1:78-79 | _"Because of the tender mercy of our God, the sunrise from on high will break upon us"_ — the kof-sunrise
-  - Mark 1:24 | _"Holy One of God!"_ — Jesus as the Kof
+  - Isaiah 6:3 — _"Holy, holy, holy is the LORD Almighty"_ — the kof-hymn
+  - Matthew 19:24 — _"It is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God"_ — the kof-paradox
+  - Luke 1:78-79 — _"Because of the tender mercy of our God, the sunrise from on high will break upon us"_ — the kof-sunrise
+  - Mark 1:24 — _"Holy One of God!"_ — Jesus as the Kof
 
 ## Memory Palace Integration
 
-- **Major System digit:** 100 (1-0-0) | Kof encodes the digits 100 in verse numbers
+- **Major System digit:** 100 (1-0-0) — Kof encodes the digits 100 in verse numbers
 - **Suggested PAO:** Nicodemus coming to Jesus at night (Kof = 100 = Nicodemus's number). Nicodemus was a religious leader—holy on the outside, hollow on the inside. He came to Jesus at night (John 3:1-21) and heard the words: _"You must be born again."_ The kof-choice: become truly holy or stay a monkey-mimic.
-- **Verse encoding example:** Matthew 19:24 | The kof-verse: _"Again I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."_ Surrender is the way.
+- **Verse encoding example:** Matthew 19:24 — The kof-verse: _"Again I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."_ Surrender is the way.

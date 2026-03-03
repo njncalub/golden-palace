@@ -9,9 +9,9 @@
 
 The gimel is the picture of movement, journey, and the act of giving or lifting up. The camel was the primary vehicle of travel in the ancient Near East—the animal that made long journeys possible.
 
-- **Grace/Giving** | to lift up, to give generously
-- **Journey/Movement** | walking, traveling from one place to another
-- **Reward** | the repayment or recompense for faithful journey
+- **Grace/Giving** — to lift up, to give generously
+- **Journey/Movement** — walking, traveling from one place to another
+- **Reward** — the repayment or recompense for faithful journey
 
 ## The Sound
 
@@ -32,11 +32,11 @@ The gimel is the picture of movement, journey, and the act of giving or lifting 
 
 The concept of grace saturates the letter gimel:
 
-- **Genesis 24** | Abraham's servant (Eliezer) traveled by camel to find a bride for Isaac. The camel carried the servant, and the servant carried the treasure (gold and jewelry) for Rebekah. This is a picture of the Holy Spirit (the servant) traveling to bring us to Christ (the bridegroom) with gifts of grace.
+- **Genesis 24** — Abraham's servant (Eliezer) traveled by camel to find a bride for Isaac. The camel carried the servant, and the servant carried the treasure (gold and jewelry) for Rebekah. This is a picture of the Holy Spirit (the servant) traveling to bring us to Christ (the bridegroom) with gifts of grace.
 
-- **The Magi** | These wise men traveled by camel from the East to bring gifts to Jesus. The gimel-animals carried the first worshippers to the King.
+- **The Magi** — These wise men traveled by camel from the East to bring gifts to Jesus. The gimel-animals carried the first worshippers to the King.
 
-- **Matthew 6:3-4** | _"when you give to the needy, do not let your left hand know what your right hand is doing"_. The Hebrew root behind "give" is connected to gimel. Generous giving is a camel-journey—it takes you where your flesh doesn't want to go.
+- **Matthew 6:3-4** — _"when you give to the needy, do not let your left hand know what your right hand is doing"_. The Hebrew root behind "give" is connected to gimel. Generous giving is a camel-journey—it takes you where your flesh doesn't want to go.
 
 Jesus is our Camel. He traveled from heaven to earth to carry us to God. He said, _"Come to me, all you who are weary and burdened, and I will give you rest"_ (Matthew 11:28). The camel's purpose is to relieve the burdened traveler.
 
@@ -53,17 +53,17 @@ That's gimel.
 - **Value:** 3
 - **Words with same value:** Gimel (camel), Gamal (to wean/reward), Gad (fortune/troop)
 - **Appears in key Hebrew words:**
-  - **Gamal** (גמל) | To reward, to repay, to bestow
-  - **Gadol** (גדול) | Great, the greatness of God
-  - **Gan** (גן) | Garden, as in Gan Eden (Garden of Eden)
+  - **Gamal** (גמל) — To reward, to repay, to bestow
+  - **Gadol** (גדול) — Great, the greatness of God
+  - **Gan** (גן) — Garden, as in Gan Eden (Garden of Eden)
 - **Scripture appearances:**
-  - Genesis 24:64 | _"Rebekah looked up and saw Isaac. She got down from her camel"_ — the camel brought the bride to the bridegroom
-  - Matthew 2:1 | _"Magi from the east came to Jerusalem"_ — camel-borne worshippers
-  - Psalm 23 | The Gimel section is woven through themes of journey and restoration
-  - Hosea 11:4 | _"I led them with cords of human kindness, with ties of love. To them I was like one who lifts a little child to the cheek"_ — the gamal (lifting/giving) of God
+  - Genesis 24:64 — _"Rebekah looked up and saw Isaac. She got down from her camel"_ — the camel brought the bride to the bridegroom
+  - Matthew 2:1 — _"Magi from the east came to Jerusalem"_ — camel-borne worshippers
+  - Psalm 23 — The Gimel section is woven through themes of journey and restoration
+  - Hosea 11:4 — _"I led them with cords of human kindness, with ties of love. To them I was like one who lifts a little child to the cheek"_ — the gamal (lifting/giving) of God
 
 ## Memory Palace Integration
 
-- **Major System digit:** 3 | Gimel encodes the digit 3 in verse numbers (e.g., Psalm 23:**3** = Gimel)
+- **Major System digit:** 3 — Gimel encodes the digit 3 in verse numbers (e.g., Psalm 23:**3** = Gimel)
 - **Suggested PAO:** Paul riding a horse on his missionary journeys (Gimel = 3 = Paul's number). Paul is the ultimate traveler of grace, the one who "became all things to all people" (1 Corinthians 9:22). His camel-journeys spread the gospel across the known world.
-- **Verse encoding example:** John 3:16 | "3" = Gimel (camel/grace). The famous verse itself is a gimel-verse: _"For God so loved the world that he **gave** his one and only Son"_. Grace in motion.
+- **Verse encoding example:** John 3:16 — "3" = Gimel (camel/grace). The famous verse itself is a gimel-verse: _"For God so loved the world that he **gave** his one and only Son"_. Grace in motion.

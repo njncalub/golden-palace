@@ -9,9 +9,9 @@
 
 The aleph is the picture of strength, leadership, and primacy. The ox was the strongest animal in the ancient world, the engine of agriculture, the source of power. But notably, the ox is a _servant_ animal, not a predator.
 
-- **Strength** | power under control, the ability to bear burdens
-- **First** | the beginning, the source, the origin
-- **God** | the ultimate Strong One who serves His creation
+- **Strength** — power under control, the ability to bear burdens
+- **First** — the beginning, the source, the origin
+- **God** — the ultimate Strong One who serves His creation
 
 ## The Sound
 
@@ -49,17 +49,17 @@ That's aleph.
 - **Value:** 1
 - **Words with same value:** Achad (one), Ab (father), Adon (Lord)
 - **Appears in key Hebrew words:**
-  - **Abba** (אבא) | Father, aleph begins the name
-  - **Adonai** (אדני) | Lord/Lordship, aleph means "Master"
-  - **Elohim** (אלהים) | God, aleph is the first letter of His name
-  - **Emet** (אמת) | Truth, aleph begins truth
+  - **Abba** (אבא) — Father, aleph begins the name
+  - **Adonai** (אדני) — Lord/Lordship, aleph means "Master"
+  - **Elohim** (אלהים) — God, aleph is the first letter of His name
+  - **Emet** (אמת) — Truth, aleph begins truth
 - **Scripture appearances:**
   - Deuteronomy 6:4 — _"Shema Yisrael, Adonai Eloheinu, Adonai Echad"_ (Hear, O Israel: The LORD our God, the LORD is **one/echad**)
   - Revelation 22:13 — _"I am the Alpha and the Omega"_ (Hebrew: _"I am the Aleph and the Tav"_)
-  - Psalm 119 | The Aleph section (verses 1-8) begins every verse with aleph
+  - Psalm 119 — The Aleph section (verses 1-8) begins every verse with aleph
 
 ## Memory Palace Integration
 
-- **Major System digit:** 1 | Aleph encodes the digit 1 in verse numbers (e.g., Psalm 23:**1** = Aleph)
+- **Major System digit:** 1 — Aleph encodes the digit 1 in verse numbers (e.g., Psalm 23:**1** = Aleph)
 - **Suggested PAO:** Moses splitting the sea (Aleph = 1 = Moses's number in the PAO system). Moses is the perfect Aleph figure, the servant-leader, the ox-strength who stood before Pharaoh and said "Let my people go." His staff was his strength, but his power came from God.
-- **Verse encoding example:** John 3:16 | "3" = Gimel (camel/grace), "16" = Aleph-Vav (God connects). The chapter and verse themselves preach the gospel through Hebrew letters.
+- **Verse encoding example:** John 3:16 — "3" = Gimel (camel/grace), "16" = Aleph-Vav (God connects). The chapter and verse themselves preach the gospel through Hebrew letters.

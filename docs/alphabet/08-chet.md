@@ -9,9 +9,9 @@
 
 The chet is the picture of a fence, a boundary, a sanctuary. It represents separation, holiness, and the protected place where God dwells.
 
-- **Fence/Enclosure** | a boundary, a protected space, a sanctuary
-- **Life/Chai** | the Hebrew word for "life" begins with chet
-- **Inner chamber** | the private place, the holy of holies, the secret place
+- **Fence/Enclosure** — a boundary, a protected space, a sanctuary
+- **Life/Chai** — the Hebrew word for "life" begins with chet
+- **Inner chamber** — the private place, the holy of holies, the secret place
 
 ## The Sound
 
@@ -32,13 +32,13 @@ The chet is the picture of a fence, a boundary, a sanctuary. It represents separ
 
 The fence imagery appears throughout Scripture:
 
-- **The Garden of Eden** | Genesis 2-3 shows God placing boundaries (chet) around the tree of knowledge. The fence wasn't to restrict Adam and Eve; it was to protect them. But when they crossed the boundary, they lost access to the garden.
+- **The Garden of Eden** — Genesis 2-3 shows God placing boundaries (chet) around the tree of knowledge. The fence wasn't to restrict Adam and Eve; it was to protect them. But when they crossed the boundary, they lost access to the garden.
 
-- **The Tabernacle Courtyard** | The Tabernacle was surrounded by a fence (Exodus 27:9-19). Inside the fence was the presence of God. Outside was the wilderness. The chet-marked the boundary between holy and profane.
+- **The Tabernacle Courtyard** — The Tabernacle was surrounded by a fence (Exodus 27:9-19). Inside the fence was the presence of God. Outside was the wilderness. The chet-marked the boundary between holy and profane.
 
-- **The Inner Chamber** | The Hebrew word _cheder_ (inner chamber) begins with chet. Psalm 91:1 says, _"He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty."_ The chet is that secret place—the protected chamber where God hides you.
+- **The Inner Chamber** — The Hebrew word _cheder_ (inner chamber) begins with chet. Psalm 91:1 says, _"He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty."_ The chet is that secret place—the protected chamber where God hides you.
 
-- **The Wedding Chuppah** | Jewish weddings are performed under a _chuppah_—a canopy or chamber. The chuppah creates a temporary sanctuary, a chet-space where the couple becomes one. This is a picture of Christ and the Church (Ephesians 5:31-32).
+- **The Wedding Chuppah** — Jewish weddings are performed under a _chuppah_—a canopy or chamber. The chuppah creates a temporary sanctuary, a chet-space where the couple becomes one. This is a picture of Christ and the Church (Ephesians 5:31-32).
 
 Jesus is our Chet. He is the Sanctuary. He said, _"Abide in me, and I in you"_ (John 15:4). The fence of His protection is not a prison but a pasture. Inside the boundary is safety, nourishment, and life.
 
@@ -55,18 +55,18 @@ That's chet.
 - **Value:** 8
 - **Words with same value:** Chet (fence), Chai (life), Chuppah (canopy)
 - **Appears in key Hebrew words:**
-  - **Chai** (חי) | Life, the word that means "alive"
-  - **Chuppah** (חופה) | Wedding canopy, the chamber of covenant
-  - **Cheder** (חדר) | Inner chamber, the secret place
-  - **Chatat** (חטאת) | Sin offering, the sacrifice that restores access to the sanctuary
+  - **Chai** (חי) — Life, the word that means "alive"
+  - **Chuppah** (חופה) — Wedding canopy, the chamber of covenant
+  - **Cheder** (חדר) — Inner chamber, the secret place
+  - **Chatat** (חטאת) — Sin offering, the sacrifice that restores access to the sanctuary
 - **Scripture appearances:**
-  - Psalm 91:1 | _"He who dwells in the secret place (cheder) of the Most High"_ — the chet-sanctuary
-  - Psalm 118:19-20 | _"Open for me the gates of righteousness; I will enter and give thanks to the LORD. This is the gate of the LORD through which the righteous may enter"_ — the chet-doorway
-  - John 10:9 | _"I am the door"_
-  - Revelation 21:3 | _"God's dwelling place is now among the people"_ — the ultimate chet fulfilled
+  - Psalm 91:1 — _"He who dwells in the secret place (cheder) of the Most High"_ — the chet-sanctuary
+  - Psalm 118:19-20 — _"Open for me the gates of righteousness; I will enter and give thanks to the LORD. This is the gate of the LORD through which the righteous may enter"_ — the chet-doorway
+  - John 10:9 — _"I am the door"_
+  - Revelation 21:3 — _"God's dwelling place is now among the people"_ — the ultimate chet fulfilled
 
 ## Memory Palace Integration
 
-- **Major System digit:** 8 | Chet encodes the digit 8 in verse numbers (e.g., Psalm 23:**8** = Chet)
+- **Major System digit:** 8 — Chet encodes the digit 8 in verse numbers (e.g., Psalm 23:**8** = Chet)
 - **Suggested PAO:** Noah building the ark (Chet = 8 = Noah's number). Noah and his family (8 people) were saved in the ark—a giant wooden chet-box that floated above the judgment. The ark was a fenced sanctuary in the midst of destruction. Noah is the man who stepped inside the chet and found life.
-- **Verse encoding example:** Psalm 91:1 | _"He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty."_ The chet-verse par excellence—dwelling inside the fence of God's protection.
+- **Verse encoding example:** Psalm 91:1 — _"He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty."_ The chet-verse par excellence—dwelling inside the fence of God's protection.

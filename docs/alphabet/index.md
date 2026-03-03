@@ -110,10 +110,10 @@ The Aleph (א) and Tav (ת) appear together as אֵת (et), untranslated in Engl
 
 ### The Name of God (YHWH)
 
-- Yod (י) | Hand / 10
-- Hey (ה) | Behold / 5
-- Vav (ו) | Nail / 6
-- Hey (ה) | Behold / 5
+- Yod (י) — Hand / 10
+- Hey (ה) — Behold / 5
+- Vav (ו) — Nail / 6
+- Hey (ה) — Behold / 5
 
 Read pictographically: **"The Hand, Behold! The Nail, Behold!"**
 

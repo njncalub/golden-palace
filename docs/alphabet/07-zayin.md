@@ -9,9 +9,9 @@
 
 The zayin is the picture of a weapon, of cutting, of conflict and nourishment. It represents spiritual warfare, the sword of the Spirit, and the act of cutting away what is dead so that life can flourish.
 
-- **Weapon/Sword** | a tool of battle, an instrument of warfare
-- **To cut/prune** | to remove what is dead, to harvest
-- **To nourish** | paradoxically, the same root can mean "to feed" (a weapon that sustains)
+- **Weapon/Sword** — a tool of battle, an instrument of warfare
+- **To cut/prune** — to remove what is dead, to harvest
+- **To nourish** — paradoxically, the same root can mean "to feed" (a weapon that sustains)
 
 ## The Sound
 
@@ -32,13 +32,13 @@ The zayin is the picture of a weapon, of cutting, of conflict and nourishment. I
 
 The weapon imagery saturates the letter zayin:
 
-- **Gideon's Sword** | Judges 7 tells of Gideon's 300 men who defeated an army with trumpets and torches—weapons that looked useless but carried God's power. The zayin doesn't have to be impressive; it just has to be God's.
+- **Gideon's Sword** — Judges 7 tells of Gideon's 300 men who defeated an army with trumpets and torches—weapons that looked useless but carried God's power. The zayin doesn't have to be impressive; it just has to be God's.
 
-- **The Sword of the Lord** | Judges 6:23 — _"The LORD is with you, mighty warrior."_ Gideon didn't see himself as a warrior, but God did. God sees the zayin in you before you do.
+- **The Sword of the Lord** — Judges 6:23 — _"The LORD is with you, mighty warrior."_ Gideon didn't see himself as a warrior, but God did. God sees the zayin in you before you do.
 
-- **David's Sword** | David took Goliath's sword and cut off his head (1 Samuel 17:51). The stone (Aleph-strength) knocked the giant down, but the sword (Zayin) finished the job. Both are needed—strength and weapon, prayer and warfare.
+- **David's Sword** — David took Goliath's sword and cut off his head (1 Samuel 17:51). The stone (Aleph-strength) knocked the giant down, but the sword (Zayin) finished the job. Both are needed—strength and weapon, prayer and warfare.
 
-- **Jesus as Sword** | Matthew 10:34 — _"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword."_ Jesus is the dividing line—the Zayin that separates truth from lies, life from death, heaven from hell.
+- **Jesus as Sword** — Matthew 10:34 — _"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword."_ Jesus is the dividing line—the Zayin that separates truth from lies, life from death, heaven from hell.
 
 Jesus is our Zayin. He is the Warrior who fights FOR us. He said, _"In this world you will have trouble. But take heart! I have overcome the world"_ (John 16:33). The weapon is already victorious.
 
@@ -55,18 +55,18 @@ That's zayin.
 - **Value:** 7
 - **Words with same value:** Zayin (weapon), Zeal (passion), Zaken (elder)
 - **Appears in key Hebrew words:**
-  - **Zan** (זן) | To feed, to nourish (paradox of the weapon)
-  - **Zera** (זרע) | Seed, the word that contains zayin
-  - **Zion** (ציון) | The city of God, containing a zayin-sound
-  - **Mizmor** (מזמור) | Psalm, a song with weapon-power
+  - **Zan** (זן) — To feed, to nourish (paradox of the weapon)
+  - **Zera** (זרע) — Seed, the word that contains zayin
+  - **Zion** (ציון) — The city of God, containing a zayin-sound
+  - **Mizmor** (מזמור) — Psalm, a song with weapon-power
 - **Scripture appearances:**
-  - Judges 7:20 | _"The three companies blew the trumpets and smashed the jars"_ — Gideon's zayin-victory
-  - Hebrews 4:12 | _"For the word of God is alive and active. Sharper than any double-edged sword"_ — the living zayin
-  - Ephesians 6:17 | _"Take the helmet of salvation and the sword of the Spirit, which is the word of God"_
-  - Psalm 149:6 | _"May the praise of God be in their mouths and a double-edged sword in their hands"_
+  - Judges 7:20 — _"The three companies blew the trumpets and smashed the jars"_ — Gideon's zayin-victory
+  - Hebrews 4:12 — _"For the word of God is alive and active. Sharper than any double-edged sword"_ — the living zayin
+  - Ephesians 6:17 — _"Take the helmet of salvation and the sword of the Spirit, which is the word of God"_
+  - Psalm 149:6 — _"May the praise of God be in their mouths and a double-edged sword in their hands"_
 
 ## Memory Palace Integration
 
-- **Major System digit:** 7 | Zayin encodes the digit 7 in verse numbers (e.g., Psalm 23:**7** = Zayin)
+- **Major System digit:** 7 — Zayin encodes the digit 7 in verse numbers (e.g., Psalm 23:**7** = Zayin)
 - **Suggested PAO:** Gideon blowing a trumpet (Zayin = 7 = Gideon's number). Gideon is the ultimate "unlikely warrior"—the man hiding in a winepress who God called a "mighty warrior." His 300 men defeated an army with trumpets and torches. Gideon proves that God's zayin doesn't need to be impressive; it just needs to be His.
-- **Verse encoding example:** Hebrews 4:12 | The Zayin-verse par excellence: _"For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart."_
+- **Verse encoding example:** Hebrews 4:12 — The Zayin-verse par excellence: _"For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart."_

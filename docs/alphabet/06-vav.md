@@ -9,9 +9,9 @@
 
 The vav is the picture of connection, joining, and securing. It represents the hook that binds things together, the nail that fastens, the link between heaven and earth.
 
-- **Connector/And** | the word "and" in Hebrew, joining words and ideas
-- **Nail/Peg** | that which secures, establishes, makes firm
-- **Hook** | the link between two things, the bridge
+- **Connector/And** — the word "and" in Hebrew, joining words and ideas
+- **Nail/Peg** — that which secures, establishes, makes firm
+- **Hook** — the link between two things, the bridge
 
 ## The Sound
 
@@ -32,13 +32,13 @@ The vav is the picture of connection, joining, and securing. It represents the h
 
 The nail appears throughout Scripture as a symbol of securing and connecting:
 
-- **The Temple** | In 1 Chronicles 22:3, David prepared "a large amount of iron to make nails for the doors of the gateways." The temple—the house of God—was secured with nails.
+- **The Temple** — In 1 Chronicles 22:3, David prepared "a large amount of iron to make nails for the doors of the gateways." The temple—the house of God—was secured with nails.
 
-- **Isaiah 22:23** | _"I will drive him like a peg into a firm place; he will become a seat of honor for the house of his father."_ This is a prophecy of Jesus, the Nail nailed to a firm place (the cross), becoming a seat of honor (seated at the right hand of God).
+- **Isaiah 22:23** — _"I will drive him like a peg into a firm place; he will become a seat of honor for the house of his father."_ This is a prophecy of Jesus, the Nail nailed to a firm place (the cross), becoming a seat of honor (seated at the right hand of God).
 
-- **Ezra 9:8** | _"But now, for a brief moment, the LORD our God has been gracious in leaving us a remnant and giving us a firm place in his sanctuary."_ The Hebrew word for "firm place" is connected to the vav—the nail that secures.
+- **Ezra 9:8** — _"But now, for a brief moment, the LORD our God has been gracious in leaving us a remnant and giving us a firm place in his sanctuary."_ The Hebrew word for "firm place" is connected to the vav—the nail that secures.
 
-- **The Cross** | Jesus was nailed to the cross. Those vavs—the sixth letter—secured our redemption. The Psalmist said, _"They pierced my hands and my feet"_ (Psalm 22:16). The vav-prophecy was fulfilled.
+- **The Cross** — Jesus was nailed to the cross. Those vavs—the sixth letter—secured our redemption. The Psalmist said, _"They pierced my hands and my feet"_ (Psalm 22:16). The vav-prophecy was fulfilled.
 
 Jesus is our Vav. He is the Connector. He said, _"I am the way; no one comes to the Father except through me"_ (John 14:6). The vav doesn't exist for itself—it exists to connect. The nail doesn't sit on the surface; it penetrates to join.
 
@@ -55,18 +55,18 @@ That's vav.
 - **Value:** 6
 - **Words with same value:** Vav (nail/and), Veshet (intestine/conduit)
 - **Appears in key Hebrew words:**
-  - **Vav** (ו) | The word for "and," the great connector
-  - **Yavah** (יבה) | To join, to connect
-  - **Yeshua** (ישוע) | Jesus—his middle name contains a vav (Shin-Vav-Ayin)
-  - **Elohim** (אלהים) | God—the name contains a hidden vav between the letters
+  - **Vav** (ו) — The word for "and," the great connector
+  - **Yavah** (יבה) — To join, to connect
+  - **Yeshua** (ישוע) — Jesus—his middle name contains a vav (Shin-Vav-Ayin)
+  - **Elohim** (אלהים) — God—the name contains a hidden vav between the letters
 - **Scripture appearances:**
-  - Esther 4:1 | _"When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, wailing loudly and bitterly"_ — Mordecai's response contained a vav of connection to his people
-  - Psalm 22:16 | _"They pierce my hands and my feet"_ — the vav-nail prophecy
-  - John 20:25-27 | Thomas sees the nail marks in Jesus's hands—the vav-revelation
-  - Colossians 1:17 | _"He is before all things, and in him all things hold together"_ — Jesus as the cosmic Vav
+  - Esther 4:1 — _"When Mordecai learned of all that had been done, he tore his clothes, put on sackcloth and ashes, and went out into the city, wailing loudly and bitterly"_ — Mordecai's response contained a vav of connection to his people
+  - Psalm 22:16 — _"They pierce my hands and my feet"_ — the vav-nail prophecy
+  - John 20:25-27 — Thomas sees the nail marks in Jesus's hands—the vav-revelation
+  - Colossians 1:17 — _"He is before all things, and in him all things hold together"_ — Jesus as the cosmic Vav
 
 ## Memory Palace Integration
 
-- **Major System digit:** 6 | Vav encodes the digit 6 in verse numbers (e.g., Psalm 23:**6** = Vav)
+- **Major System digit:** 6 — Vav encodes the digit 6 in verse numbers (e.g., Psalm 23:**6** = Vav)
 - **Suggested PAO:** Thomas touching Jesus's wounds (Vav = 6 = Thomas's number). Thomas is the "doubter turned believer" who encountered the vav—the nail marks in Jesus's hands. His story is the ultimate vav-testimony: connecting doubt to faith, connecting sight to belief. Jesus said to him, _"Stop doubting and believe"_ (John 20:27).
-- **Verse encoding example:** John 19:18 | _"There they crucified him, and with him two others—one on each side and Jesus in the middle."_ The vav-nail moment of history.
+- **Verse encoding example:** John 19:18 — _"There they crucified him, and with him two others—one on each side and Jesus in the middle."_ The vav-nail moment of history.
