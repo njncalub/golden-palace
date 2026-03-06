@@ -51,6 +51,10 @@ Picture a large eye—unblinking, all-seeing. The eye is glowing with divine lig
 
 That's ayin.
 
+## In the Sequence
+
+**[Samech (ס) — Support](15-samech.md)** upheld and encircled; Ayin is the eye — sight, perception, providence. The eye of God watches. **Next comes [Pey (פ) — Mouth](17-pey.md)**: what the eye sees, the mouth speaks. Word, expression, the creative power of speech.
+
 ## Gematria Connections
 
 - **Value:** 70
@@ -68,6 +72,6 @@ That's ayin.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 70 (7-0) — Ayin encodes the digits 70 in verse numbers
-- **Suggested PAO:** Bartimaeus receiving his sight (Ayin = 70 = Bartimaeus's number). Bartimaeus was blind, but when he heard that Jesus was passing by, he shouted, _"Jesus, Son of David, have mercy on me!"_ (Mark 10:47). Jesus stopped, called him, and opened his ayin-eyes. The blind beggar became a seeing disciple.
-- **Verse encoding example:** 2 Chronicles 16:9 — The ayin-verse: _"For the eyes of the LORD range throughout the earth to strengthen those whose hearts are fully committed to him."_
+- **Major System digit:** 70 (7-0) — Ayin encodes the digits 70 in verse numbers (e.g., verse **70**, 70 elders)
+- **Suggested PAO:** [16 — Thomas](/pao/16-thomas): Thomas touching Jesus' nail marks (John 20:27). Ayin = 70 (value); for **16** think Aleph-Vav, God and the nail—Thomas at the wounds. Person: Thomas. Action: Touching Jesus' nail marks. Object: Jesus' wounds.
+- **Verse encoding example:** John 20:27 — the **16** (Thomas, "My Lord and my God"). 2 Chronicles 16:9: _"The eyes of the LORD range throughout the earth"_ — the ayin-eye.

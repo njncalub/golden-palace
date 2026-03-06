@@ -51,6 +51,10 @@ Picture a fish hook—curved, barbed, gleaming. The hook is baited with somethin
 
 That's tzadi.
 
+## In the Sequence
+
+**[Pey (פ) — Mouth](17-pey.md)** spoke the word; Tzadi is the hook — righteousness, desire, the chase. The righteous One who catches us by grace. **Next comes [Kof (ק) — Horizon / Holy](19-kof.md)**: the sun at the edge, holiness, the eye of the needle.
+
 ## Gematria Connections
 
 - **Value:** 90
@@ -68,6 +72,6 @@ That's tzadi.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 90 (9-0) — Tzadi encodes the digits 90 in verse numbers
-- **Suggested PAO:** Andrew casting a net into the sea (Tzadi = 90 = Andrew's number). Andrew was the first disciple called, a fisherman by trade. He caught the hook of Jesus' call and immediately began fishing for others—bringing his brother Peter to Jesus (John 1:40-42).
-- **Verse encoding example:** Matthew 4:19 — The tzadi-verse: _"Come, follow me, and I will send you out to fish for people."_
+- **Major System digit:** 90 (9-0) — Tzadi encodes the digits 90 in verse numbers (e.g., verse **90**)
+- **Suggested PAO:** [18 — Lazarus](/pao/18-lazarus): Lazarus raised from the dead (John 11:43–44). Tzadi = 90 (value); for **18** think chai (life). Person: Lazarus. Action: Raised from the dead—coming out of the tomb. Object: Grave clothes.
+- **Verse encoding example:** John 11:43–44 — the **18** (Lazarus, chai/life). Matthew 4:19: _"I will send you out to fish for people"_ — the tzadi-hook.

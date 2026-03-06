@@ -51,6 +51,10 @@ Picture the sun rising on the horizon—a sliver of light breaking through darkn
 
 That's kof.
 
+## In the Sequence
+
+**[Tzadi (צ) — Fish hook](18-tzadi.md)** caught us in righteousness; Kof is holiness — the horizon, the eye of the needle, the small opening through which the kingdom is entered. **Next comes [Resh (ר) — Head](20-resh.md)**: the chief, the ruler, the head of the body.
+
 ## Gematria Connections
 
 - **Value:** 100
@@ -68,6 +72,6 @@ That's kof.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 100 (1-0-0) — Kof encodes the digits 100 in verse numbers
-- **Suggested PAO:** Nicodemus coming to Jesus at night (Kof = 100 = Nicodemus's number). Nicodemus was a religious leader—holy on the outside, hollow on the inside. He came to Jesus at night (John 3:1-21) and heard the words: _"You must be born again."_ The kof-choice: become truly holy or stay a monkey-mimic.
-- **Verse encoding example:** Matthew 19:24 — The kof-verse: _"Again I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God."_ Surrender is the way.
+- **Major System digit:** 100 (1-0-0) — Kof encodes the digits 100 in verse numbers (e.g., verse **100**, Abraham 100)
+- **Suggested PAO:** [19 — Melchizedek](/pao/19-melchizedek): Melchizedek bringing bread and wine to Abraham (Genesis 14:18). Kof = 100 (value); for **19** think king of Salem, priest of God Most High. Person: Melchizedek. Action: Bringing bread and wine, blessing Abraham. Object: Bread and wine.
+- **Verse encoding example:** Genesis 14:18 — the **19** (Melchizedek). Matthew 19:24: _"It is easier for a camel to go through the eye of a needle"_ — the kof, holiness, surrender.

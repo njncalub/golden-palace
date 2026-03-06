@@ -50,6 +50,10 @@ Picture a shepherd's staff—tall, reaching upward. At the top of the staff, the
 
 That's lamed.
 
+## In the Sequence
+
+**[Kaf (כ) — Palm](11-kaf.md)** covered and held; Lamed is the staff — the goad, the shepherd's crook. To teach, to guide, to comfort. Authority and rescue. **Next comes [Mem (מ) — Water](13-mem.md)**: chaos and life, the deep and the living water.
+
 ## Gematria Connections
 
 - **Value:** 30
@@ -67,6 +71,6 @@ That's lamed.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 30 (3-0) — Lamed encodes the digits 30 in verse numbers
-- **Suggested PAO:** Jesus as the Good Shepherd with a staff (Lamed = 30 = Jesus's teaching ministry). Jesus is the ultimate Teacher who said, _"I am the good shepherd; the good shepherd lays down his life for the sheep"_ (John 10:11). His lamed-staff guides, protects, and rescues.
-- **Verse encoding example:** Psalm 23:4 — The lamed-verse: _"Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me."_
+- **Major System digit:** 30 (3-0) — Lamed encodes the digits 30 in verse numbers (e.g., verse **30**, chapter **30**)
+- **Suggested PAO:** [12 — James (son of Zebedee)](/pao/12-james-son-of-zebedee): James mending nets in the boat with John (Mark 1:19). Lamed = 30 = staff, teaching; one of the twelve. Person: James. Action: Mending nets in the boat with John. Object: Nets / boat.
+- **Verse encoding example:** Mark 1:19 — the **12** (James, one of the Twelve). Psalm 23:4: _"Your rod and your staff, they comfort me"_ — the lamed-staff.

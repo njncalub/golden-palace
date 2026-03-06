@@ -51,6 +51,10 @@ Picture a small seed lying in soil. From the seed, a sprout emerges—green, ali
 
 That's nun.
 
+## In the Sequence
+
+**[Mem (מ) — Water](13-mem.md)** was chaos and life; Nun is the seed — the sprout, the heir, life continuing. Life from death. **Next comes [Samech (ס) — Support](15-samech.md)**: the prop, the circle, that which upholds.
+
 ## Gematria Connections
 
 - **Value:** 50 (700 in final form, Nun Sofit)
@@ -68,6 +72,6 @@ That's nun.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 50 (5-0) — Nun encodes the digits 50 in verse numbers
-- **Suggested PAO:** Jonah being swallowed by a great fish (Nun = 50 = Jonah's number). Jonah is the nun-prophet—swallowed by a fish, vomited onto dry land, and sent to preach to Nineveh. The fish that became a tomb became a womb. Jonah's three days in the fish foreshadowed Jesus' three days in the tomb.
-- **Verse encoding example:** John 12:24 — The nun-verse: _"Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds."_ Life comes through death.
+- **Major System digit:** 50 (5-0) — Nun encodes the digits 50 in verse numbers (e.g., verse **50**, Pentecost)
+- **Suggested PAO:** [14 — The Israelite (Passover)](/pao/14-israelite-passover): The Israelite applying blood to the doorposts (Exodus 12:6–7). Nun = 50 (value); for **14** think 14th of Nisan, the lamb. Person: The Israelite (head of household). Action: Applying blood to doorposts and lintel. Object: Passover lamb / blood.
+- **Verse encoding example:** Exodus 12:6–7 — the **14** (14th of Nisan, blood on the door). John 12:24: _"Unless a kernel of wheat falls to the ground and dies"_ — the nun-seed, life through death.

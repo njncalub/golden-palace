@@ -48,6 +48,10 @@ Picture a camel kneeling in the desert sand. Above the camel, the number **3** f
 
 That's gimel.
 
+## In the Sequence
+
+**[Bet (ב) — House](02-bet.md)** gave us the dwelling; Gimel is what happens next — we're sent out. The camel carries the traveler. Grace in motion. **Next comes [Dalet (ד) — Door](04-dalet.md)**: the journey has a threshold to cross.
+
 ## Gematria Connections
 
 - **Value:** 3
@@ -65,5 +69,5 @@ That's gimel.
 ## Putting It Into Practice
 
 - **Major System digit:** 3 — Gimel encodes the digit 3 in verse numbers (e.g., Psalm 23:**3** = Gimel)
-- **Suggested PAO:** Paul riding a horse on his missionary journeys (Gimel = 3 = Paul's number). Paul is the ultimate traveler of grace, the one who "became all things to all people" (1 Corinthians 9:22). His camel-journeys spread the gospel across the known world.
-- **Verse encoding example:** John 3:16 — "3" = Gimel (camel/grace). The famous verse itself is a gimel-verse: _"For God so loved the world that he **gave** his one and only Son"_. Grace in motion.
+- **Suggested PAO:** [03 — Abraham](/pao/03-abraham): Abraham offering Isaac on the altar; God provides the ram (Genesis 22). Gimel = 3 = journey, grace. Person: Abraham. Action: Offering Isaac on the altar. Object: Altar / ram.
+- **Verse encoding example:** John **3**:16 — the **3** (Gimel) = Abraham/grace: _"For God so loved the world that he **gave** his one and only Son."_ Grace in motion; the ram in the thicket.

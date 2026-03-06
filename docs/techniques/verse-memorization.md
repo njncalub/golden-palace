@@ -6,6 +6,8 @@ title: Verse Memorization (Word for Word)
 
 PAO and the Hebrew Major System give you the **address** of a verse — the reference. To know the verse **by heart**, word for word, you need a clear workflow that ties the _content_ to your palace and to your mouth.
 
+**Encoding the reference:** Use **PAO by number** — the chapter or verse number (digit or two-digit) selects the PAO from the [PAO roster](/pao/) (e.g. verse 6 → PAO 06; verse 16 → PAO 16). Gematria (the letter’s numerical value in Scripture study) is for depth and connections, not for choosing the PAO when you encode a reference. See [Hebrew Alphabet: Verse encoding vs gematria](/alphabet/#verse-encoding-vs-gematria) for the full distinction.
+
 ## The Golden Palace Workflow
 
 ### 1. Learn the text

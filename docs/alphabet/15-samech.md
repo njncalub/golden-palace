@@ -51,6 +51,10 @@ Picture a perfect circle drawn in the sand. The circle has no beginning and no e
 
 That's samech.
 
+## In the Sequence
+
+**[Nun (נ) — Seed](14-nun.md)** gave us life from death; Samech is what holds it up — the prop, the foundation, the circle of God's faithfulness. **Next comes [Ayin (ע) — Eye](16-ayin.md)**: to see, to perceive, the watchful care of God.
+
 ## Gematria Connections
 
 - **Value:** 60
@@ -68,6 +72,6 @@ That's samech.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 60 (6-0) — Samech encodes the digits 60 in verse numbers
-- **Suggested PAO:** Stephen the martyr being stoned while seeing heaven open (Samech = 60 = Stephen's number). Stephen saw _"the heavens opened and the Son of Man standing at the right hand of God"_ (Acts 7:56). Even as he was being killed, Stephen saw the Samech-support of God upholding him.
-- **Verse encoding example:** Hebrews 1:3 — The samech-verse: _"The Son is the radiance of God's glory and the exact representation of his being, sustaining all things by his powerful word."_
+- **Major System digit:** 0 (Samech = 60, encodes digit 0) — Samech encodes the digit 0 in verse numbers (e.g., Psalm 23:1**0** or chapter **60**)
+- **Suggested PAO:** [00 — God (the LORD)](/pao/00-god-over-waters): God moving over the face of the waters (Genesis 1:2)—before "Let there be light." Samech = 0 = the circle, the void, the One who upholds. Person: God. Action: Moving over the face of the waters. Object: The deep (tehom).
+- **Verse encoding example:** Genesis 1:2 — _"The Spirit of God was hovering over the waters"_ — the **0** (Samech): God over the deep, upholding. For the number **15** (e.g. verse 15) use [15 — Heman](/pao/15-heman): leading the songs of ascent with cymbals. Hebrews 1:3: _"Sustaining all things by his powerful word"_ — the samech-support.

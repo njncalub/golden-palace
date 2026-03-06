@@ -20,7 +20,7 @@ The tet is the picture of a serpent, of that which is hidden or coiled, of cunni
 
 ## The Hook That Will Make This Stick
 
-1. **Tet is a SNAKE.** The ninth letter of the Hebrew alphabet is literally a serpent. This is the creature that tempted Eve (Genesis 3). The letter that looks like a coiled snake is the letter of temptation. But in Numbers 21, God told Moses to make a bronze serpent and put it on a pole. Anyone who looked at it lived. The snake (tet) that brought death also brought healing—when lifted up. Jesus said, _"Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up"_ (John 3:14). The tet-serpent points to the cross.
+1. **Tet is pictographically a SNAKE.** In ancient pictograph traditions the ninth letter's shape suggests a coiled serpent (in other traditions, a basket). This is the creature that tempted Eve (Genesis 3). The letter associated with that coiled shape becomes the letter of temptation. But in Numbers 21, God told Moses to make a bronze serpent and put it on a pole. Anyone who looked at it lived. The snake (tet) that brought death also brought healing—when lifted up. Jesus said, _"Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up"_ (John 3:14). The tet-serpent points to the cross.
 
 2. **Tet is NINE, and nine is JUDGMENT.** The ninth hour (3 PM) is when Jesus died (Matthew 27:46). The ninth plague was darkness (Exodus 10:21-29). Nine is the number of finality, of the end. The tet-serpent brings things to their conclusion—judgment and salvation together.
 
@@ -50,6 +50,10 @@ Picture a coiled snake on a rock. The snake is bronze—metallic and shining. Ab
 
 That's tet.
 
+## In the Sequence
+
+**[Chet (ח) — Fence](08-chet.md)** gave us the sanctuary; Tet is what appears inside — the serpent, hidden and coiled: temptation, and then the serpent lifted up for healing. **Next comes [Yod (י) — Hand](10-yod.md)**: the hand that works, that acts, the hand that would be pierced.
+
 ## Gematria Connections
 
 - **Value:** 9
@@ -68,5 +72,5 @@ That's tet.
 ## Putting It Into Practice
 
 - **Major System digit:** 9 — Tet encodes the digit 9 in verse numbers (e.g., Psalm 23:**9** = Tet)
-- **Suggested PAO:** Moses lifting the bronze serpent on a pole (Tet = 9 = Moses's number in this scene). Moses is the one who held up the tet—the bronze serpent that brought healing. He foreshadowed Jesus, the One lifted up so that all who look to Him live.
-- **Verse encoding example:** John 3:14-15 — The tet-verse connection: _"Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up, that everyone who believes may have eternal life in him."_ Look to the lifted-up One and live.
+- **Suggested PAO:** [09 — Hezekiah](/pao/09-hezekiah): Hezekiah breaking the bronze serpent (2 Kings 18:4)—Nehushtan destroyed so only the LORD is worshiped. Tet = 9 = serpent. Person: Hezekiah. Action: Breaking the bronze serpent. Object: Bronze serpent.
+- **Verse encoding example:** 2 Kings 18:4 — the **9** (Tet) = Hezekiah crushing Nehushtan. John 3:14–15: _"Just as Moses lifted up the snake in the wilderness, so the Son of Man must be lifted up"_ — the serpent (tet) lifted for healing; Hezekiah broke the idol so we look only to Christ.

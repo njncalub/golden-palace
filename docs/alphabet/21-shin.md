@@ -51,6 +51,10 @@ Picture flames—rising, dancing, consuming. The flames have three "tongues" lik
 
 That's shin.
 
+## In the Sequence
+
+**[Resh (ר) — Head](20-resh.md)** was the ruler; Shin is the fire — consuming, purifying, the presence of God. El Shaddai. The Shekinah. **Next comes [Tav (ת) — Cross](22-tav.md)**: the last letter — two crossed sticks, the sign, the mark, the covenant. The alphabet ends at the cross.
+
 ## Gematria Connections
 
 - **Value:** 300
@@ -68,6 +72,6 @@ That's shin.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 300 (3-0-0) — Shin encodes the digits 300 in verse numbers
-- **Suggested PAO:** Gideon's 300 men blowing trumpets (Shin = 300 = Gideon's army). Gideon's 300 men defeated the Midianite army with trumpets and torches—weapons that looked useless but carried God's shin-fire. The few defeated the many through divine power.
-- **Verse encoding example:** Acts 2:3-4 — The shin-verse: _"They saw what seemed to be tongues of fire that separated and came to rest on each of them. All of them were filled with the Holy Spirit."_
+- **Major System digit:** 300 (3-0-0) — Shin encodes the digits 300 in verse numbers (e.g., verse **300**, Gideon's 300)
+- **Suggested PAO:** [21 — Jacob](/pao/21-jacob): Jacob at Bethel—the ladder, angels ascending and descending (Genesis 28:12–13). Shin = 300 (value); for **21** think Bet-Aleph, house of God. Person: Jacob. Action: Seeing the ladder at Bethel. Object: Stone pillow / ladder.
+- **Verse encoding example:** Genesis 28:12–13 — the **21** (Jacob, Bethel, house of God). Acts 2:3–4: _"Tongues of fire … filled with the Holy Spirit"_ — the shin-fire.

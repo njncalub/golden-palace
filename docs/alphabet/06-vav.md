@@ -20,7 +20,7 @@ The vav is the picture of connection, joining, and securing. It represents the h
 
 ## The Hook That Will Make This Stick
 
-1. **Vav is the nail.** This letter literally looks like a nail: ו. The rabbis say vav represents the "nail of Messiah"—the spike that secured Jesus to the cross. The sixth letter is the nail. The number 6 is the number of man (created on the sixth day). The nail (vav) secured the Son of Man (6) to the cross. The alphabet was preaching the cross 2,000 years before Calvary.
+1. **Vav is the nail.** This letter literally looks like a nail: ו. The rabbis say vav represents the "nail of Messiah"—the spike that secured Jesus to the cross. The sixth letter is the nail. The number 6 is the number of man (created on the sixth day). The nail (vav) secured the Son of Man (6) to the cross. Many have read the letter as a picture of the cross's nail—a traditional typological reading, not a claim about the script's original design.
 
 2. **Vav is "AND"—the great connector.** In Hebrew, vav is the word for "and." It appears thousands of times in Scripture, joining words, phrases, and ideas. _Bereshit bara Elohim ET ha-shamayim V'ET ha-aretz_—"In the beginning God created the heavens **AND** the earth." The vav connects heaven and earth. It connects God to man. It connects promise to fulfillment.
 
@@ -34,7 +34,7 @@ The nail appears throughout Scripture as a symbol of securing and connecting:
 
 - **The Temple** — In 1 Chronicles 22:3, David prepared "a large amount of iron to make nails for the doors of the gateways." The temple—the house of God—was secured with nails.
 
-- **Isaiah 22:23** — _"I will drive him like a peg into a firm place; he will become a seat of honor for the house of his father."_ This is a prophecy of Jesus, the Nail nailed to a firm place (the cross), becoming a seat of honor (seated at the right hand of God).
+- **Isaiah 22:23** — _"I will drive him like a peg into a firm place; he will become a seat of honor for the house of his father."_ In context the peg is Eliakim; many readers see it as a type of Christ—the Nail nailed to a firm place (the cross), becoming a seat of honor (seated at the right hand of God).
 
 - **Ezra 9:8** — _"But now, for a brief moment, the LORD our God has been gracious in leaving us a remnant and giving us a firm place in his sanctuary."_ The Hebrew word for "firm place" is connected to the vav—the nail that secures.
 
@@ -49,6 +49,10 @@ Picture a rusted iron nail driven into wooden beams. The nail is holding two bea
 **Nail. Blood. Six. Connection.**
 
 That's vav.
+
+## In the Sequence
+
+**[Hey (ה) — Behold](05-hey.md)** was revelation; Vav is the bond — the nail that connects, secures, joins. Behold the nail. **Next comes [Zayin (ז) — Sword](07-zayin.md)**: the weapon, the cut, the crown and the blade.
 
 ## Gematria Connections
 
@@ -68,5 +72,5 @@ That's vav.
 ## Putting It Into Practice
 
 - **Major System digit:** 6 — Vav encodes the digit 6 in verse numbers (e.g., Psalm 23:**6** = Vav)
-- **Suggested PAO:** Thomas touching Jesus's wounds (Vav = 6 = Thomas's number). Thomas is the "doubter turned believer" who encountered the vav—the nail marks in Jesus's hands. His story is the ultimate vav-testimony: connecting doubt to faith, connecting sight to belief. Jesus said to him, _"Stop doubting and believe"_ (John 20:27).
-- **Verse encoding example:** John 19:18 — _"There they crucified him, and with him two others—one on each side and Jesus in the middle."_ The vav-nail moment of history.
+- **Suggested PAO:** [06 — The repentant thief](/pao/06-repentant-thief): The repentant thief looking at Jesus on the cross (Luke 23:39–43). Vav = 6 = nail; he was nailed beside the Savior. Person: The repentant thief. Action: Looking at Jesus and asking to be remembered. Object: Cross / nails.
+- **Verse encoding example:** Psalm 22:**16** (or Luke 23:42) — the **6** (Vav) = nail, the thief beside Jesus. _"They pierce my hands and my feet"_ — the vav-nail; or the thief's "Remember me when you come into your kingdom."

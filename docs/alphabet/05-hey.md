@@ -52,6 +52,10 @@ Picture a person standing with arms raised high, hands open to heaven. As they r
 
 That's hey.
 
+## In the Sequence
+
+**[Dalet (ד) — Door](04-dalet.md)** was the threshold; Hey is what we see when we pass through — revelation, breath, "Behold!" God making Himself known. **Next comes [Vav (ו) — Nail](06-vav.md)**: the connector that joins heaven and earth, the nail that secures.
+
 ## Gematria Connections
 
 - **Value:** 5
@@ -70,5 +74,5 @@ That's hey.
 ## Putting It Into Practice
 
 - **Major System digit:** 5 — Hey encodes the digit 5 in verse numbers (e.g., Psalm 23:**5** = Hey)
-- **Suggested PAO:** Mary Magdalene falling at Jesus's feet (Hey = 5 = Mary's number). Mary was the first to see the risen Christ, the first to breathe in resurrection life. She's the woman of "Behold!"—the one who saw what the disciples missed. Her story is a hey-story: looking, seeing, worshipping.
-- **Verse encoding example:** John 3:16 — "3" = Gimel (grace), "16" = Hey-Vav (behold-nail). The verse itself is a revelation: _"For God so loved the world that he gave his one and only Son"_. Behold (hey) the nail (vav)—the cross revealed.
+- **Suggested PAO:** [05 — The boy (five loaves)](/pao/05-boy-with-loaves): The boy giving his lunch to Jesus (John 6:9). Hey = 5 = behold; five loaves, feeding of the 5,000. Person: The boy. Action: Giving his lunch to Jesus. Object: Five barley loaves and two fish.
+- **Verse encoding example:** Psalm 23:**5** — "You prepare a table before me" — the **5** (Hey) = the boy's loaves, the table spread. Behold (hey) the small offering multiplied.

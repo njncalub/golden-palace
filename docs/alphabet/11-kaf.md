@@ -50,6 +50,10 @@ Picture an open hand—palm up, inviting. The hand has wings attached to it—im
 
 That's kaf.
 
+## In the Sequence
+
+**[Yod (י) — Hand](10-yod.md)** was the hand that works; Kaf is the palm — the open hand that covers, protects, holds. You are engraved on the palms of His hands. **Next comes [Lamed (ל) — Staff](12-lamed.md)**: the ox goad, the shepherd's staff — to teach, to guide, to prod.
+
 ## Gematria Connections
 
 - **Value:** 20 (500 in final form, Kaf Sofit)
@@ -67,6 +71,6 @@ That's kaf.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 20 (2-0) — Kaf encodes the digits 20 in verse numbers
-- **Suggested PAO:** Ruth at the feet of Boaz (Kaf = 20 = Ruth's number). Ruth found protection under the "wings" (kaf) of Boaz, her kinsman-redeemer. Boaz is a picture of Christ—the One whose open hand covers us and whose wings provide refuge.
-- **Verse encoding example:** Isaiah 49:16 — The kaf-verse: _"See, I have engraved you on the palms of my hands."_ Your name is written on God's palm.
+- **Major System digit:** 20 (2-0) — Kaf encodes the digits 20 in verse numbers (e.g., verse **20**, chapter **20**)
+- **Suggested PAO:** [11 — Joseph (son of Jacob)](/pao/11-joseph-son-of-jacob): Joseph telling his dream of eleven stars (Genesis 37:9). Kaf = 20 (value); for **11** think Joseph. Person: Joseph. Action: Telling his dream of eleven stars bowing. Object: Eleven stars.
+- **Verse encoding example:** Genesis 37:9 — the **11** (Joseph's dream). Isaiah 49:16: _"See, I have engraved you on the palms of my hands"_ — the kaf-palm.

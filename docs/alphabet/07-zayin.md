@@ -50,6 +50,10 @@ Picture a gleaming sword hanging on a wall. The sword has a crown on its hilt, a
 
 That's zayin.
 
+## In the Sequence
+
+**[Vav (ו) — Nail](06-vav.md)** connected and secured; Zayin is the weapon — the sword that cuts and nourishes, the battle that brings completion. **Next comes [Chet (ח) — Fence](08-chet.md)**: after the sword, a boundary, a sanctuary, life inside the enclosure.
+
 ## Gematria Connections
 
 - **Value:** 7
@@ -67,6 +71,6 @@ That's zayin.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 7 — Zayin encodes the digit 7 in verse numbers (e.g., Psalm 23:**7** = Zayin)
-- **Suggested PAO:** Gideon blowing a trumpet (Zayin = 7 = Gideon's number). Gideon is the ultimate "unlikely warrior"—the man hiding in a winepress who God called a "mighty warrior." His 300 men defeated an army with trumpets and torches. Gideon proves that God's zayin doesn't need to be impressive; it just needs to be His.
-- **Verse encoding example:** Hebrews 4:12 — The Zayin-verse par excellence: _"For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart."_
+- **Major System digit:** 7 — Zayin encodes the digit 7 in verse numbers (e.g., verse **7** in any reference, or Psalm 119 Zayin section)
+- **Suggested PAO:** [07 — Joshua](/pao/07-joshua): Joshua marching around Jericho (Joshua 6)—seven days, seventh day victory. Zayin = 7 = weapon; the trumpet and shout. Person: Joshua. Action: Marching around Jericho. Object: Trumpet / ark of the covenant.
+- **Verse encoding example:** Joshua 6:15–16 — the **7** (Zayin) = Joshua, seventh day, seven circuits, walls fall. Or Hebrews 4:12: _"Sharper than any double-edged sword"_ — the sword of the Spirit (zayin).

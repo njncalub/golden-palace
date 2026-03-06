@@ -1,5 +1,7 @@
 # Getting Started With The Hebrew Alphabet
 
+**Note on interpretation.** Some links below (e.g. Aleph-Tav as a "signature," YHWH read pictographically, letters and the cross) are **Christological or devotional readings** that go beyond strict grammar or etymology. They are offered for meditation and memory, not as linguistic or historical claims about the script's original design.
+
 ## The Hook That Will Break Your Brain
 
 **Before we even start the alphabet, read this.**
@@ -18,8 +20,9 @@ It appears right there between "God created" and "the heavens," and no English B
 
 It appears over **7,000 times** in the Hebrew Bible. Silently. Untranslated. Everywhere.
 
-- **Aleph (א)** = the first letter of the Hebrew alphabet
+- **Aleph (א)** = the first letter of the Hebrew alphabet — and it has **no sound**. It's silent (a breath, a glottal stop). The first letter doesn't speak.
 - **Tav (ת)** = the last letter of the Hebrew alphabet
+- The first **word** of the Bible, _Bereshit_ (בְּרֵאשִׁית — "In the beginning"), starts with **Bet (ב)**, not Aleph. God didn't open Scripture with the letter of "I am"; He opened with the letter of **house**. The Bible begins with a dwelling, not a pronouncement.
 
 Now read this:
 
@@ -30,9 +33,9 @@ Jesus spoke that in Greek to Greek-speaking readers. But He was a Hebrew-speakin
 
 **"I am the Aleph and the Tav."**
 
-The untranslatable word hiding silently in 7,000 verses is Jesus announcing Himself.
+Many Christians read this untranslatable word as Jesus announcing Himself — a Christological reading that sees in אֵת the Aleph and the Tav.
 
-From the very first sentence of Genesis, before the law, before the prophets, before Bethlehem, He signed His name into the text in a way no translator could render and no scholar could explain away.
+From the very first sentence of Genesis, before the law, before the prophets, before Bethlehem, a devotional reading sees His name signed into the text in a way no translator could render.
 
 **That is the alphabet you're about to learn.**
 
@@ -44,7 +47,7 @@ The Hebrew alphabet is not just letters.
 
 Read the pictographic meanings of all 22 letters in sequence and they tell a complete narrative. Scholars and rabbis have wrestled with this for centuries. When you see what the story is, you will not forget a single letter. Ever.
 
-We'll get there. But first, the letters themselves.
+**[We get there here → The 22-Letter Story](alphabet-story.md)** — the full narrative in one place. Or walk through the letters themselves below; each letter page now has an **In the Sequence** section showing how it connects to the one before and the one after.
 
 ## Quick Reference Table
 
@@ -96,7 +99,7 @@ This is not mysticism. It is how God architectured the language He used to revea
 
 ### The Aleph-Tav Bible Signature
 
-The Aleph (א) and Tav (ת) appear together as אֵת (et), untranslated in English Bibles, over 7,000 times. This is Jesus's signature in the Old Testament.
+The Aleph (א) and Tav (ת) appear together as אֵת (et), untranslated in English Bibles, over 7,000 times. Grammatically it marks the direct object; many Christians also read it as Jesus's signature in the Old Testament — a devotional, Christological reading.
 
 > _"I am the Alpha and the Omega"_ becomes _"I am the Aleph and the Tav"_ in Hebrew.
 
@@ -107,7 +110,7 @@ The Aleph (א) and Tav (ת) appear together as אֵת (et), untranslated in Engl
 - Vav (ו) — Nail / 6
 - Hey (ה) — Behold / 5
 
-Read pictographically: **"The Hand, Behold! The Nail, Behold!"**
+When the letter _meanings_ are read pictographically, some see: **"The Hand, Behold! The Nail, Behold!"** — a devotional reading of the name, not its linguistic etymology.
 
 ### Cross References
 
@@ -133,6 +136,10 @@ Each letter corresponds to a digit 0 through 9 for verse encoding:
 | 7     | Zayin (ז)     | 7     | Sword          |
 | 8     | Chet (ח)      | 8     | Fence/womb     |
 | 9     | Tet (ט)       | 9     | Coiled serpent |
+
+### Verse encoding vs gematria
+
+For memorizing references (book, chapter, verse), use **PAO by number**: the digit or two-digit number in the reference selects the PAO (e.g. verse **6** → PAO 06 repentant thief; verse **16** → PAO 16 Thomas). The letter is the bridge for digits 0–9; for numbers 10–99 you use the [PAO roster](/pao/) directly. **Gematria** (each letter’s numerical value — 1, 2, … 10, 20, … 400) is for depth and connections in the text (word values, themes, links to other verses), not for choosing which PAO to use when encoding a verse number. One rule keeps it clear: **the number in the reference drives the PAO.**
 
 ### Review Pattern (Deuteronomy 6:7)
 

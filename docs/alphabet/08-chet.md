@@ -50,6 +50,10 @@ Picture a white picket fence surrounding a lush garden. Inside the garden, you s
 
 That's chet.
 
+## In the Sequence
+
+**[Zayin (ז) — Sword](07-zayin.md)** was the weapon; Chet is the boundary that follows — the fence, the sanctuary, the protected place where life (chai) is found. **Next comes [Tet (ט) — Serpent](09-tet.md)**: inside the safe place, the coiled one — temptation and the bronze serpent lifted up for healing.
+
 ## Gematria Connections
 
 - **Value:** 8
@@ -68,5 +72,5 @@ That's chet.
 ## Putting It Into Practice
 
 - **Major System digit:** 8 — Chet encodes the digit 8 in verse numbers (e.g., Psalm 23:**8** = Chet)
-- **Suggested PAO:** Noah building the ark (Chet = 8 = Noah's number). Noah and his family (8 people) were saved in the ark—a giant wooden chet-box that floated above the judgment. The ark was a fenced sanctuary in the midst of destruction. Noah is the man who stepped inside the chet and found life.
-- **Verse encoding example:** Psalm 91:1 — _"He who dwells in the secret place of the Most High shall abide under the shadow of the Almighty."_ The chet-verse par excellence—dwelling inside the fence of God's protection.
+- **Suggested PAO:** [08 — Isaac](/pao/08-isaac): Isaac circumcised on the eighth day (Genesis 21:4). Chet = 8 = fence, covenant sign. Person: Isaac. Action: Circumcised on the eighth day. Object: Covenant sign.
+- **Verse encoding example:** Psalm 23 or Genesis 21:4 — the **8** (Chet) = Isaac, eighth day, the covenant fence. Psalm 91:1: _"He who dwells in the secret place of the Most High"_ — inside the chet, the protected place.

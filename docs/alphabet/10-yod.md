@@ -50,6 +50,10 @@ Picture a small, perfect hand—just the hand, floating in the air. The hand has
 
 That's yod.
 
+## In the Sequence
+
+**[Tet (ט) — Serpent](09-tet.md)** brought temptation and the lifted serpent; Yod is the hand — work, deed, power. The hand of God that would be pierced. **Next comes [Kaf (כ) — Palm](11-kaf.md)**: the open hand becomes the open palm — to cover, to protect, to hold.
+
 ## Gematria Connections
 
 - **Value:** 10
@@ -67,6 +71,6 @@ That's yod.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 10 (1-0) — Yod encodes the digits 10 in verse numbers
-- **Suggested PAO:** Jesus showing His nail-scarred hands to Thomas (Yod = 10 = Jesus's number). The yod-hand of Jesus, bearing the marks of crucifixion, was the testimony that turned doubt into faith. Thomas said, _"My Lord and my God!"_ (John 20:28).
-- **Verse encoding example:** John 10:28-29 — _"No one can snatch them out of my hand. My Father, who has given them to me, is greater than all."_ The yod-hand of protection—God's grip on us is eternal.
+- **Major System digit:** 10 (1-0) — Yod encodes the digits 10 in verse numbers (e.g., verse **10**, chapter **10**)
+- **Suggested PAO:** [10 — Aaron](/pao/10-aaron): Aaron holding the tablets with Moses at Sinai (Exodus 19–20). Yod = 10 = hand; the Ten Commandments. Person: Aaron. Action: Holding the tablets with Moses at Sinai. Object: Tablets (Ten Commandments).
+- **Verse encoding example:** Exodus 20 — the **10** (Yod) = Aaron, the ten words. John 10:28–29: _"No one can snatch them out of my hand"_ — the yod-hand of the Shepherd.

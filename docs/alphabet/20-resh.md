@@ -51,6 +51,10 @@ Picture a head—crowned, ruling, authoritative. The head is looking in all dire
 
 That's resh.
 
+## In the Sequence
+
+**[Kof (ק) — Holy](19-kof.md)** was the horizon and the eye of the needle; Resh is the head — the chief, the ruler, the one who goes first. Jesus is the Head of the Church. **Next comes [Shin (ש) — Fire](21-shin.md)**: teeth, consuming, purifying. The flames of the Spirit.
+
 ## Gematria Connections
 
 - **Value:** 200
@@ -68,6 +72,6 @@ That's resh.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 200 (2-0-0) — Resh encodes the digits 200 in verse numbers
-- **Suggested PAO:** Pontius Pilate washing his hands (Resh = 200 = Pilate's number). Pilate was the resh-ruler who refused to rule; he washed his hands of responsibility (Matthew 27:24). The resh who should have used his authority to protect justice instead used it to wash his hands. Contrast him with Jesus, the true Resh who used His authority to save.
-- **Verse encoding example:** Colossians 1:18 — The resh-verse: _"And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy."_
+- **Major System digit:** 200 (2-0-0) — Resh encodes the digits 200 in verse numbers (e.g., verse **200**)
+- **Suggested PAO:** [20 — Bezalel](/pao/20-bezalel): Bezalel building the tabernacle (Exodus 31:2–5). Resh = 200 (value); for **20** think twenty boards, the head craftsman. Person: Bezalel. Action: Building the tabernacle. Object: Tabernacle boards.
+- **Verse encoding example:** Exodus 26:18; 31:2–5 — the **20** (Bezalel, twenty boards). Colossians 1:18: _"He is the head of the body, the church"_ — the resh-Head.

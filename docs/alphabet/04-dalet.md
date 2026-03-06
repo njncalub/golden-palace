@@ -50,6 +50,10 @@ Picture a canvas tent door flapping in the desert wind. The door is open, and li
 
 That's dalet.
 
+## In the Sequence
+
+**[Gimel (ג) — Camel](03-gimel.md)** brought us on the journey; Dalet is the entrance we reach — the door, the pathway, the choice to enter. **Next comes [Hey (ה) — Behold](05-hey.md)**: at the door, revelation. Arms raised, breath, "Look!"
+
 ## Gematria Connections
 
 - **Value:** 4
@@ -68,5 +72,5 @@ That's dalet.
 ## Putting It Into Practice
 
 - **Major System digit:** 4 — Dalet encodes the digit 4 in verse numbers (e.g., Psalm 23:**4** = Dalet)
-- **Suggested PAO:** Peter standing at a door (Dalet = 4 = Peter's number). Peter is the "doorkeeper" of the early Church—he preached at Pentecost when the door opened to the Gentiles (Acts 10), and he holds the "keys to the kingdom" (Matthew 16:19). Peter is the man who stood at the Door and said, "This is the way. Walk in it."
-- **Verse encoding example:** Revelation 3:20 — _"Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in."_ The Door Himself, knocking at our dalet.
+- **Suggested PAO:** [04 — Noah](/pao/04-noah): Noah; the LORD closing the door of the ark (Genesis 7:16). Dalet = 4 = door. Person: Noah. Action: Closing the door of the ark (or the LORD shutting him in). Object: Door of the ark.
+- **Verse encoding example:** Psalm 23:**4** — "Even though I walk through the valley of the shadow of death" — the **4** (Dalet) = Noah/door; one door to safety. Revelation 3:20: _"I stand at the door and knock"_ — the Door at the dalet.

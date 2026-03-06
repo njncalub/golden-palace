@@ -33,7 +33,7 @@ The bet is the picture of a dwelling place, a home, a family, a container for li
 Jesus said, _"In my Father's house are many rooms"_ (John 14:2). The concept of God having a "house" is woven through Scripture:
 
 - **Bethlehem** — House of Bread, where Jesus was born (the Bread of Life came to the House of Bread)
-- **Bethany** — House of dates or figs, where Lazarus was raised (Jesus brought life into a house of death)
+- **Bethany** — House of poverty (or house of figs in some traditions), where Lazarus was raised (Jesus brought life into a house of death)
 - **Bethsaida** — House of fishing, where several disciples were called
 - **Temple** — literally "Beit HaMikdash," "The House of Holiness"
 
@@ -58,6 +58,10 @@ Picture a simple square house with an open door. Inside the house, you see a loa
 
 That's bet.
 
+## In the Sequence
+
+**[Aleph (א) — Ox](01-aleph.md)** gave us the Strong One; Bet gives that strength a place — a house. God doesn't begin with "I am" but with "I'm making a home." **Next comes [Gimel (ג) — Camel](03-gimel.md)**: from the house, the journey of grace begins.
+
 ## Gematria Connections
 
 - **Value:** 2
@@ -76,5 +80,5 @@ That's bet.
 ## Putting It Into Practice
 
 - **Major System digit:** 2 — Bet encodes the digit 2 in verse numbers (e.g., Psalm 23:**2** = Bet)
-- **Suggested PAO:** David slinging a stone at Goliath (Bet = 2 = David's number). David is the ultimate "house-builder." God promised David an eternal house (2 Samuel 7), and from his line came Jesus who builds the true House. Also, David was from **Bethlehem** (House of Bread), a perfect bet connection.
-- **Verse encoding example:** John 3:16 — "3" = Gimel (camel/grace), "16" = Aleph-Vav (God connects). But look at the chapter: 3. "2" is Bet. Chapter 3 (Gimel = grace) + Verse 16 (Aleph-Vav = God connects) = "Grace, God connects." The numbers preach the message.
+- **Suggested PAO:** [02 — David](/pao/02-david): David slinging a stone at Goliath (1 Samuel 17:49–50). Bet = 2 = house; David secures the house of Israel. Person: David. Action: Slinging a stone at Goliath. Object: Sling and stone.
+- **Verse encoding example:** Psalm 23:**2** — "He makes me lie down in green pastures" — the **2** (Bet) = David/shepherd; the house (bet) of rest. For "02" or verse 2, place David in the scene.

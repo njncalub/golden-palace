@@ -20,14 +20,14 @@ The tav is the picture of a mark, a sign, a seal, something that confirms owners
 
 ## The Hook That Will Make This Stick
 
-1. **The LAST letter's pictograph is TWO CROSSED STICKS.** Think about this: God chose as the FINAL letter of His alphabet, the letter that means "completion," "the end," "the seal," a picture of **two crossed sticks**. The cross was not an afterthought. The cross was baked into the alphabet from the beginning. Before Adam sinned, before Abraham believed, before Moses received the law, the alphabet already had the tav in it, waiting.
+1. **The LAST letter's pictograph is TWO CROSSED STICKS.** The final letter of the alphabet means "completion," "the end," "the seal," and in ancient form was drawn as **two crossed sticks** (X or +). Many readers have seen in this a picture of the cross—a traditional typological reading that connects the tav to Christ's crucifixion, not a claim about the script's original design.
 
 2. **Ezekiel 9:4, the MARK on the forehead.** God told the prophet: _"Go throughout the city of Jerusalem and put a **mark (tav)** on the foreheads of those who grieve and lament over all the detestable things that are done in it."_ The word translated "mark" is literally "tav." In Ezekiel's time, the tav was written as two crossed sticks, an X or a +. God put a CROSS on the foreheads of the faithful. This is Revelation 7:3 and 14:1, the seal of God on the foreheads of the 144,000. The mark of God IS the tav. The mark of God IS the cross.
 
 3. **Tav completes the Aleph-Tav signature.** Jesus said "I am the Alpha and the Omega," but in Hebrew, that's "I am the Aleph and the Tav." Aleph begins; Tav completes. But look at the pictographs:
    - Aleph (א) = Ox head = Strength, God, Servant-leadership
    - Tav (ת) = Crossed sticks = Cross, Covenant, Seal
-     Together they say: _"The Servant-Leader on the Cross."_ Jesus's signature was in the alphabet before He was born.
+     Together they say: _"The Servant-Leader on the Cross."_ A devotional reading sees Jesus's signature in the alphabet from the beginning.
 
 4. **Tav is the LAST letter for a REASON.** The tav means "sign" or "mark," but it also means "the end." In Hebrew thinking, the end is where meaning is fully revealed. The BEGINNING (Aleph) shows God's intent; the END (Tav) shows God's method. God's method is the cross. The cross is how God finishes what He starts. Philippians 1:6: _"He who began a good work in you will carry it on to **completion** until the day of Christ Jesus."_ The completion is the tav, the cross that finishes the work.
 
@@ -57,6 +57,10 @@ Picture two wooden beams crossing, an X, a plus sign, a cross. At the center of 
 
 That's tav.
 
+## In the Sequence
+
+**[Shin (ש) — Fire](21-shin.md)** was the consuming, purifying presence; Tav is the end — the cross, the sign, the seal. The alphabet that began with the Strong One (Aleph, the ox) ends with the cross. There is no "next" letter in the story; Tav completes it.
+
 ## Gematria Connections
 
 - **Value:** 400
@@ -74,18 +78,18 @@ That's tav.
 
 ## Putting It Into Practice
 
-- **Major System digit:** None (Tav is outside the 0 through 9 mapping for verse encoding)
-- **Suggested PAO:** Use tav for the digit 4 (since it begins with T and sounds similar to Tet/9, but the crossed-sticks image is SO much like a 4 that you could create a special rule). Alternatively, use tav as a visual modifier that adds "completion" or "cross" to any PAO scene it touches.
-- **Verse encoding example:** Psalm 22 — The chapter of the crucifixion ("My God, my God, why have you forsaken me?"). Psalm 22:1 begins with Aleph (01), and the chapter number (22) is the VALUE of tav. The cross chapter is marked with the tav number.
+- **Major System digit:** For verse encoding, **22** uses the two-digit PAO (e.g., chapter 22, verse 22)
+- **Suggested PAO:** [22 — Ezra](/pao/22-ezra): Ezra reading the law to the people (Nehemiah 8:1–8). Tav = 22nd letter, 400 (value); 22 = the twenty-two letters. Person: Ezra. Action: Reading the law to the people. Object: Scroll of the law.
+- **Verse encoding example:** Nehemiah 8:1–8 — the **22** (Ezra, the scribe, twenty-two letters). Psalm 22 — the cross chapter; the tav marks completion and the covenant.
 
 ## The Aleph-Tav Bookend
 
 Together, Aleph (01) and Tav (22) frame the entire alphabet:
 
-| Letter — Meaning — Together They Mean |
-| --------- — -------------------------- — ------------------ |
-| Aleph (א) — Ox, Strength, God, Servant — The Servant God |
-| Tav (ת) — Cross, Mark, Covenant — On the Cross |
+| Letter    | Meaning                    | Together They Mean |
+| --------- | -------------------------- | ------------------ |
+| Aleph (א) | Ox, Strength, God, Servant | The Servant God    |
+| Tav (ת)   | Cross, Mark, Covenant      | On the Cross       |
 
 **"I am the Aleph and the Tav"** = **"I am the Servant God on the Cross."**
 

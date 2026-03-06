@@ -51,6 +51,10 @@ Picture a mouth—open, speaking. From the mouth come words that take shape as t
 
 That's pey.
 
+## In the Sequence
+
+**[Ayin (ע) — Eye](16-ayin.md)** was sight; Pey is speech — the mouth, the word, the creative power of what we say. The Word became flesh. **Next comes [Tzadi (צ) — Fish hook](18-tzadi.md)**: righteousness, the chase, the hook that catches. Fishers of men.
+
 ## Gematria Connections
 
 - **Value:** 80
@@ -68,6 +72,6 @@ That's pey.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 80 (8-0) — Pey encodes the digits 80 in verse numbers
-- **Suggested PAO:** Peter preaching at Pentecost (Pey = 80 = Peter's number). Peter, who had denied Jesus three times, now stood before thousands and proclaimed the gospel. The pey-mouth that once cursed became the pey-mouth that brought salvation to 3,000 people.
-- **Verse encoding example:** Isaiah 55:11 — The pey-verse: _"So is my word that goes out from my mouth: It will not return to me empty, but will accomplish what I desire and achieve the purpose for which I sent it."_
+- **Major System digit:** 80 (8-0) — Pey encodes the digits 80 in verse numbers (e.g., verse **80**, Moses at 80)
+- **Suggested PAO:** [17 — Japheth](/pao/17-japheth): Japheth in the ark as the waters rise (Genesis 7:11). Pey = 80 (value); for **17** think 17th day, second month—the flood begins. Person: Japheth. Action: In the ark as the waters rise. Object: The ark.
+- **Verse encoding example:** Genesis 7:11 — the **17** (17th day, flood begins). Isaiah 55:11: _"My word that goes out from my mouth … will accomplish what I desire"_ — the pey-word.

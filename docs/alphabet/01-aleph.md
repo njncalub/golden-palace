@@ -24,7 +24,7 @@ The aleph is the picture of strength, leadership, and primacy. The ox was the st
 
 2. **Aleph is made of TWO other letters.** Look closely at the aleph: א. You see a diagonal line (vav) and two yods (י, י). One yod above, one yod below, connected by a vav. The rabbis say this represents God in heaven (upper yod) reaching down to man on earth (lower yod), connected by the nail or hook (vav). The letter that means "strength" is actually a picture of **God reaching down to connect with humanity**. The Incarnation was hidden in the first letter.
 
-3. **Aleph is THREE in ONE.** Three distinct strokes making one letter. The Trinity in a single character, and this was 2,000 years before Bethlehem. The Hebrews didn't have fully developed Trinitarian theology, but they wrote the number of their God into the first stroke of their alphabet.
+3. **Aleph is THREE in ONE.** In later tradition, the aleph is seen as three distinct strokes making one letter. Some read this as a picture of the Trinity in a single character—a devotional reading (the Hebrews didn't have fully developed Trinitarian theology), but a striking one.
 
 ## Theological Depth
 
@@ -34,7 +34,7 @@ The ox is not a lion. It's not an eagle. It's a beast of burden. The first lette
 
 This is exactly what Jesus said: _"For even the Son of Man did not come to be served, but to serve"_ (Mark 10:45). The nature of God was written into the alphabet before the first scroll was unrolled.
 
-**The aleph also begins the Torah:** _Bereshit bara Elohim_ — "In the beginning God created..." The first word of Scripture begins with aleph. The first letter of that first word is aleph. God stamped His signature into reality before He spoke a single word of creation.
+**The aleph has no sound — and the Bible doesn't start with it.** The first word of Scripture is _Bereshit_ (בְּרֵאשִׁית) — "In the beginning." That word begins with **Bet (ב)**, the house. God didn't open the Bible with the letter of "I am" (Aleph); He opened with the letter of **house**. The aleph is there inside the word, silent — the breath before the house. So the Torah's first sound is Bet: God begins by making a dwelling. God stamped His signature (Aleph-Tav) into the text, but He chose to begin with a house, not a pronouncement.
 
 ## Why You Won't Forget It
 
@@ -43,6 +43,10 @@ Picture a massive, silent ox standing at the entrance of a tent. The ox is impos
 **Silent ox. Three-in-one. God reaching down.**
 
 That's aleph.
+
+## In the Sequence
+
+Aleph is the first letter — there is no "previous" in the story. It opens the narrative: the Strong One, the source. **Next comes [Bet (ב) — House](02-bet.md)**: the Strong One builds a dwelling.
 
 ## Gematria Connections
 
@@ -61,5 +65,5 @@ That's aleph.
 ## Putting It Into Practice
 
 - **Major System digit:** 1 — Aleph encodes the digit 1 in verse numbers (e.g., Psalm 23:**1** = Aleph)
-- **Suggested PAO:** Moses splitting the sea (Aleph = 1 = Moses's number in the PAO system). Moses is the perfect Aleph figure, the servant-leader, the ox-strength who stood before Pharaoh and said "Let my people go." His staff was his strength, but his power came from God.
-- **Verse encoding example:** John 3:16 — "3" = Gimel (camel/grace), "16" = Aleph-Vav (God connects). The chapter and verse themselves preach the gospel through Hebrew letters.
+- **Suggested PAO:** [01 — Adam](/pao/01-adam): Adam naming the animals (Genesis 2:19–20). Aleph = 1 = first; Adam is the first man. Person: Adam. Action: Naming the animals. Object: Animals / dust.
+- **Verse encoding example:** Psalm 23:**1** — "The LORD is my shepherd" — the **1** (Aleph) anchors the verse; for "01" think Adam in the garden, naming the creatures under the Strong One's care.

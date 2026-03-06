@@ -53,6 +53,10 @@ Picture ocean waves—rising, falling, powerful. Above the waves, the number **4
 
 That's mem.
 
+## In the Sequence
+
+**[Lamed (ל) — Staff](12-lamed.md)** guided and taught; Mem is the water — chaos and life, the deep over which the Spirit hovered, the living water that saves. **Next comes [Nun (נ) — Seed](14-nun.md)**: from the water, life continues — the sprout, the heir, life from death.
+
 ## Gematria Connections
 
 - **Value:** 40 (600 in final form, Mem Sofit)
@@ -70,6 +74,6 @@ That's mem.
 
 ## Putting It Into Practice
 
-- **Major System digit:** 40 (4-0) — Mem encodes the digits 40 in verse numbers
-- **Suggested PAO:** Moses parting the Red Sea (Mem = 40 = Moses's number). Moses raised his staff over the mem-waters, and they parted. The water that should have been death became a doorway to deliverance. Jesus is the greater Moses who parts the waters of judgment for us.
-- **Verse encoding example:** John 4:14 — The mem-verse: _"Whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life."_
+- **Major System digit:** 40 (4-0) — Mem encodes the digits 40 in verse numbers (e.g., verse **40**, chapter **40**)
+- **Suggested PAO:** [13 — The Good Samaritan](/pao/13-good-samaritan): The Good Samaritan binding wounds, pouring oil and wine (Luke 10:33–34). Mem = 40 (value); for **13** think love, the one who showed mercy. Person: The Good Samaritan. Action: Binding wounds, showing love. Object: Oil, wine, beast.
+- **Verse encoding example:** Luke 10:33–34 — the **13** (Good Samaritan, ahavah/love). John 4:14: _"Living water … a spring of water welling up to eternal life"_ — the mem-water.

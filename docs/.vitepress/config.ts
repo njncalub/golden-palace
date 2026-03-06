@@ -17,11 +17,8 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Alphabet", link: "/alphabet/" },
-      { text: "Techniques", link: "/techniques/" },
+      { text: "PAO", link: "/pao/" },
       { text: "Books", link: "/books/" },
-      { text: "Gematria", link: "/gematria/" },
-      { text: "Tools", link: "/tools/" },
-      { text: "GitHub", link: "https://github.com/njncalub/golden-palace" },
     ],
 
     sidebar: [
@@ -34,7 +31,7 @@ export default defineConfig({
         text: "Hebrew Alphabet",
         collapsed: true,
         items: [
-          { text: "Getting Started", link: "/alphabet/" },
+          { text: "Overview", link: "/alphabet/" },
           { text: "01 - א - Aleph (#1)", link: "/alphabet/01-aleph" },
           { text: "02 - ב - Bet (#2)", link: "/alphabet/02-bet" },
           { text: "03 - ג - Gimel (#3)", link: "/alphabet/03-gimel" },
@@ -57,6 +54,7 @@ export default defineConfig({
           { text: "20 - ר - Resh (#200)", link: "/alphabet/20-resh" },
           { text: "21 - ש - Shin (#300)", link: "/alphabet/21-shin" },
           { text: "22 - ת - Tav (#400)", link: "/alphabet/22-tav" },
+          { text: "Summary", link: "/alphabet/summary" },
         ],
       },
       {
