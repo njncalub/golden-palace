@@ -50,7 +50,7 @@ Using Biblical figures means your memory palace is filled with Scripture heroes 
 
 For numbers where Biblical figures don't naturally fit, you can use authorized modern teachers (pastors, theologians you respect):
 
-- Check the authorized teachers list in [AGENTS.md](/AGENTS.md)
+- Check the authorized teachers list in [AGENTS.md](https://github.com/njncalub/golden-palace/blob/main/AGENTS.md) (project root)
 - Use their name as a memory peg when it fits naturally
 
 ### Format
