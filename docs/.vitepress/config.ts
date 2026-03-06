@@ -10,6 +10,10 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Alphabet", link: "/alphabet/" },
+      { text: "Techniques", link: "/techniques/" },
+      { text: "Books", link: "/books/" },
+      { text: "Gematria", link: "/gematria/" },
+      { text: "Tools", link: "/tools/" },
       { text: "GitHub", link: "https://github.com/njncalub/golden-palace" },
     ],
 
@@ -44,6 +48,46 @@ export default defineConfig({
           { text: "20 - ר - Resh (#200)", link: "/alphabet/20-resh" },
           { text: "21 - ש - Shin (#300)", link: "/alphabet/21-shin" },
           { text: "22 - ת - Tav (#400)", link: "/alphabet/22-tav" },
+        ],
+      },
+      {
+        text: "Memory Techniques",
+        items: [
+          { text: "Overview", link: "/techniques/" },
+          { text: "Mind Palace", link: "/techniques/mind-palace" },
+          { text: "PAO System", link: "/techniques/pao" },
+          { text: "Hebrew Major System", link: "/techniques/major-system" },
+          { text: "Spaced Repetition", link: "/techniques/spaced-repetition" },
+          { text: "Gematria for Memory", link: "/techniques/gematria" },
+        ],
+      },
+      {
+        text: "Verses & Meditations",
+        items: [
+          { text: "Verse Entries", link: "/verses/" },
+          { text: "Visual Meditations", link: "/meditations/" },
+        ],
+      },
+      {
+        text: "PAO Library",
+        items: [{ text: "Overview", link: "/pao/" }],
+      },
+      {
+        text: "Books of the Bible",
+        items: [{ text: "Overview", link: "/books/" }],
+      },
+      {
+        text: "Gematria Study",
+        items: [
+          { text: "Getting Started", link: "/gematria/" },
+          { text: "Discoveries", link: "/gematria/discoveries" },
+        ],
+      },
+      {
+        text: "Tools",
+        items: [
+          { text: "Overview", link: "/tools/" },
+          { text: "Prompts & Study Tools", link: "/tools/prompts" },
         ],
       },
     ],

@@ -22,7 +22,7 @@ The bet is the picture of a dwelling place, a home, a family, a container for li
 
 1. **The FIRST letter of Torah is Bet.** Genesis 1:1 begins: _Bereshit bara Elohim_ — "In the beginning God created..." The FIRST word of the ENTIRE Bible starts with Bet. Not Aleph. Bet. Why? Because God didn't begin with Himself (Aleph = 1). He began with a **house**. God's first act wasn't to say "I am." His first act was to say "I'm making a home." The universe is God's house, and He made it for us.
 
-2. **Bet has TWO sides, literally.** Look at the letter: ב. There's a dot inside on the right side. When the dot is on the right, it's a "B" (vet). When the dot is on the left, it's a "V" (vet). Same letter, different sound based on which side the "dwelling" is on. The house contains the presence. This is why **Bethlehem** means "House of Bread" (bet + lechem) and **Bethel** means "House of God" (bet + El). God wants to be a house-dweller, not a transient visitor.
+2. **Bet has TWO sounds, literally.** Look at the two forms: **Bet** (בּ) has a dot and makes a "B" sound — a hard, strong sound like a closed door. **Vet** (ב) has no dot and makes a "V" sound — a soft, gentle sound like breathing. The house contains the presence, and the presence can be strong or soft. This is why **Bethlehem** means "House of Bread" (bet + lechem) and **Bethel** means "House of God" (bet + El). God wants to be a house-dweller, not a transient visitor.
 
 3. **Bet is the number 2, and 2 means WITNESS.** In Hebrew thought, two witnesses establish truth (Deuteronomy 19:15). Jesus said He would send "two witnesses" (Revelation 11). The house is where truth is lived out and verified. Your home is your testimony. The place where your faith becomes visible to others.
 

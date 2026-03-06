@@ -1,0 +1,15 @@
+---
+description: Hebrew alphabet letter docs — follow format and guidelines in FORMAT.md
+globs: docs/alphabet/**/*.md
+alwaysApply: false
+---
+
+# Alphabet Letter Documentation
+
+When creating or editing Hebrew letter files in `docs/alphabet/`, follow the format and guidelines in [docs/alphabet/FORMAT.md](docs/alphabet/FORMAT.md):
+
+- Use the Letter File Format (sections: The Picture, The Meaning, The Sound, The Hook That Will Make This Stick, Theological Depth, Why You Won't Forget It, Gematria Connections, Putting It Into Practice).
+- Apply Format Guidelines: ADHD engagement (opening hook, visual clarity, story integration, memory glue), theological depth (Scripture grounding, Christ connection, gematria integrity), and memory system integration (PAO seed, cross-letter combinations).
+- Use file naming: `[two-digit position]-[transliterated-name].md` (e.g. `01-aleph.md` through `22-tav.md`, or `23-kaf-sofit.md` through `27-tzadi-sofit.md` for final forms).
+
+Read FORMAT.md for full template and details.

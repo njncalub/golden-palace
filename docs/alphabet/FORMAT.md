@@ -58,24 +58,24 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 
 ### ADHD Engagement
 
-- **Opening hook** | Lead with the most fascinating fact
-- **Visual clarity** | Use emojis, bold text, clear headers
-- **Story integration** | Connect to Biblical narratives
-- **Personal relevance** | Why this matters for your walk
-- **Memory glue** | Unforgettable image that transcends rote memorization
+- **Opening hook** — Lead with the most fascinating fact
+- **Visual clarity** — Use emojis, bold text, clear headers
+- **Story integration** — Connect to Biblical narratives
+- **Personal relevance** — Why this matters for your walk
+- **Memory glue** — Unforgettable image that transcends rote memorization
 
 ### Theological Depth
 
-- **Scripture grounding** | At least 2 to 3 verse references (Book Chapter:Verse format)
-- **Christ connection** | How this letter points to Jesus (OT to NT)
-- **Application** | How this letter transforms understanding of God's Word
-- **Gematria integrity** | Numerical connections that illuminate, don't invent
-- **Authorized teacher alignment** | Consistent with listed pastors/theologians
+- **Scripture grounding** — At least 2 to 3 verse references (Book Chapter:Verse format)
+- **Christ connection** — How this letter points to Jesus (OT to NT)
+- **Application** — How this letter transforms understanding of God's Word
+- **Gematria integrity** — Numerical connections that illuminate, don't invent
+- **Authorized teacher alignment** — Consistent with listed pastors/theologians
 
 ### Memory System Integration
 
-- **PAO seed** | Suggest Person/Action/Object using this letter
-- **Cross-letter combinations** | How this combines with others
+- **PAO seed** — Suggest Person/Action/Object using this letter
+- **Cross-letter combinations** — How this combines with others
 
 ## File Naming Convention
 
