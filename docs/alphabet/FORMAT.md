@@ -43,7 +43,7 @@ This directory contains documentation for each letter of the Hebrew alephbet. Ea
 
 ## In the Sequence
 
-[How this letter fits in the 22-letter narrative: link to the previous letter and the next letter, and one sentence on this letter's place in the story. See [The 22-Letter Story](alphabet-story.md). For Aleph, there is no previous; for Tav, there is no next.]
+[How this letter fits in the 22-letter narrative: link to the previous letter and the next letter, and one sentence on this letter's place in the story. See [The 22-Letter Story](summary.md). For Aleph, there is no previous; for Tav, there is no next.]
 
 ## Gematria Connections
 

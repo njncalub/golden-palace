@@ -47,7 +47,7 @@ The Hebrew alphabet is not just letters.
 
 Read the pictographic meanings of all 22 letters in sequence and they tell a complete narrative. Scholars and rabbis have wrestled with this for centuries. When you see what the story is, you will not forget a single letter. Ever.
 
-**[We get there here → The 22-Letter Story](alphabet-story.md)** — the full narrative in one place. Or walk through the letters themselves below; each letter page now has an **In the Sequence** section showing how it connects to the one before and the one after.
+**[We get there here → The 22-Letter Story](summary.md)** — the full narrative in one place. Or walk through the letters themselves below; each letter page now has an **In the Sequence** section showing how it connects to the one before and the one after.
 
 ## Quick Reference Table
 
