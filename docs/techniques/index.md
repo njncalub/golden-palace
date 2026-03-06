@@ -95,10 +95,12 @@ The techniques are neutral. How we fill them determines whether they serve the K
 
 ## Other Tools (Optional)
 
-These support the core method; they don't replace encoding and spaced repetition.
+These support the core method; they don't replace encoding and spaced repetition. For a full list and how each fits word-for-word memorization, see [Verse Memorization (Word for Word)](/techniques/verse-memorization).
 
 - **Spritz / speed reading** — One word at a time (RSVP). Good for _review_ and exposure: quick passes over verses. Use for "see the word often," not for initial encoding.
 - **Scripture song** — Sing verses during walk or evening review. Music and rhythm deepen retention and emotional encoding; fits Pentecostal worship.
 - **Handwriting / copywork** — Write verses by hand when you "sit at home" (Deut 6:7). Motor memory reinforces the Word.
-- **Chunking / first-letter** — For long verses: first letter of each word as a peg. Optional add-on.
+- **First-letter method** — Keep only the first letter of each word (and punctuation) as a review scaffold. Faster to write, and when you review it forces active recall instead of passive reading. Use in apps (e.g. [Remember Me](https://www.remem.me/)), on cards (reference one side, first letters on the back), or as printed/doorpost reminders. Details and tools in [Verse Memorization](/techniques/verse-memorization#first-letter-method).
+- **Apps (Memverse, Remember Me)** — Type verses from memory with spaced repetition; some support voice review, games, and images. Pair with your palace scene for content drill.
 - **Audio** — Listen and recite while walking. Pair review with existing habits (commute, exercise).
+- **Doorposts (Deut 6:9)** — First letters or the verse on lock screen, mirror, or shower so you see it and recite throughout the day.

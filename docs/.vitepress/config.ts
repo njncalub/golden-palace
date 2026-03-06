@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  base: "/golden-palace/",
+  base: "/",
   title: "Golden Palace",
   description:
     "A personal scripture memorization system built on Hebrew pictographs, gematria, PAO library, and mind palace architecture.",

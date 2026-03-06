@@ -40,7 +40,10 @@ Many believers find that sitting still and repeating a verse line-by-line works 
 
 ### Typing and active recall
 
-Typing the verse from memory (rather than only reading or reciting) forces your brain to retrieve each word. Some tools give instant feedback and correct mistakes as you type, and use spaced repetition so you review at the right intervals. [Memverse](https://www.memverse.com/) is one example: you type the verse, rate your recall, and the system schedules the next review. Voice review (reciting aloud while the app transcribes) is another way to check word-for-word accuracy.
+Typing the verse from memory (rather than only reading or reciting) forces your brain to retrieve each word. Some tools give instant feedback and correct mistakes as you type, and use spaced repetition so you review at the right intervals.
+
+- **[Memverse](https://www.memverse.com/)** — Type the verse from memory, rate your recall (1–5), and the system schedules the next review. Voice review (recite aloud; the app transcribes) uses a different memory pathway.
+- **[Remember Me](https://www.remem.me/)** — Free Bible memory app (web, iOS, Android, offline). Spaced repetition, word puzzles, fill-in-the-gaps, typing practice, and audio. Add images to verses to align with your palace scene. 300+ translations, 500+ curated collections; no ads, open source.
 
 ### Movement and habit stacking
 
@@ -62,9 +65,37 @@ Focus on a single verse per day. Sit with it, ask what it reveals about God, and
 
 Accountability partners, verse-of-the-week groups, or tools with community features can provide structure and encouragement when motivation or focus wavers.
 
+### First-letter method
+
+Abbreviate the verse by keeping only the **first letter of each word** (and punctuation). Example: _For the wages of sin is death, but the free gift of God is eternal life through Jesus Christ our Lord_ → **F t w o s i d , b t f g o G i e l t J C o L**. Why it helps: (1) You can write or type first letters much faster than the full text, so you get more repetitions. (2) When you review, first letters give a hint but still force **active recall** — you have to retrieve the words yourself. Showing the full verse as a hint often stops that retrieval and weakens the memory.
+
+**Ways to use it:**
+
+- **Apps** — Many Bible memory apps (e.g. Remember Me, Verses, Bible Memory app) let you type first letters instead of full words for learning and review.
+- **Handwriting** — Write first letters on note cards, in a notebook, or on a single sheet. Put the verse reference on one side of a card and only the first letters on the back (not the full verse) so review stays active. Handwriting adds motor memory.
+- **Printed review sheet** — Use a first-letter generator so you can print a passage and carry it. [Bible Memory Goal](https://biblememorygoal.com/first-letter) offers a free tool (any text → first letters, plain or by verse); ESV and Scripture Memory Fellowship have similar options for specific translations.
+- **"Hung on the doorpost" (Deuteronomy 6:9)** — Put first letters where you'll see them: phone lock screen (some recite the verse before unlocking), laminated sheet in the shower, mirror, or kitchen. Keeps the verse in front of you without giving away the full text.
+
+Format is personal: some prefer a grid, one verse per line, or 5–6 words per line. Try what works for you.
+
+### Doorposts and visual reminders
+
+Deuteronomy 6:9 says to write God's commandments on the doorposts of your house. In practice: keep the verse (or its first letters) in places you pass daily — lock screen, bathroom mirror, above the sink, dashboard (when parked). Physical or on-screen reminders trigger review and keep the Word top of mind. Wearable reminders (e.g. a shirt or bracelet with first letters of a verse) can double as conversation starters to share why you memorize Scripture.
+
 ---
 
 These practices support the goal of hiding God's Word in your heart (Psalm 119:11). Use whatever helps you get the verse word for word; the Golden Palace workflow gives you a place to put it and a way to review it so it sticks.
+
+## Tools and resources (quick reference)
+
+| Purpose                                    | Tool                                                                                                                                                                             | Notes                                    |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Type verse from memory + spaced repetition | [Memverse](https://www.memverse.com/)                                                                                                                                            | Rate recall 1–5; voice review option     |
+| Apps: games, typing, audio, images         | [Remember Me](https://www.remem.me/)                                                                                                                                             | Free, offline, 300+ translations, no ads |
+| First-letter generator (any text)          | [Bible Memory Goal — First Letter](https://biblememorygoal.com/first-letter)                                                                                                     | Plain or verse-by-verse; print or copy   |
+| Scripture set to music (word-for-word)     | [Mark Altrogge](https://www.markaltrogge.com/scripture-memory), [Hide It In Your Heart](https://www.hideitinyourheart.tv/), [Scripture Melodies](https://scripturemelodies.com/) | Sing during walk or evening review       |
+
+Combine these with the Golden Palace workflow: PAO + mind palace for the verse _address_ and scene; apps and first-letter for drilling the _content_.
 
 ## See also
 
