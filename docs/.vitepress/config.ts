@@ -66,8 +66,14 @@ export default defineConfig({
               { text: "02 - David", link: "/pao/02-david" },
               { text: "03 - Abraham", link: "/pao/03-abraham" },
               { text: "04 - Noah", link: "/pao/04-noah" },
-              { text: "05 - The boy (five loaves)", link: "/pao/05-boy-with-loaves" },
-              { text: "06 - The repentant thief", link: "/pao/06-repentant-thief" },
+              {
+                text: "05 - The boy (five loaves)",
+                link: "/pao/05-boy-with-loaves",
+              },
+              {
+                text: "06 - The repentant thief",
+                link: "/pao/06-repentant-thief",
+              },
               { text: "07 - Joshua", link: "/pao/07-joshua" },
               { text: "08 - Isaac", link: "/pao/08-isaac" },
               { text: "09 - Hezekiah", link: "/pao/09-hezekiah" },
@@ -78,10 +84,22 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "10 - Aaron", link: "/pao/10-aaron" },
-              { text: "11 - Joseph (son of Jacob)", link: "/pao/11-joseph-son-of-jacob" },
-              { text: "12 - James (son of Zebedee)", link: "/pao/12-james-son-of-zebedee" },
-              { text: "13 - The Good Samaritan", link: "/pao/13-good-samaritan" },
-              { text: "14 - The Israelite (Passover)", link: "/pao/14-israelite-passover" },
+              {
+                text: "11 - Joseph (son of Jacob)",
+                link: "/pao/11-joseph-son-of-jacob",
+              },
+              {
+                text: "12 - James (son of Zebedee)",
+                link: "/pao/12-james-son-of-zebedee",
+              },
+              {
+                text: "13 - The Good Samaritan",
+                link: "/pao/13-good-samaritan",
+              },
+              {
+                text: "14 - The Israelite (Passover)",
+                link: "/pao/14-israelite-passover",
+              },
               { text: "15 - Heman (singer)", link: "/pao/15-heman" },
               { text: "16 - Thomas", link: "/pao/16-thomas" },
               { text: "17 - Japheth", link: "/pao/17-japheth" },
@@ -97,9 +115,15 @@ export default defineConfig({
               { text: "21 - Jacob", link: "/pao/21-jacob" },
               { text: "22 - Ezra", link: "/pao/22-ezra" },
               { text: "23 - Boaz", link: "/pao/23-boaz" },
-              { text: "24 - An elder (Revelation)", link: "/pao/24-elder-revelation" },
+              {
+                text: "24 - An elder (Revelation)",
+                link: "/pao/24-elder-revelation",
+              },
               { text: "25 - Simeon", link: "/pao/25-simeon" },
-              { text: "26 - The Angel of the LORD", link: "/pao/26-angel-of-the-lord" },
+              {
+                text: "26 - The Angel of the LORD",
+                link: "/pao/26-angel-of-the-lord",
+              },
               { text: "27 - Stephen", link: "/pao/27-stephen" },
               { text: "28 - Nicodemus", link: "/pao/28-nicodemus" },
               { text: "29 - Joel (prophet)", link: "/pao/29-joel" },
@@ -110,14 +134,23 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: "30 - Judas Iscariot", link: "/pao/30-judas-iscariot" },
-              { text: "31 - The virtuous woman", link: "/pao/31-virtuous-woman" },
+              {
+                text: "31 - The virtuous woman",
+                link: "/pao/31-virtuous-woman",
+              },
               { text: "32 - Jonah", link: "/pao/32-jonah" },
               { text: "33 - Jesus", link: "/pao/33-jesus" },
-              { text: "34 - The woman at the well", link: "/pao/34-woman-at-the-well" },
+              {
+                text: "34 - The woman at the well",
+                link: "/pao/34-woman-at-the-well",
+              },
               { text: "35 - Habakkuk", link: "/pao/35-habakkuk" },
               { text: "36 - Zephaniah", link: "/pao/36-zephaniah" },
               { text: "37 - Joseph (in Egypt)", link: "/pao/37-joseph-egypt" },
-              { text: "38 - Zechariah (father of John)", link: "/pao/38-zechariah-father-of-john" },
+              {
+                text: "38 - Zechariah (father of John)",
+                link: "/pao/38-zechariah-father-of-john",
+              },
               { text: "39 - Malachi", link: "/pao/39-malachi" },
             ],
           },
@@ -144,13 +177,22 @@ export default defineConfig({
               { text: "50 - Epaphroditus", link: "/pao/50-epaphroditus" },
               { text: "51 - Onesimus", link: "/pao/51-onesimus" },
               { text: "52 - Silas", link: "/pao/52-silas" },
-              { text: "53 - The man of lawlessness", link: "/pao/53-man-of-lawlessness" },
+              {
+                text: "53 - The man of lawlessness",
+                link: "/pao/53-man-of-lawlessness",
+              },
               { text: "54 - Eunice", link: "/pao/54-eunice" },
               { text: "55 - Lois", link: "/pao/55-lois" },
               { text: "56 - Titus", link: "/pao/56-titus" },
               { text: "57 - Philemon", link: "/pao/57-philemon" },
-              { text: "58 - The writer of Hebrews", link: "/pao/58-writer-of-hebrews" },
-              { text: "59 - James (brother of Lord)", link: "/pao/59-james-brother-of-lord" },
+              {
+                text: "58 - The writer of Hebrews",
+                link: "/pao/58-writer-of-hebrews",
+              },
+              {
+                text: "59 - James (brother of Lord)",
+                link: "/pao/59-james-brother-of-lord",
+              },
             ],
           },
           {
@@ -159,11 +201,17 @@ export default defineConfig({
             items: [
               { text: "60 - Silvanus", link: "/pao/60-silvanus" },
               { text: "61 - Demetrius", link: "/pao/61-demetrius" },
-              { text: "62 - A believer (1 John)", link: "/pao/62-believer-1-john" },
+              {
+                text: "62 - A believer (1 John)",
+                link: "/pao/62-believer-1-john",
+              },
               { text: "63 - The chosen lady", link: "/pao/63-chosen-lady" },
               { text: "64 - Gaius", link: "/pao/64-gaius" },
               { text: "65 - Jude", link: "/pao/65-jude" },
-              { text: "66 - The angel of Revelation", link: "/pao/66-angel-of-revelation" },
+              {
+                text: "66 - The angel of Revelation",
+                link: "/pao/66-angel-of-revelation",
+              },
               { text: "67 - Deborah", link: "/pao/67-deborah" },
               { text: "68 - Barak", link: "/pao/68-barak" },
               { text: "69 - Gideon", link: "/pao/69-gideon" },
@@ -198,7 +246,10 @@ export default defineConfig({
               { text: "86 - Caleb", link: "/pao/86-caleb" },
               { text: "87 - Abigail", link: "/pao/87-abigail" },
               { text: "88 - Elizabeth", link: "/pao/88-elizabeth" },
-              { text: "89 - Mary (mother of Jesus)", link: "/pao/89-mary-mother-of-jesus" },
+              {
+                text: "89 - Mary (mother of Jesus)",
+                link: "/pao/89-mary-mother-of-jesus",
+              },
             ],
           },
           {
@@ -208,7 +259,10 @@ export default defineConfig({
               { text: "90 - Dorcas (Tabitha)", link: "/pao/90-dorcas" },
               { text: "91 - Mary Magdalene", link: "/pao/91-mary-magdalene" },
               { text: "92 - Martha", link: "/pao/92-martha" },
-              { text: "93 - Philip (evangelist)", link: "/pao/93-philip-evangelist" },
+              {
+                text: "93 - Philip (evangelist)",
+                link: "/pao/93-philip-evangelist",
+              },
               { text: "94 - Cornelius", link: "/pao/94-cornelius" },
               { text: "95 - Zacchaeus", link: "/pao/95-zacchaeus" },
               { text: "96 - Bartimaeus", link: "/pao/96-bartimaeus" },
@@ -297,6 +351,10 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: "Overview", link: "/techniques/" },
+          {
+            text: "Verse Memorization (Word for Word)",
+            link: "/techniques/verse-memorization",
+          },
           { text: "Mind Palace", link: "/techniques/mind-palace" },
           { text: "PAO System", link: "/techniques/pao" },
           { text: "Hebrew Major System", link: "/techniques/major-system" },

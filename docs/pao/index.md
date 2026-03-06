@@ -22,10 +22,10 @@ Your brain is built for **stories and images**, not for long strings of numbers.
 PAO becomes especially powerful when you combine it with:
 
 - **A mind palace** — You place each PAO scene in a location you know (a room, a path). To recall a verse reference, you “walk” to that spot and see the scene.
-- **The Hebrew Major System** — Digits map to Hebrew letters (e.g. 2 = Bet = house, 4 = Dalet = door), so the number often *connects* to the person or story (e.g. David and the house of Israel).
+- **The Hebrew Major System** — Digits map to Hebrew letters (e.g. 2 = Bet = house, 4 = Dalet = door), so the number often _connects_ to the person or story (e.g. David and the house of Israel).
 - **Spaced repetition** — You review the scenes and verses on a schedule so they move from head knowledge to heart knowledge.
 
-So PAO isn’t a gimmick — it’s a way to **encode** verse references (like “John 3, verse 16”) as memorable images, then **decode** them when you need to recall the reference. The goal is the same as Psalm 119:11: *“I have hidden your word in my heart.”* PAO helps you get the “address” of a verse into your heart so you can find it when you need it.
+So PAO isn’t a gimmick — it’s a way to **encode** verse references (like “John 3, verse 16”) as memorable images, then **decode** them when you need to recall the reference. The goal is the same as Psalm 119:11: _“I have hidden your word in my heart.”_ PAO helps you get the “address” of a verse into your heart so you can find it when you need it.
 
 ## How Is It Used?
 
@@ -33,7 +33,7 @@ So PAO isn’t a gimmick — it’s a way to **encode** verse references (like �
 2. **Encode a reference** — For a verse like **John 3:16**, split the reference into numbers: **03** (chapter) and **16** (verse). Look up 03 and 16 in your PAO library: e.g. **Abraham** offering Isaac, and **Thomas** touching Jesus’ wounds. In your mind you might place Abraham at the door of a room and Thomas at the window — so “John 3:16” is now a short walk through one scene.
 3. **Retrieve** — When you “walk” that path or see that room, the two scenes remind you: 03, 16 → John 3:16. From there you can recall the verse itself (especially if you’ve also memorized the words with spaced repetition).
 
-So PAO is the **scaffold** for where a verse “lives” in your memory. The verse content is what you hide in your heart; PAO helps you know the address.
+So PAO is the **scaffold** for where a verse “lives” in your memory. The verse content is what you hide in your heart; PAO helps you know the address. For the full workflow that gets the words themselves by heart, see [Verse Memorization (Word for Word)](/techniques/verse-memorization).
 
 ## Why Biblical Pegs? (“Golden” PAO)
 

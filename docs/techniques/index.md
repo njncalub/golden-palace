@@ -29,6 +29,8 @@ Learn in this order so each step builds on the previous:
 5. **Place** the combined image at a specific Mind Palace station.
 6. **Schedule reviews** — Spaced repetition from day one (Deut 6:7 pattern).
 
+For the full word-for-word workflow (learning the text, designing the content image, placing it, and reciting at the station), see [Verse Memorization (Word for Word)](/techniques/verse-memorization).
+
 ## The Techniques We Use
 
 ### Mind Palace (Method of Loci)

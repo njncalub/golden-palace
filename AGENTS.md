@@ -39,14 +39,14 @@ golden-palace/
 
 Each content folder has a **FORMAT.md** (template + naming) and **index.md** (list contents). Use:
 
-| Folder       | File naming example                                  |
-| ------------ | ---------------------------------------------------- |
-| alphabet/    | `01-aleph.md` … `22-tav.md`                          |
-| verses/      | `john-3-16.md`, `ephesians-3-18-19.md`               |
-| meditations/ | Same as verse (e.g. `ephesians-3-18-19.md`)          |
+| Folder       | File naming example                                                      |
+| ------------ | ------------------------------------------------------------------------ |
+| alphabet/    | `01-aleph.md` … `22-tav.md`                                              |
+| verses/      | `john-3-16.md`, `ephesians-3-18-19.md`                                   |
+| meditations/ | Same as verse (e.g. `ephesians-3-18-19.md`)                              |
 | pao/         | `00-god-over-waters.md`, `02-david.md`, `40-moses.md`, … `99-matthew.md` |
-| books/       | `01-genesis.md`, `43-john.md`, `66-revelation.md`    |
-| techniques/  | `mind-palace.md`, `pao.md` (kebab-case)              |
+| books/       | `01-genesis.md`, `43-john.md`, `66-revelation.md`                        |
+| techniques/  | `mind-palace.md`, `pao.md` (kebab-case)                                  |
 
 ## How Claude Should Help
 

@@ -4,7 +4,7 @@ title: Verse Entries
 
 # Verse Entries
 
-Individual verse memory entries for the Golden Palace system. Each entry includes the verse text, Hebrew/Greek key words, gematria, memory image (PAO + palace location), and theological note.
+Individual verse memory entries for the Golden Palace system. Each entry includes the verse text, Hebrew/Greek key words, gematria, memory image (PAO + palace location), and theological note. For the step-by-step process that gets a verse word for word into your heart, see [Verse Memorization (Word for Word)](/techniques/verse-memorization).
 
 ## Format and naming
 
