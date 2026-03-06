@@ -1,8 +1,8 @@
 ---
-title: Obadiah
+title: "31 - Obadiah"
 ---
 
-# Obadiah
+# 31 - Obadiah
 
 **TLDR:** The shortest OT book: judgment on Edom for violence against brother Jacob. "The day of the LORD is near." Hope for Zion and the house of Jacob.
 

@@ -1,8 +1,8 @@
 ---
-title: Nahum
+title: "34 - Nahum"
 ---
 
-# Nahum
+# 34 - Nahum
 
 **TLDR:** Judgment on Nineveh (Assyria): the city that repented in Jonah's day will fall. "The LORD is good, a refuge in times of trouble. He cares for those who trust in him."
 

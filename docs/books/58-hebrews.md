@@ -1,8 +1,8 @@
 ---
-title: Hebrews
+title: "58 - Hebrews"
 ---
 
-# Hebrews
+# 58 - Hebrews
 
 **TLDR:** Jesus is greater than angels, Moses, and the old covenant. He is our high priest forever; His sacrifice is once for all. "Let us run with perseverance the race marked out for us." Don't shrink back; hold fast to the confession.
 

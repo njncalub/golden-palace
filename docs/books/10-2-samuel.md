@@ -1,8 +1,8 @@
 ---
-title: 2 Samuel
+title: "10 - 2 Samuel"
 ---
 
-# 2 Samuel
+# 10 - 2 Samuel
 
 **TLDR:** David's reign: Jerusalem as capital, covenant with God, and then sin with Bathsheba and its consequences. The house of David is established forever, but discipline and strife mark his later years.
 

@@ -1,8 +1,8 @@
 ---
-title: Colossians
+title: "51 - Colossians"
 ---
 
-# Colossians
+# 51 - Colossians
 
 **TLDR:** Christ is supreme — first over creation and the church. Don't be taken captive by hollow philosophy; you have died and been raised with Christ. "Set your minds on things above, where Christ is seated."
 

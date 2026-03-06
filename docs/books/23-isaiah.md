@@ -1,8 +1,8 @@
 ---
-title: Isaiah
+title: "23 - Isaiah"
 ---
 
-# Isaiah
+# 23 - Isaiah
 
 **TLDR:** Judgment and hope: Israel and the nations under God's holiness; the coming Servant, suffering and reigning; and the promise of a new creation. "Holy, holy, holy" and "Comfort, comfort my people."
 

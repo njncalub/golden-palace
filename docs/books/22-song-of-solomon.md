@@ -1,8 +1,8 @@
 ---
-title: Song of Solomon
+title: "22 - Song of Solomon"
 ---
 
-# Song of Solomon
+# 22 - Song of Solomon
 
 **TLDR:** A love poem between a man and a woman — desire, longing, and union. Read as literal romance and as a picture of God's love for His people (and Christ for the church).
 

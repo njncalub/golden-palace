@@ -1,8 +1,8 @@
 ---
-title: Job
+title: "18 - Job"
 ---
 
-# Job
+# 18 - Job
 
 **TLDR:** A righteous man suffers; his friends blame him, but God finally speaks from the whirlwind. Job does not get a neat answer — he gets God. "My ears had heard of you but now my eyes have seen you."
 

@@ -1,8 +1,8 @@
 ---
-title: 2 Chronicles
+title: "14 - 2 Chronicles"
 ---
 
-# 2 Chronicles
+# 14 - 2 Chronicles
 
 **TLDR:** Solomon's temple, the kings of Judah (good and bad), and the exile. Ends with Cyrus's decree to rebuild. The emphasis is on worship, temple, and covenant loyalty — and the promise of return.
 

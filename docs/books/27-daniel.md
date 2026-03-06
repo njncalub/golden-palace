@@ -1,8 +1,8 @@
 ---
-title: Daniel
+title: "27 - Daniel"
 ---
 
-# Daniel
+# 27 - Daniel
 
 **TLDR:** Daniel and his friends stay faithful in Babylon; God reveals dreams and rescues from the furnace and the lions. Visions of kingdoms and the Son of Man point to God's everlasting kingdom.
 

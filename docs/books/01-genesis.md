@@ -1,8 +1,8 @@
 ---
-title: Genesis
+title: "01 - Genesis"
 ---
 
-# Genesis
+# 01 - Genesis
 
 **TLDR:** Beginnings — creation, fall, flood, and the patriarchs (Abraham, Isaac, Jacob, Joseph). God makes a world, humanity rebels, and God chooses a family through whom He will bless all nations. The seed of the woman and the seed of Abraham start here.
 

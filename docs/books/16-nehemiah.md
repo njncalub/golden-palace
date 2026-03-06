@@ -1,8 +1,8 @@
 ---
-title: Nehemiah
+title: "16 - Nehemiah"
 ---
 
-# Nehemiah
+# 16 - Nehemiah
 
 **TLDR:** Nehemiah rebuilds Jerusalem's walls despite opposition, and with Ezra the people hear the law, repent, and renew the covenant. Leadership and community renewal in the land.
 

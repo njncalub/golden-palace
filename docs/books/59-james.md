@@ -1,8 +1,8 @@
 ---
-title: James
+title: "59 - James"
 ---
 
-# James
+# 59 - James
 
 **TLDR:** Faith without works is dead. James urges wisdom, patience in trial, care for the poor, taming the tongue, and doing the word. "Consider it pure joy whenever you face trials of many kinds."
 

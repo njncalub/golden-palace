@@ -1,8 +1,8 @@
 ---
-title: 2 Timothy
+title: "55 - 2 Timothy"
 ---
 
-# 2 Timothy
+# 55 - 2 Timothy
 
 **TLDR:** Paul's last letter: endure hardship; guard the deposit; preach the word. "I have fought the good fight, I have finished the race, I have kept the faith." Timothy is urged to be faithful and to pass the baton.
 

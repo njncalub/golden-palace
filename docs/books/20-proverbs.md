@@ -1,8 +1,8 @@
 ---
-title: Proverbs
+title: "20 - Proverbs"
 ---
 
-# Proverbs
+# 20 - Proverbs
 
 **TLDR:** Wisdom for daily life: fear the LORD, choose wisdom over folly, and live with integrity. Short sayings and longer poems. "The fear of the LORD is the beginning of wisdom."
 

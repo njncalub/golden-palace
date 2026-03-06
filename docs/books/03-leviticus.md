@@ -1,8 +1,8 @@
 ---
-title: Leviticus
+title: "03 - Leviticus"
 ---
 
-# Leviticus
+# 03 - Leviticus
 
 **TLDR:** God's holiness and how Israel must approach Him. Sacrifices, priesthood, purity laws, and the Day of Atonement. "Be holy, for I am holy."
 

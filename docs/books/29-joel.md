@@ -1,8 +1,8 @@
 ---
-title: Joel
+title: "29 - Joel"
 ---
 
-# Joel
+# 29 - Joel
 
 **TLDR:** Locust plague as a sign of the day of the LORD; call to repentance. Then: "I will pour out my Spirit on all people" — promise fulfilled at Pentecost (Acts 2).
 

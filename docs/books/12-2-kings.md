@@ -1,8 +1,8 @@
 ---
-title: 2 Kings
+title: "12 - 2 Kings"
 ---
 
-# 2 Kings
+# 12 - 2 Kings
 
 **TLDR:** The two kingdoms to the end: Elisha's miracles, Israel's fall to Assyria, Judah's reforms and eventual exile to Babylon. The temple is destroyed. Hope lies in the promise of a remnant and a future king.
 

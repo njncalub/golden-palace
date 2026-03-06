@@ -1,8 +1,8 @@
 ---
-title: Joshua
+title: "06 - Joshua"
 ---
 
-# Joshua
+# 06 - Joshua
 
 **TLDR:** Israel enters and takes the land under Joshua. Jericho falls; the land is allotted to the tribes. "Be strong and courageous. Do not be afraid; the LORD your God is with you."
 

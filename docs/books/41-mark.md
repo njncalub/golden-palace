@@ -1,8 +1,8 @@
 ---
-title: Mark
+title: "41 - Mark"
 ---
 
-# Mark
+# 41 - Mark
 
 **TLDR:** The shortest Gospel: Jesus in action — authority, servanthood, and the cross. "The Son of Man did not come to be served, but to serve, and to give his life as a ransom for many." Fast-paced; "immediately" marks the narrative.
 

@@ -1,8 +1,8 @@
 ---
-title: Deuteronomy
+title: "05 - Deuteronomy"
 ---
 
-# Deuteronomy
+# 05 - Deuteronomy
 
 **TLDR:** Moses' farewell: restating the law, calling Israel to love and obey the LORD, and pointing to a prophet like him. "Hear, O Israel: the LORD our God, the LORD is one. Love the LORD your God with all your heart."
 

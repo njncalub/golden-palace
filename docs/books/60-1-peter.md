@@ -1,8 +1,8 @@
 ---
-title: 1 Peter
+title: "60 - 1 Peter"
 ---
 
-# 1 Peter
+# 60 - 1 Peter
 
 **TLDR:** To exiles scattered abroad: you are chosen, born again to a living hope. Suffer well; live as strangers and aliens in reverent fear. "You are a chosen people, a royal priesthood, a holy nation."
 

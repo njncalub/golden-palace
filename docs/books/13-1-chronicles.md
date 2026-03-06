@@ -1,8 +1,8 @@
 ---
-title: 1 Chronicles
+title: "13 - 1 Chronicles"
 ---
 
-# 1 Chronicles
+# 13 - 1 Chronicles
 
 **TLDR:** Genealogies from Adam to the exile, then David's reign: ark, covenant, and preparation for the temple. A post-exilic retelling that anchors Israel's identity in the line of David and the hope of the temple.
 

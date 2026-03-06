@@ -1,8 +1,8 @@
 ---
-title: Jonah
+title: "32 - Jonah"
 ---
 
-# Jonah
+# 32 - Jonah
 
 **TLDR:** Jonah runs from God's call to Nineveh; a fish swallows him. He preaches, Nineveh repents, and Jonah is angry that God is merciful. "Salvation comes from the LORD."
 

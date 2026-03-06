@@ -1,8 +1,8 @@
 ---
-title: Titus
+title: "56 - Titus"
 ---
 
-# Titus
+# 56 - Titus
 
 **TLDR:** Paul left Titus in Crete to put things in order: appoint elders, silence false teachers, and teach what accords with sound doctrine. "For the grace of God has appeared that offers salvation to all people" — live self-controlled, upright, godly lives.
 

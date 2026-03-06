@@ -1,8 +1,8 @@
 ---
-title: Ephesians
+title: "49 - Ephesians"
 ---
 
-# Ephesians
+# 49 - Ephesians
 
 **TLDR:** In Christ we are chosen, redeemed, and sealed; the church is His body and the mystery of Jew and Gentile as one. "For it is by grace you have been saved, through faith — and this is not from yourselves, it is the gift of God."
 

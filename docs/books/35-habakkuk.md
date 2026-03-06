@@ -1,8 +1,8 @@
 ---
-title: Habakkuk
+title: "35 - Habakkuk"
 ---
 
-# Habakkuk
+# 35 - Habakkuk
 
 **TLDR:** The prophet questions God: why do the wicked prosper? God answers: I am raising Babylon; then I will judge them. "The righteous will live by faith" — quoted in Romans and Hebrews.
 

@@ -1,8 +1,8 @@
 ---
-title: Philemon
+title: "57 - Philemon"
 ---
 
-# Philemon
+# 57 - Philemon
 
 **TLDR:** Paul's shortest letter: a personal appeal for Onesimus, a runaway slave who became a brother in Christ. Receive him back "no longer as a slave but as a dear brother." Love and freedom in the gospel.
 

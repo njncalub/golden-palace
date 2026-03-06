@@ -1,8 +1,8 @@
 ---
-title: Jeremiah
+title: "24 - Jeremiah"
 ---
 
-# Jeremiah
+# 24 - Jeremiah
 
 **TLDR:** The weeping prophet: call to speak judgment to Judah; Babylon will take the city; a new covenant is promised. Jeremiah is opposed and imprisoned but remains faithful.
 

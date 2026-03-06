@@ -1,8 +1,8 @@
 ---
-title: Ezekiel
+title: "26 - Ezekiel"
 ---
 
-# Ezekiel
+# 26 - Ezekiel
 
 **TLDR:** Prophet to the exiles: God's glory leaves the temple; judgment is certain. Then dry bones live, a new temple is shown, and God's glory returns. Visions and signs mark the book.
 

@@ -1,8 +1,8 @@
 ---
-title: Galatians
+title: "48 - Galatians"
 ---
 
-# Galatians
+# 48 - Galatians
 
 **TLDR:** No gospel other than Christ crucified; justification is by faith, not works of the law. "I have been crucified with Christ; I no longer live, but Christ lives in me." Paul confronts those who would require circumcision.
 

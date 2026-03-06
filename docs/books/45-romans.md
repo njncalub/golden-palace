@@ -1,8 +1,8 @@
 ---
-title: Romans
+title: "45 - Romans"
 ---
 
-# Romans
+# 45 - Romans
 
 **TLDR:** Paul's fullest letter: all have sinned; righteousness comes by faith in Christ; the Spirit gives life and hope. "Therefore, since we have been justified through faith, we have peace with God." Ethics flow from mercy.
 

@@ -1,8 +1,8 @@
 ---
-title: 1 Samuel
+title: "09 - 1 Samuel"
 ---
 
-# 1 Samuel
+# 09 - 1 Samuel
 
 **TLDR:** Transition from judges to king: Samuel the prophet, the failure of Eli's house, the ark, Saul's rise and fall, and David's anointing and early years. "The LORD does not look at the things people look at. People look at the outward appearance, but the LORD looks at the heart."
 

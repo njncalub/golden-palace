@@ -1,8 +1,8 @@
 ---
-title: Hosea
+title: "28 - Hosea"
 ---
 
-# Hosea
+# 28 - Hosea
 
 **TLDR:** God commands Hosea to marry an unfaithful woman as a picture of Israel's adultery (idolatry). Judgment is declared, but "I will heal their waywardness; I will love them freely."
 

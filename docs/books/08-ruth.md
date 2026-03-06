@@ -1,8 +1,8 @@
 ---
-title: Ruth
+title: "08 - Ruth"
 ---
 
-# Ruth
+# 08 - Ruth
 
 **TLDR:** In the days of the judges, a Moabite widow clings to the God of Israel and is redeemed by Boaz. Her loyalty and his kindness lead to the line of David — and of Christ.
 

@@ -1,8 +1,8 @@
 ---
-title: Acts
+title: "44 - Acts"
 ---
 
-# Acts
+# 44 - Acts
 
 **TLDR:** The Spirit drives the church from Jerusalem to Rome. Peter and Paul; Pentecost, persecution, and the inclusion of the Gentiles. "You will be my witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth."
 

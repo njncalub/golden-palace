@@ -1,8 +1,8 @@
 ---
-title: Jude
+title: "65 - Jude"
 ---
 
-# Jude
+# 65 - Jude
 
 **TLDR:** Contend for the faith; certain people have slipped in and pervert grace into license. Remember the angels, Sodom, and the prophecy of Enoch. "Keep yourselves in God's love." Build yourselves up in the faith; mercy to the doubting.
 

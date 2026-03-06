@@ -1,8 +1,8 @@
 ---
-title: Revelation
+title: "66 - Revelation"
 ---
 
-# Revelation
+# 66 - Revelation
 
 **TLDR:** The revelation of Jesus Christ: letters to seven churches, visions of throne and Lamb, seals and trumpets and bowls, the fall of Babylon, and the new Jerusalem. "He is coming with the clouds." "Amen. Come, Lord Jesus."
 

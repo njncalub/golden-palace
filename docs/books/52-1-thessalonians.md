@@ -1,8 +1,8 @@
 ---
-title: 1 Thessalonians
+title: "52 - 1 Thessalonians"
 ---
 
-# 1 Thessalonians
+# 52 - 1 Thessalonians
 
 **TLDR:** Paul encourages a young church under pressure: you turned from idols to the living God; live to please God; the Lord will return — the dead in Christ will rise first. "Encourage one another with these words."
 

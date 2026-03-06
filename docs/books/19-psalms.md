@@ -1,8 +1,8 @@
 ---
-title: Psalms
+title: "19 - Psalms"
 ---
 
-# Psalms
+# 19 - Psalms
 
 **TLDR:** The prayer and praise book of Israel: 150 psalms covering lament, thanksgiving, trust, wisdom, and royal/messianic themes. "Let everything that has breath praise the LORD."
 

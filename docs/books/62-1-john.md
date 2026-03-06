@@ -1,8 +1,8 @@
 ---
-title: 1 John
+title: "62 - 1 John"
 ---
 
-# 1 John
+# 62 - 1 John
 
 **TLDR:** We have heard, seen, touched the Word of life. God is light; God is love. Walk in the light; love one another; believe in the name of the Son. "Perfect love drives out fear." Assurance and obedience together.
 

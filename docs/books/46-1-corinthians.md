@@ -1,8 +1,8 @@
 ---
-title: 1 Corinthians
+title: "46 - 1 Corinthians"
 ---
 
-# 1 Corinthians
+# 46 - 1 Corinthians
 
 **TLDR:** Paul corrects a divided church: factions, immorality, lawsuits, marriage, food offered to idols, worship, and the resurrection. "Now these three remain: faith, hope and love. But the greatest of these is love."
 

@@ -1,8 +1,8 @@
 ---
-title: Lamentations
+title: "25 - Lamentations"
 ---
 
-# Lamentations
+# 25 - Lamentations
 
 **TLDR:** Five poems of grief over the fall of Jerusalem. Acrostic structure; raw lament and confession. "Because of the LORD's great love we are not consumed" — hope in the midst of affliction.
 

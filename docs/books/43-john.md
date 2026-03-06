@@ -1,8 +1,8 @@
 ---
-title: John
+title: "43 - John"
 ---
 
-# John
+# 43 - John
 
 **TLDR:** The Word became flesh — Jesus is God's Son, and the Gospel is written "that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name" (John 20:31). Signs, "I am" sayings, and the Upper Room frame the book.
 

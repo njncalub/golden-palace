@@ -1,8 +1,8 @@
 ---
-title: 2 Peter
+title: "61 - 2 Peter"
 ---
 
-# 2 Peter
+# 61 - 2 Peter
 
 **TLDR:** Peter's "second letter": remember the truth; be on guard against false teachers who deny the Lord's return. "The Lord is not slow in keeping his promise." Grow in grace and knowledge; the day of the Lord will come.
 

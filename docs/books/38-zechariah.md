@@ -1,8 +1,8 @@
 ---
-title: Zechariah
+title: "38 - Zechariah"
 ---
 
-# Zechariah
+# 38 - Zechariah
 
 **TLDR:** Visions and oracles for the restored community: lampstand, branches, flying scroll; a priest-king; the coming king on a donkey. "Not by might nor by power, but by my Spirit," says the LORD.
 

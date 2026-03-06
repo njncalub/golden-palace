@@ -1,8 +1,8 @@
 ---
-title: Luke
+title: "42 - Luke"
 ---
 
-# Luke
+# 42 - Luke
 
 **TLDR:** An orderly account for Theophilus: Jesus as the Savior of all — from the manger to the ascension. Emphasis on women, the poor, and the Spirit. "The Son of Man came to seek and to save the lost."
 

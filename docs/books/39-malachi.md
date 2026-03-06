@@ -1,8 +1,8 @@
 ---
-title: Malachi
+title: "39 - Malachi"
 ---
 
-# Malachi
+# 39 - Malachi
 
 **TLDR:** The last OT prophet: priests and people are half-hearted — defiled offerings, broken vows, no tithes. "Bring the full tithe." A messenger will prepare the way; the sun of righteousness will rise. Then the NT opens with John the Baptist and Jesus.
 

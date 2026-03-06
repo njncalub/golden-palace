@@ -1,8 +1,8 @@
 ---
-title: Numbers
+title: "04 - Numbers"
 ---
 
-# Numbers
+# 04 - Numbers
 
 **TLDR:** Israel in the wilderness: numbering, rebellion, and the death of the Exodus generation. The next generation is prepared to enter the land. "The LORD is slow to anger and abounding in steadfast love."
 

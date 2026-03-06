@@ -1,8 +1,8 @@
 ---
-title: 2 Thessalonians
+title: "53 - 2 Thessalonians"
 ---
 
-# 2 Thessalonians
+# 53 - 2 Thessalonians
 
 **TLDR:** The day of the Lord has not yet come; don't be shaken. The man of lawlessness will be revealed; stand firm. "Do not become weary in doing good." Corrects confusion about the timing of Christ's return.
 

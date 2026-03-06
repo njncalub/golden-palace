@@ -1,8 +1,8 @@
 ---
-title: Matthew
+title: "40 - Matthew"
 ---
 
-# Matthew
+# 40 - Matthew
 
 **TLDR:** Jesus is the Messiah, Son of David and Son of God — from Bethlehem to the Great Commission. Matthew ties Jesus to Old Testament prophecy and presents the kingdom of heaven, the Sermon on the Mount, and the church.
 

@@ -1,8 +1,8 @@
 ---
-title: Judges
+title: "07 - Judges"
 ---
 
-# Judges
+# 07 - Judges
 
 **TLDR:** After Joshua, Israel cycles through sin, oppression, crying out, and deliverance by judges. "In those days Israel had no king; everyone did as they saw fit." A dark period pointing to the need for a true King.
 

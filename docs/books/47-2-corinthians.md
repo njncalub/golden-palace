@@ -1,8 +1,8 @@
 ---
-title: 2 Corinthians
+title: "47 - 2 Corinthians"
 ---
 
-# 2 Corinthians
+# 47 - 2 Corinthians
 
 **TLDR:** Paul defends his ministry and his love for the church: suffering and comfort, the new covenant, and the collection for Jerusalem. "When I am weak, then I am strong." He urges reconciliation and generosity.
 

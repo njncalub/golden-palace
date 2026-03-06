@@ -1,8 +1,8 @@
 ---
-title: Ecclesiastes
+title: "21 - Ecclesiastes"
 ---
 
-# Ecclesiastes
+# 21 - Ecclesiastes
 
 **TLDR:** "Meaningless, meaningless" — the Teacher tests wisdom, pleasure, and toil and finds that under the sun nothing finally satisfies. The conclusion: fear God and keep His commands; enjoy the gift of each day.
 

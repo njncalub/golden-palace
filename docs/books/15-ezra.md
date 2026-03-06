@@ -1,8 +1,8 @@
 ---
-title: Ezra
+title: "15 - Ezra"
 ---
 
-# Ezra
+# 15 - Ezra
 
 **TLDR:** Return from exile: the temple is rebuilt under Zerubbabel, and later Ezra leads a second wave and restores the law and worship. Opposition and renewal mark the book.
 

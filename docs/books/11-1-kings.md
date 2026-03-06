@@ -1,8 +1,8 @@
 ---
-title: 1 Kings
+title: "11 - 1 Kings"
 ---
 
-# 1 Kings
+# 11 - 1 Kings
 
 **TLDR:** Solomon's reign, the temple, wisdom and splendor — then his fall and the kingdom split into Israel (north) and Judah (south). The rest of 1 Kings follows the two kingdoms and the prophets Elijah and the word of the LORD.
 

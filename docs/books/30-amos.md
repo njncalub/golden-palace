@@ -1,8 +1,8 @@
 ---
-title: Amos
+title: "30 - Amos"
 ---
 
-# Amos
+# 30 - Amos
 
 **TLDR:** A shepherd from Judah prophesies to Israel (north): judgment for oppression and empty religion. "Let justice roll on like a river." A remnant and restoration are promised.
 

@@ -1,8 +1,8 @@
 ---
-title: Zephaniah
+title: "36 - Zephaniah"
 ---
 
-# Zephaniah
+# 36 - Zephaniah
 
 **TLDR:** The day of the LORD — judgment on Judah and the nations. "Seek the LORD, all you humble of the land." A remnant will be restored; the LORD will rejoice over them with singing.
 

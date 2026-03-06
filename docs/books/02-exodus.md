@@ -1,8 +1,8 @@
 ---
-title: Exodus
+title: "02 - Exodus"
 ---
 
-# Exodus
+# 02 - Exodus
 
 **TLDR:** God rescues Israel from Egypt, gives the law at Sinai, and instructs the tabernacle. Moses leads; the Passover and Red Sea mark deliverance. The covenant and the pattern of worship are established.
 

@@ -1,8 +1,8 @@
 ---
-title: Micah
+title: "33 - Micah"
 ---
 
-# Micah
+# 33 - Micah
 
 **TLDR:** Judgment on Israel and Judah for injustice and idolatry; then a ruler from Bethlehem and peace. "He has shown you, O mortal, what is good: act justly, love mercy, walk humbly with your God."
 

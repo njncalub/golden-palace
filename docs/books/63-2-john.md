@@ -1,8 +1,8 @@
 ---
-title: 2 John
+title: "63 - 2 John"
 ---
 
-# 2 John
+# 63 - 2 John
 
 **TLDR:** The shortest NT book (by verse count in one chapter): love one another; watch out for deceivers who do not acknowledge Jesus Christ as coming in the flesh. "Walk in love." Do not welcome such into your house.
 

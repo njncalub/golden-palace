@@ -1,8 +1,8 @@
 ---
-title: Esther
+title: "17 - Esther"
 ---
 
-# Esther
+# 17 - Esther
 
 **TLDR:** A Jewish queen in Persia risks her life to save her people from genocide. God's name never appears, but His providence is clear. "For such a time as this."
 

@@ -1,8 +1,8 @@
 ---
-title: 1 Timothy
+title: "54 - 1 Timothy"
 ---
 
-# 1 Timothy
+# 54 - 1 Timothy
 
 **TLDR:** Paul's charge to Timothy: guard the faith, appoint qualified leaders, and teach sound doctrine. "Fight the good fight of the faith." Instructions for men and women, elders, deacons, and the rich.
 

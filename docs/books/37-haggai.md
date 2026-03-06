@@ -1,8 +1,8 @@
 ---
-title: Haggai
+title: "37 - Haggai"
 ---
 
-# Haggai
+# 37 - Haggai
 
 **TLDR:** After the return, the temple lies in ruins. Haggai urges Zerubbabel and Joshua to rebuild: "Is it a time for you to dwell in paneled houses while this house remains a ruin?" They obey; God promises glory and blessing.
 

@@ -1,8 +1,8 @@
 ---
-title: 3 John
+title: "64 - 3 John"
 ---
 
-# 3 John
+# 64 - 3 John
 
 **TLDR:** A short letter to Gaius: support those who work for the truth; do not imitate Diotrephes, who loves to be first and refuses to welcome the brothers. "Dear friend, do not imitate what is evil but what is good."
 

@@ -1,8 +1,8 @@
 ---
-title: Philippians
+title: "50 - Philippians"
 ---
 
-# Philippians
+# 50 - Philippians
 
 **TLDR:** A letter of joy and partnership: "Rejoice in the Lord always." Christ's humility and exaltation (Philippians 2); pressing on; contentment. Written from prison; the Philippians have shared in Paul's troubles.
 
