@@ -32,7 +32,7 @@ The brain remembers **stories and images** far better than abstract data. A pers
 
 ### Why Golden? — Biblical Characters First
 
-Your palace stays **Golden** (Holy of Holies) when the pegs come from Scripture. Use **characters from the Bible itself** wherever possible — e.g. **Moses with his staff** (for 1 = Aleph = strength/leader, or 40 = 40 years in the wilderness), **David slinging a stone** (2 = Bet = house; David the shepherd who became king), **Esther with her crown** (queen who risked everything). That way the imagery that encodes verse references is itself Scripture-saturated. Only use modern teachers for numbers where no clear Biblical peg fits.
+Your palace stays **Golden** (Holy of Holies) when the pegs come from Scripture. Golden Palace uses **only biblical characters** for 00–99 — e.g. **Moses with his staff** (40 = 40 years in the wilderness), **David slinging a stone** (2 = Bet = house), **Esther with her crown**. The imagery that encodes verse references is itself Scripture-saturated. See the [PAO Library](/pao/) for the full set of pegs 00–99.
 
 ### Biblical PAO Library
 
@@ -45,13 +45,6 @@ Golden Palace prioritizes **Biblical figures** for the PAO library:
 - **40** = Moses **parting** the Red Sea
 
 Using Biblical figures means your memory palace is filled with Scripture heroes — not random celebrities or cartoon characters.
-
-### Modern Teacher PAO
-
-For numbers where Biblical figures don't naturally fit, you can use authorized modern teachers (pastors, theologians you respect):
-
-- Check the authorized teachers list in [AGENTS.md](https://github.com/njncalub/golden-palace/blob/main/AGENTS.md) (project root)
-- Use their name as a memory peg when it fits naturally
 
 ### Format
 

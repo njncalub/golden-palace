@@ -23,9 +23,7 @@ golden-palace/
 │   ├── books/              # One page per book of the Bible (FORMAT.md, index.md)
 │   ├── gematria/           # Gematria connections and theological discoveries
 │   ├── meditations/        # Visual meditation guides per verse (FORMAT.md, index.md)
-│   ├── pao/                # PAO library 00–99 (FORMAT.md, index.md)
-│   │   ├── biblical/       # Biblical figures PAO entries
-│   │   └── modern/         # Modern figures when no Biblical peg fits
+│   ├── pao/                # PAO library 00–99 (FORMAT.md, index.md, ROSTER.md, 00–99 peg pages)
 │   ├── techniques/         # How-to: mind palace, PAO, Major System, spaced repetition, gematria
 │   ├── tools/             # Prompts, study tools (e.g. Versify, Enduring Word)
 │   ├── verses/             # Individual verse memory entries (FORMAT.md, index.md)
@@ -46,7 +44,7 @@ Each content folder has a **FORMAT.md** (template + naming) and **index.md** (li
 | alphabet/    | `01-aleph.md` … `22-tav.md`                          |
 | verses/      | `john-3-16.md`, `ephesians-3-18-19.md`               |
 | meditations/ | Same as verse (e.g. `ephesians-3-18-19.md`)          |
-| pao/         | `02-david.md`, `40-moses.md` in biblical/ or modern/ |
+| pao/         | `00-god-over-waters.md`, `02-david.md`, `40-moses.md`, … `99-matthew.md` |
 | books/       | `01-genesis.md`, `43-john.md`, `66-revelation.md`    |
 | techniques/  | `mind-palace.md`, `pao.md` (kebab-case)              |
 

@@ -1,7 +1,7 @@
 {
   "[markdown]": {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
     "editor.codeActionsOnSave": {
       "source.fixAll.marklint": "explicit"
     }
@@ -10,5 +10,8 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "markdown.extension.italic.indicator": "_",
   "markdown.extension.list.indentationSize": "adaptive",
-  "markdown.extension.tableFormatter.enabled": true
+  "markdown.extension.tableFormatter.enabled": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
 }

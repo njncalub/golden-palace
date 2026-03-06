@@ -30,9 +30,7 @@ _"It is written. It is written. It is written."_
 golden-palace/
 ├── alphabet/           # Hebrew alephbet, 22 letters documented
 ├── gematria/           # Numerical connections and theological discoveries
-├── pao/                # Person-Action-Object library
-│   ├── biblical/       # Biblical figures (preferred foundation)
-│   └── modern/         # Trusted modern teachers and figures
+├── pao/                # Person-Action-Object library (biblical pegs 00–99)
 ├── major-system/       # Hebrew Major System, digits 0 through 9
 ├── palaces/            # Mind palace locations and verse assignments
 │   ├── home/
