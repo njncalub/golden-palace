@@ -3,6 +3,13 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   base: "/",
   title: "Golden Palace",
+  head: [
+    [
+      "script",
+      {},
+      "if (typeof location !== 'undefined' && location.protocol === 'http:' && location.hostname !== 'localhost') { location.replace('https:' + location.href.substring(location.protocol.length)); }",
+    ],
+  ],
   description:
     "A personal scripture memorization system built on Hebrew pictographs, gematria, PAO library, and mind palace architecture.",
 
